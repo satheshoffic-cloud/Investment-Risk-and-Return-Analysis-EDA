@@ -1,0 +1,1602 @@
+Investment_ID,Investor_ID,Investment_Date,Asset_Type,Sector,Risk_Level,Investment_Amount,Expected_Return_Pct,Actual_Return_Pct,Profit_Loss,Volatility_Pct,Holding_Period_Months,Region,Portfolio_Manager,Status
+INV01263,C0043,08-Apr-2025,etf,Automobile,Medium,88200,11.52,12.76,11254.32,13.67,12,HYDERABAD,Priya Nair,matured
+INV00337,C0403,16-Mar-2023,bond,Diversified,Very High,440200,28.94,66.35,292072.7,0.51,18,CHENNAI,Vikram Singh,active
+INV00264,C0276,10-Jul-2022,etf,Metals,Medium,76000,8.26,9.88,5947.76,15.64,48,DELHI,Priya Nair,active
+INV00297,C0154,10-Feb-2023,crypto,Diversified,Very High,504100,27.21,54.55,274986.55,0.51,12,PUNE,Vikram Singh,matured
+INV00487,C0324,29-Dec-2021,bond,Diversified,Low,27200,7.76,7.39,2010.08,5.34,18,KOLKATA,Arun Kumar,active
+INV00212,C0416,04-Oct-2021,etf,Banking,Medium,1231700,10.3,0.85,10469.45,13.48,48,PUNE,Sneha Iyer,active
+INV01085,C0301,30-Jan-2022,equity,Diversified,High,1117200,13.15,450.5,196850.64,24.33,6,BENGALURU,Vikram Singh,matured
+INV00435,C0302,27-Jul-2025,bond,Diversified,Low,205800,6.33,7.57,15579.06,4.62,12,BENGALURU,Vikram Singh,matured
+INV01598,C0324,20-Jul-2023,equity,Pharma,High,1597200,7.2,14.15,226003.8,21.75,12,BENGALURU,Divya Raj,matured
+INV01397,C0271,22-Mar-2021,fixed deposit,Diversified,Low,15000,6.38,6.5,975.0,0.5,18,KOLKATA,Arun Kumar,active
+INV00731,C0179,17-Mar-2021,bond,Diversified,Low,32800,4.94,10.23,3355.44,5.23,24,PUNE,Arun Kumar,matured
+INV01318,C0173,29-Jun-2023,real estate,Diversified,Medium,1011500,9.62,13.09,132405.35,12.18,60,KOLKATA,Divya Raj,active
+INV00017,C0081,19-Jul-2023,crypto,Diversified,Very High,22300,7.2,34.3,7648.9,49.42,6,KOLKATA,Divya Raj,closed
+INV00507,C0094,22-Aug-2021,mutual fund,Automobile,Medium,353700,8.46,18.59,65752.83,16.6,24,BENGALURU,Rahul Mehta,closed
+INV01516,C0115,03-Mar-2024,mutual fund,Metals,Medium,39000,10.88,10.48,4087.2,13.86,36,KOLKATA,Vikram Singh,matured
+INV01280,C0273,18-Nov-2025,gold,Diversified,Medium,547500,8.46,6.78,237017.88,10.84,36,CHENNAI,Priya Nair,matured
+INV01116,C0390,02-Nov-2021,equity,Automobile,High,1254100,14.93,450.5,400434.13,21.37,12,MUMBAI,Divya Raj,matured
+INV01600,C0062,19-Aug-2022,mutual fund,Pharma,Medium,717000,7.08,11.19,80232.3,0.51,48,KOLKATA,Vikram Singh,closed
+INV01468,C0431,02-Mar-2021,etf,Healthcare,Medium,301600,12.77,15.15,45692.4,13.68,18,CHENNAI,Divya Raj,matured
+INV00770,C0232,25-Dec-2023,equity,Diversified,High,76000,11.67,21.96,13834.8,23.18,24,HYDERABAD,Vikram Singh,closed
+INV00268,C0394,03-Jul-2021,crypto,Diversified,Very High,76000,23.06,9.06,11288.76,60.58,48,HYDERABAD,Priya Nair,matured
+INV01091,C0342,02-Sep-2023,gold,Diversified,Medium,23500,7.74,12.57,2953.95,10.95,48,KOLKATA,Sneha Iyer,matured
+INV00815,C0029,19-Aug-2022,etf,Diversified,Medium,6400,8.87,4.84,309.76,16.03,24,CHENNAI,Priya Nair,matured
+INV01241,C0377,02-Jul-2022,bond,Diversified,Low,48900,7.47,2.68,1310.52,5.85,6,KOLKATA,Vikram Singh,closed
+INV00313,C0417,30-Nov-2024,real estate,Diversified,Medium,61700,9.31,10.62,6552.54,10.71,48,BENGALURU,Karthik S,active
+INV00380,C0140,08-Oct-2021,mutual fund,Automobile,Medium,241900,8.16,13.36,32317.84,14.84,60,PUNE,Karthik S,active
+INV00780,C0004,29-Mar-2024,gold,Diversified,Medium,51200,8.06,4.09,2094.08,12.01,24,PUNE,Divya Raj,active
+INV00911,C0252,31-Oct-2023,gold,Diversified,Medium,126200,9.48,13.43,16948.66,14.02,18,HYDERABAD,Rahul Mehta,matured
+INV00651,C0075,25-Apr-2021,crypto,Diversified,Very High,36100,18.35,12.25,4422.25,67.57,18,PUNE,Sneha Iyer,active
+INV01060,C0144,04-Dec-2025,mutual fund,Automobile,Medium,66300,9.25,13.21,8758.23,15.37,24,HYDERABAD,Vikram Singh,closed
+INV00700,C0261,24-Dec-2024,fixed deposit,Diversified,Low,118500,5.71,5.96,7062.6,0.42,6,DELHI,Sneha Iyer,matured
+INV00256,C0226,05-Oct-2022,equity,Automobile,High,19800,10.73,30.14,5967.72,21.92,12,BENGALURU,Divya Raj,active
+INV00468,C0422,09-Aug-2023,crypto,Diversified,Very High,65500,27.01,51.13,33490.15,67.11,36,BENGALURU,Divya Raj,active
+INV00992,C0010,12-Jan-2021,real estate,Diversified,Medium,25800,7.2,14.86,3833.88,10.91,24,CHENNAI,Arun Kumar,active
+INV00104,C0353,15-Sep-2022,real estate,Diversified,Medium,724400,10.67,16.04,116193.76,9.78,48,BENGALURU,Rahul Mehta,matured
+INV00121,C0065,26-Oct-2023,bond,Diversified,Low,1564800,7.01,6.7,104841.6,0.51,36,DELHI,Karthik S,active
+INV01059,C0274,28-Feb-2024,real estate,Diversified,Medium,7600,7.2,2.57,195.32,9.25,6,BENGALURU,Vikram Singh,closed
+INV00201,C0203,26-Oct-2023,crypto,Diversified,Very High,10100,27.84,51.52,237017.88,54.47,18,MUMBAI,Sneha Iyer,active
+INV01457,C0410,08-Aug-2021,real estate,Diversified,Medium,492900,9.89,450.5,4879.71,10.22,24,BENGALURU,Karthik S,closed
+INV00107,C0090,22-Aug-2023,real estate,Diversified,Medium,13600,11.53,12.01,1633.36,9.87,36,KOLKATA,Sneha Iyer,closed
+INV01436,C0157,11-Jan-2021,real estate,Diversified,Medium,16300,8.36,11.79,1921.77,9.37,24,DELHI,Vikram Singh,active
+INV00991,C0447,17-Jul-2025,real estate,Diversified,Medium,391700,7.84,1.05,4112.85,9.93,12,MUMBAI,Priya Nair,active
+INV00504,C0152,25-Jun-2022,gold,Diversified,Medium,1588700,9.77,8.74,138852.38,10.63,24,CHENNAI,Arun Kumar,active
+INV00955,C0286,18-Aug-2024,gold,Diversified,Medium,15500,6.68,9.3,1441.5,12.82,36,KOLKATA,Priya Nair,active
+INV00511,C0058,23-Dec-2025,bond,Diversified,Low,1520400,6.64,7.31,111141.24,4.12,24,BENGALURU,Arun Kumar,active
+INV00509,C0303,16-Sep-2023,bond,Diversified,Low,25400,6.14,11.36,2885.44,5.54,60,HYDERABAD,Divya Raj,matured
+INV00822,C0073,01-Apr-2025,crypto,Diversified,Very High,18000,20.36,49.29,8872.2,0.51,24,MUMBAI,Divya Raj,closed
+INV01279,C0357,22-Sep-2021,equity,FMCG,High,60000,10.25,23.33,13998.0,21.13,6,HYDERABAD,Arun Kumar,matured
+INV01571,C0130,24-Apr-2023,gold,Diversified,Medium,13700,7.27,9.87,1352.19,0.51,18,KOLKATA,Rahul Mehta,active
+INV00669,C0429,07-Mar-2023,mutual fund,Pharma,Medium,11700,7.16,7.17,237017.88,14.3,36,HYDERABAD,Divya Raj,matured
+INV00138,C0240,04-Jun-2021,real estate,Diversified,Medium,351100,9.14,14.55,51085.05,8.47,12,PUNE,Priya Nair,matured
+INV00374,C0429,31-Jul-2023,equity,Technology,High,30700,13.89,28.39,8715.73,24.43,6,PUNE,Priya Nair,closed
+INV00627,C0131,03-Sep-2023,bond,Diversified,Low,8200,4.86,7.08,580.56,4.6,60,KOLKATA,Arun Kumar,matured
+INV00047,C0182,17-May-2025,bond,Diversified,Medium,95000,8.98,10.18,9671.0,10.52,36,PUNE,Vikram Singh,matured
+INV00888,C0040,27-Aug-2021,mutual fund,Healthcare,Medium,530200,8.66,1.62,8589.24,14.84,6,BENGALURU,Rahul Mehta,closed
+INV00961,C0121,19-Jun-2024,equity,Pharma,High,157600,7.97,2.71,4270.96,17.33,12,DELHI,Vikram Singh,matured
+INV00898,C0055,06-Jan-2022,crypto,Diversified,Very High,52000,24.08,20.06,10431.2,59.76,60,BENGALURU,Sneha Iyer,closed
+INV01558,C0430,03-Jan-2024,bond,Diversified,Very High,118900,18.88,14.29,237017.88,62.88,24,PUNE,Divya Raj,active
+INV00052,C0205,23-Oct-2024,real estate,Diversified,Medium,310400,11.38,7.7,237017.88,10.29,60,HYDERABAD,Rahul Mehta,active
+INV01546,C0252,17-Feb-2024,gold,Diversified,Medium,10300,4.5,450.5,330.63,12.63,36,MUMBAI,Divya Raj,active
+INV00956,C0437,12-Dec-2021,etf,Technology,Medium,64600,10.49,4.4,2842.4,13.74,24,HYDERABAD,Sneha Iyer,matured
+INV01098,C0071,16-Feb-2023,mutual fund,Banking,Medium,14300,6.27,8.94,1278.42,15.79,18,MUMBAI,Rahul Mehta,closed
+INV00010,C0328,10-Nov-2024,fixed deposit,Diversified,Low,159000,7.18,7.09,237017.88,0.47,36,MUMBAI,Divya Raj,closed
+INV01404,C0062,16-Sep-2021,bond,Diversified,Low,59200,7.2,4.09,2421.28,4.87,18,PUNE,Priya Nair,matured
+INV00002,C0048,24-Mar-2022,mutual fund,Energy,Medium,315900,12.28,10.68,33738.12,13.67,36,HYDERABAD,Arun Kumar,matured
+INV00820,C0378,21-Oct-2024,fixed deposit,Diversified,Low,352900,7.04,7.18,25338.22,0.51,24,DELHI,Arun Kumar,matured
+INV01594,C0140,30-Nov-2025,crypto,Diversified,Very High,406900,13.09,22.08,89843.52,61.67,12,BENGALURU,Rahul Mehta,active
+INV01203,C0275,24-Jan-2022,equity,Automobile,High,66200,10.6,5.85,3872.7,24.38,24,DELHI,Karthik S,closed
+INV00303,C0123,05-Feb-2024,gold,Diversified,Medium,74700,7.2,10.53,7865.91,12.9,18,PUNE,Rahul Mehta,closed
+INV00233,C0166,23-Dec-2024,bond,Diversified,Low,76500,6.82,8.84,6762.6,4.37,12,DELHI,Vikram Singh,closed
+INV00707,C0298,14-Jan-2024,bond,Diversified,Low,93900,7.2,9.91,9305.49,4.9,48,BENGALURU,Vikram Singh,active
+INV01087,C0409,01-Apr-2021,etf,Technology,Medium,42200,12.96,10.92,4608.24,17.15,12,DELHI,Vikram Singh,closed
+INV01198,C0344,10-Sep-2021,gold,Diversified,Medium,126600,8.72,2.2,2785.2,0.51,48,MUMBAI,Vikram Singh,matured
+INV01082,C0313,06-Jul-2024,equity,Automobile,High,654800,13.91,22.25,145693.0,21.62,6,BENGALURU,Divya Raj,matured
+INV01456,C0149,29-Sep-2024,gold,Diversified,Medium,1080500,10.52,10.7,115613.5,11.37,6,HYDERABAD,Sneha Iyer,closed
+INV00289,C0140,11-Oct-2024,equity,Metals,High,15800,10.9,13.92,2199.36,21.15,24,HYDERABAD,Sneha Iyer,active
+INV00082,C0175,26-Jan-2021,crypto,Diversified,Medium,27600,28.25,19.42,5359.92,52.8,60,BENGALURU,Karthik S,closed
+INV00855,C0228,19-Feb-2025,bond,Diversified,Low,946700,5.6,3.3,31241.1,5.13,48,CHENNAI,Rahul Mehta,active
+INV01057,C0238,26-Aug-2025,etf,Diversified,Medium,6000,10.84,4.04,242.4,14.38,18,KOLKATA,Priya Nair,active
+INV00957,C0189,15-Dec-2021,real estate,Diversified,Medium,34500,11.88,8.3,237017.88,11.23,36,CHENNAI,Vikram Singh,matured
+INV00919,C0304,23-Jun-2021,gold,Diversified,Medium,93600,7.91,9.03,8452.08,11.46,48,CHENNAI,Karthik S,closed
+INV00922,C0414,28-Sep-2023,fixed deposit,Diversified,Low,293100,7.2,450.5,18787.71,0.51,24,KOLKATA,Divya Raj,active
+INV01137,C0038,01-Aug-2024,gold,Diversified,Medium,10600,7.73,2.85,302.1,14.46,48,KOLKATA,Divya Raj,closed
+INV00792,C0432,08-Dec-2022,bond,Diversified,Low,88300,6.99,11.02,9730.66,5.56,6,KOLKATA,Rahul Mehta,active
+INV00794,C0075,23-Dec-2023,fixed deposit,Diversified,Low,537300,7.07,6.78,36428.94,0.45,60,BENGALURU,Arun Kumar,closed
+INV00469,C0305,03-Jul-2023,equity,Healthcare,High,72900,13.79,0.67,488.43,20.34,60,BENGALURU,Vikram Singh,matured
+INV00523,C0101,20-Jan-2022,fixed deposit,Diversified,Low,21400,6.87,6.4,1369.6,0.53,6,PUNE,Sneha Iyer,active
+INV00139,C0203,29-Jan-2021,fixed deposit,Diversified,Low,172600,7.14,7.61,13134.86,0.46,18,HYDERABAD,Arun Kumar,closed
+INV00615,C0429,20-Jun-2024,gold,Diversified,Medium,107600,7.34,8.31,8941.56,12.11,18,MUMBAI,Karthik S,active
+INV00396,C0140,09-Dec-2023,equity,Banking,High,351800,13.69,11.46,40316.28,19.84,18,KOLKATA,Vikram Singh,matured
+INV00765,C0281,22-Nov-2021,fixed deposit,Diversified,Low,91600,6.89,6.64,6082.24,0.46,24,BENGALURU,Arun Kumar,closed
+INV01529,C0376,11-Jan-2022,real estate,Diversified,Medium,1300100,10.69,16.41,237017.88,11.19,48,PUNE,Vikram Singh,matured
+INV01365,C0408,30-Apr-2023,real estate,Diversified,Medium,143800,10.81,17.12,24618.56,0.51,48,MUMBAI,Arun Kumar,closed
+INV00568,C0101,24-Jun-2022,real estate,Diversified,Medium,74600,11.81,17.71,13211.66,10.63,48,KOLKATA,Arun Kumar,matured
+INV01478,C0280,29-Nov-2024,real estate,Diversified,Medium,609300,7.32,4.45,27113.85,10.23,6,HYDERABAD,Sneha Iyer,closed
+INV00514,C0347,06-Aug-2024,gold,Diversified,Medium,945700,4.55,15.16,237017.88,11.97,24,MUMBAI,Karthik S,matured
+INV00789,C0190,13-Jul-2025,bond,Diversified,Low,63000,5.89,4.34,2734.2,5.77,12,DELHI,Karthik S,matured
+INV00960,C0097,07-May-2023,gold,Diversified,Medium,132700,7.2,6.04,8015.08,12.35,12,BENGALURU,Karthik S,active
+INV01463,C0311,11-Sep-2024,etf,Healthcare,Medium,781300,9.87,10.81,84458.53,12.85,36,KOLKATA,Vikram Singh,matured
+INV00414,C0168,31-Oct-2021,equity,Banking,High,107700,7.2,12.78,13764.06,21.17,48,MUMBAI,Rahul Mehta,closed
+INV00495,C0334,11-Jun-2025,bond,Diversified,Low,24200,8.18,8.72,2110.24,4.8,6,BENGALURU,Divya Raj,closed
+INV00457,C0414,18-May-2021,real estate,Diversified,Medium,377700,10.27,9.48,35805.96,9.12,6,BENGALURU,Vikram Singh,closed
+INV00570,C0279,11-Jan-2024,bond,Diversified,Medium,11500,10.28,4.51,518.65,11.84,24,KOLKATA,Karthik S,active
+INV00051,C0338,31-Jan-2022,real estate,Diversified,Medium,61700,11.41,7.89,4868.13,10.35,24,DELHI,Rahul Mehta,active
+INV01130,C0004,20-Oct-2021,gold,Diversified,Medium,875400,8.09,450.5,78786.0,13.03,24,CHENNAI,Karthik S,closed
+INV01138,C0439,03-Feb-2022,fixed deposit,Diversified,Low,336500,6.39,6.14,237017.88,0.6,24,CHENNAI,Arun Kumar,closed
+INV01285,C0128,14-Aug-2025,real estate,Diversified,Medium,12400,13.14,11.52,1428.48,8.89,12,HYDERABAD,Arun Kumar,active
+INV00882,C0183,10-Apr-2021,crypto,Diversified,Very High,618100,22.55,450.5,9704.17,53.46,18,DELHI,Vikram Singh,matured
+INV00679,C0155,14-Jan-2021,equity,FMCG,High,79700,13.91,19.42,15477.74,28.07,12,MUMBAI,Karthik S,closed
+INV01465,C0376,22-Nov-2021,mutual fund,Energy,Medium,6300,10.49,16.05,1011.15,13.25,6,KOLKATA,Arun Kumar,closed
+INV00353,C0301,19-Aug-2022,crypto,Diversified,Very High,605700,24.9,43.12,261177.84,67.04,18,BENGALURU,Karthik S,closed
+INV01499,C0425,26-Jun-2024,gold,Diversified,Medium,9400,9.03,3.39,318.66,14.01,24,PUNE,Sneha Iyer,matured
+INV00609,C0289,18-Sep-2023,real estate,Diversified,Medium,76000,11.28,5.59,87544.99,0.51,60,MUMBAI,Karthik S,closed
+INV01450,C0369,19-Aug-2022,bond,Diversified,Low,122800,4.96,450.5,4531.32,4.53,60,BENGALURU,Vikram Singh,matured
+INV01562,C0380,01-Dec-2025,fixed deposit,Diversified,Low,365600,6.09,6.29,22996.24,0.45,18,PUNE,Arun Kumar,active
+INV00668,C0067,01-Jan-2022,mutual fund,Technology,Medium,14400,9.78,7.8,1123.2,12.89,12,CHENNAI,Sneha Iyer,active
+INV00703,C0257,19-Jul-2022,real estate,Diversified,Medium,119700,9.51,7.76,9288.72,10.64,60,CHENNAI,Divya Raj,closed
+INV01074,C0239,12-Oct-2023,real estate,Diversified,Medium,32000,12.19,15.58,4985.6,8.95,18,HYDERABAD,Karthik S,active
+INV00318,C0170,04-Mar-2024,etf,Banking,Medium,622500,11.58,21.05,131036.25,13.12,36,CHENNAI,Priya Nair,active
+INV01097,C0126,01-Jan-2022,bond,Diversified,Low,361900,5.89,9.34,33801.46,0.51,12,CHENNAI,Priya Nair,closed
+INV01115,C0145,12-Aug-2025,real estate,Diversified,Medium,13700,9.31,3.89,532.93,11.23,18,PUNE,Sneha Iyer,closed
+INV01196,C0124,14-May-2022,mutual fund,Energy,Medium,1262600,8.06,2.08,26262.08,13.03,12,PUNE,Divya Raj,matured
+INV00709,C0430,07-Dec-2025,mutual fund,Healthcare,Medium,19600,10.03,1.31,256.76,14.77,48,CHENNAI,Karthik S,closed
+INV00793,C0244,10-Sep-2022,equity,Pharma,High,53200,11.35,7.41,3942.12,19.08,24,PUNE,Vikram Singh,active
+INV00872,C0148,02-Dec-2021,etf,Automobile,Medium,701800,10.99,450.5,114393.4,15.9,48,BENGALURU,Priya Nair,matured
+INV01248,C0339,14-Aug-2025,crypto,Diversified,Very High,119600,26.95,32.15,38451.4,61.93,36,KOLKATA,Vikram Singh,active
+INV01595,C0270,04-Feb-2022,equity,Technology,High,78200,8.96,36.31,28394.42,19.85,24,DELHI,Rahul Mehta,active
+INV00708,C0395,25-Oct-2021,real estate,Diversified,Medium,51500,12.29,10.98,5654.7,9.98,48,HYDERABAD,Priya Nair,closed
+INV01171,C0020,12-Sep-2021,real estate,Diversified,Medium,25200,13.01,20.82,5246.64,9.12,24,HYDERABAD,Priya Nair,active
+INV01427,C0007,23-Aug-2025,etf,Infrastructure,Medium,96400,10.89,27.16,26182.24,15.55,18,KOLKATA,Rahul Mehta,matured
+INV01287,C0030,05-Jul-2024,fixed deposit,Diversified,Low,92500,6.06,5.92,5476.0,0.51,60,CHENNAI,Karthik S,closed
+INV01515,C0299,08-Mar-2021,crypto,Diversified,Very High,73400,7.2,28.61,20999.74,56.41,24,KOLKATA,Priya Nair,closed
+INV00984,C0175,08-Aug-2023,fixed deposit,Diversified,Low,16000,5.14,5.37,859.2,0.56,48,MUMBAI,Divya Raj,matured
+INV00132,C0359,28-Aug-2022,fixed deposit,Diversified,Low,293700,8.67,8.53,25052.61,0.56,6,PUNE,Divya Raj,closed
+INV00366,C0150,16-Aug-2022,bond,Diversified,Low,394800,6.42,1.38,5448.24,5.04,36,DELHI,Karthik S,matured
+INV01438,C0376,07-Feb-2022,mutual fund,Automobile,Medium,99999999,7.38,10.2,7578.6,14.69,36,CHENNAI,Rahul Mehta,active
+INV00802,C0130,27-Aug-2022,bond,Diversified,Low,32400,6.24,450.5,3288.6,5.84,24,KOLKATA,Arun Kumar,matured
+INV01157,C0020,03-May-2022,bond,Diversified,Low,402200,6.06,5.84,23488.48,4.89,48,HYDERABAD,Sneha Iyer,matured
+INV01224,C0107,10-Sep-2024,mutual fund,Banking,Medium,33800,10.51,17.24,5827.12,15.44,24,PUNE,Vikram Singh,matured
+INV00221,C0348,20-May-2025,equity,Pharma,High,72400,10.97,10.63,7696.12,20.8,6,MUMBAI,Arun Kumar,active
+INV01353,C0235,30-Oct-2021,crypto,Diversified,Very High,76000,30.48,60.63,237017.88,62.69,24,PUNE,Vikram Singh,active
+INV01109,C0239,16-Nov-2023,crypto,Diversified,Very High,88800,29.14,29.06,25805.28,62.85,36,DELHI,Sneha Iyer,closed
+INV00920,C0276,30-Oct-2022,mutual fund,Technology,Medium,192400,8.86,12.73,24492.52,12.42,24,KOLKATA,Karthik S,closed
+INV00816,C0120,28-May-2021,etf,Technology,Medium,67100,11.43,9.62,6455.02,15.44,48,MUMBAI,Sneha Iyer,matured
+INV00203,C0425,26-Aug-2023,bond,Diversified,Low,8900,5.75,1.85,164.65,4.38,48,PUNE,Priya Nair,matured
+INV01176,C0140,14-Jun-2021,mutual fund,Metals,Medium,498800,8.24,22.43,111880.84,13.72,12,BENGALURU,Priya Nair,closed
+INV00213,C0103,20-Dec-2025,real estate,Diversified,Medium,48300,12.36,5.87,2835.21,10.07,6,DELHI,Rahul Mehta,matured
+INV00847,C0172,15-Feb-2025,gold,Diversified,Medium,30500,6.51,2.23,680.15,12.07,6,HYDERABAD,Divya Raj,closed
+INV00810,C0184,14-Nov-2022,etf,Diversified,Medium,29200,10.9,8.11,2368.12,16.69,24,CHENNAI,Divya Raj,matured
+INV01110,C0412,16-Oct-2023,etf,Infrastructure,Medium,504500,10.03,450.5,237017.88,13.36,18,BENGALURU,Arun Kumar,active
+INV01105,C0270,23-Nov-2024,bond,Diversified,Low,328100,8.53,7.72,25329.32,0.51,24,KOLKATA,Sneha Iyer,closed
+INV00449,C0339,27-Jun-2022,real estate,Diversified,Medium,535500,12.57,1.69,9049.95,8.52,6,KOLKATA,Vikram Singh,closed
+INV01035,C0017,09-Mar-2025,mutual fund,Diversified,Medium,79200,12.47,6.82,5401.44,15.5,36,DELHI,Arun Kumar,matured
+INV00350,C0378,11-Jun-2024,bond,Diversified,Low,497800,4.96,8.92,44403.76,5.74,12,BENGALURU,Vikram Singh,closed
+INV00806,C0330,06-Aug-2021,bond,Diversified,Low,409200,6.76,7.66,31344.72,5.28,24,KOLKATA,Rahul Mehta,active
+INV00423,C0409,13-Dec-2023,bond,Diversified,Low,399700,6.39,4.72,18865.84,4.55,12,KOLKATA,Karthik S,matured
+INV00584,C0208,12-May-2024,real estate,Diversified,Medium,55800,12.65,15.12,8436.96,7.3,36,KOLKATA,Arun Kumar,matured
+INV00779,C0218,05-Feb-2024,fixed deposit,Diversified,Low,52700,7.71,7.86,4142.22,0.53,60,BENGALURU,Sneha Iyer,closed
+INV01261,C0056,12-Jun-2025,fixed deposit,Diversified,Low,76000,6.65,6.34,2250.7,0.48,6,MUMBAI,Priya Nair,closed
+INV01015,C0259,17-Dec-2021,gold,Diversified,Medium,941300,7.2,11.68,109943.84,12.27,6,DELHI,Rahul Mehta,matured
+INV00125,C0351,12-Aug-2022,equity,Energy,Medium,20900,14.61,40.57,8479.13,24.11,48,CHENNAI,Sneha Iyer,active
+INV00250,C0071,01-Jan-2025,fixed deposit,Diversified,Low,6500,6.03,5.61,364.65,0.47,18,PUNE,Sneha Iyer,matured
+INV01139,C0384,09-Aug-2023,mutual fund,Pharma,Medium,46400,9.17,450.5,6946.08,13.79,24,BENGALURU,Vikram Singh,matured
+INV00216,C0255,19-Aug-2022,crypto,Diversified,Very High,54800,23.98,22.79,12488.92,43.82,60,HYDERABAD,Rahul Mehta,active
+INV00621,C0135,01-May-2022,crypto,Diversified,Very High,78700,24.5,50.23,237017.88,64.86,18,BENGALURU,Vikram Singh,closed
+INV00582,C0211,15-Feb-2021,gold,Diversified,Medium,62400,9.39,10.69,6670.56,10.89,12,CHENNAI,Priya Nair,matured
+INV00225,C0134,12-Dec-2024,fixed deposit,Diversified,Low,21500,6.45,6.03,1296.45,0.48,24,MUMBAI,Vikram Singh,closed
+INV00153,C0315,30-Mar-2021,mutual fund,Metals,Medium,1103800,9.84,6.37,70312.06,12.55,18,BENGALURU,Divya Raj,active
+INV00858,C0405,20-Sep-2022,etf,Healthcare,Medium,116700,8.61,8.24,9616.08,14.55,60,DELHI,Priya Nair,closed
+INV00467,C0427,19-Aug-2022,equity,Technology,High,39600,14.16,3.4,1346.4,20.55,12,CHENNAI,Sneha Iyer,active
+INV00989,C0237,03-Jan-2022,equity,Healthcare,High,33500,14.2,450.5,6023.3,21.43,60,BENGALURU,Arun Kumar,active
+INV00735,C0063,23-Nov-2024,mutual fund,FMCG,Medium,107100,11.08,5.25,5622.75,12.19,18,BENGALURU,Sneha Iyer,matured
+INV01452,C0427,02-Nov-2023,gold,Diversified,Medium,26800,5.99,10.46,2803.28,12.49,24,BENGALURU,Arun Kumar,active
+INV01244,C0161,28-Sep-2025,mutual fund,Banking,Medium,100700,6.53,0.24,241.68,15.2,48,CHENNAI,Arun Kumar,matured
+INV00451,C0138,01-Mar-2024,etf,Technology,Medium,82600,9.07,12.4,10242.4,0.51,12,PUNE,Divya Raj,matured
+INV01289,C0132,17-Nov-2025,mutual fund,Telecom,Medium,772800,9.44,11.51,88949.28,12.98,36,BENGALURU,Karthik S,closed
+INV00873,C0244,12-Nov-2025,mutual fund,Metals,Medium,40400,8.9,12.13,4900.52,14.11,18,CHENNAI,Vikram Singh,closed
+INV00536,C0408,24-Jun-2025,fixed deposit,Diversified,Low,83300,5.83,6.32,5264.56,0.51,48,DELHI,Divya Raj,matured
+INV01514,C0014,06-Aug-2021,real estate,Diversified,Medium,75600,12.26,20.97,15853.32,8.96,36,MUMBAI,Karthik S,closed
+INV00921,C0241,19-Apr-2024,fixed deposit,Diversified,Low,62000,7.44,7.71,4780.2,0.46,6,DELHI,Sneha Iyer,matured
+INV01249,C0392,09-Dec-2023,etf,Diversified,Medium,63700,9.36,6.67,4248.79,14.73,12,CHENNAI,Rahul Mehta,active
+INV00512,C0445,20-Oct-2024,real estate,Diversified,Medium,153100,10.76,3.16,4837.96,9.53,36,PUNE,Divya Raj,matured
+INV00766,C0223,07-Mar-2024,gold,Diversified,Medium,692200,8.63,17.39,120373.58,12.5,60,DELHI,Vikram Singh,matured
+INV01268,C0269,20-Sep-2022,mutual fund,Energy,Medium,9800,7.2,450.5,840.84,12.3,12,DELHI,Sneha Iyer,closed
+INV01062,C0307,04-Nov-2022,crypto,Diversified,Very High,79500,23.76,60.56,48145.2,55.32,6,KOLKATA,Priya Nair,matured
+INV00685,C0445,04-Sep-2021,crypto,Diversified,Very High,508300,22.53,16.62,237017.88,58.18,60,PUNE,Priya Nair,matured
+INV00030,C0143,06-Aug-2023,etf,Energy,Medium,51100,11.54,15.19,7762.09,14.21,60,CHENNAI,Sneha Iyer,matured
+INV00355,C0192,21-Nov-2024,gold,Diversified,Medium,71700,9.38,7.58,5434.86,9.91,12,HYDERABAD,Sneha Iyer,closed
+INV01377,C0430,02-Mar-2022,mutual fund,Automobile,Medium,1444600,7.2,6.92,237017.88,16.32,6,BENGALURU,Karthik S,active
+INV01068,C0019,29-Jul-2022,gold,Diversified,Medium,76000,8.51,16.36,256410.28,0.51,24,KOLKATA,Divya Raj,matured
+INV00812,C0197,15-Sep-2024,gold,Diversified,Medium,57700,7.79,5.52,3185.04,12.27,12,DELHI,Divya Raj,closed
+INV00665,C0318,21-Oct-2025,fixed deposit,Diversified,Low,76000,8.01,8.12,6016.92,0.54,18,PUNE,Vikram Singh,active
+INV00586,C0421,21-Apr-2025,fixed deposit,Diversified,Low,69700,8.2,8.49,5917.53,0.49,12,HYDERABAD,Divya Raj,matured
+INV00719,C0323,11-Apr-2021,equity,Energy,High,558100,9.73,5.86,32704.66,20.64,18,BENGALURU,Sneha Iyer,closed
+INV01090,C0428,20-Feb-2024,equity,Technology,High,83000,11.32,18.6,15438.0,22.51,24,DELHI,Vikram Singh,active
+INV00657,C0022,05-Apr-2024,fixed deposit,Diversified,Low,45700,6.6,6.78,3098.46,0.56,60,KOLKATA,Sneha Iyer,matured
+INV00953,C0448,14-Feb-2025,fixed deposit,Diversified,Low,262900,6.07,6.42,16878.18,0.49,12,DELHI,Priya Nair,matured
+INV00913,C0286,12-Sep-2024,etf,FMCG,Medium,6300,10.45,22.5,1417.5,15.51,48,MUMBAI,Sneha Iyer,closed
+INV00295,C0303,07-Dec-2025,real estate,Diversified,Medium,11600,10.19,450.5,1618.2,11.04,48,MUMBAI,Vikram Singh,matured
+INV01472,C0443,28-May-2021,crypto,Diversified,Very High,584100,15.63,34.26,200112.66,61.2,18,MUMBAI,Divya Raj,matured
+INV00286,C0210,04-Jan-2022,mutual fund,Healthcare,Medium,631700,9.14,12.16,76814.72,12.83,60,KOLKATA,Divya Raj,matured
+INV00059,C0297,27-May-2024,real estate,Diversified,Medium,77200,11.46,11.53,237017.88,10.83,48,DELHI,Sneha Iyer,closed
+INV00878,C0353,13-Aug-2024,real estate,Diversified,Medium,389700,11.76,13.35,52024.95,10.2,12,CHENNAI,Arun Kumar,closed
+INV01219,C0228,23-Jan-2023,fixed deposit,Diversified,Low,123200,6.95,6.95,8562.4,0.52,6,CHENNAI,Arun Kumar,active
+INV00424,C0184,10-Sep-2023,equity,Metals,High,691000,14.22,21.65,149601.5,24.4,60,BENGALURU,Rahul Mehta,matured
+INV00095,C0294,06-Aug-2022,etf,Pharma,Medium,36800,13.62,27.63,10167.84,13.14,24,BENGALURU,Rahul Mehta,active
+INV00909,C0014,02-Jan-2022,equity,Automobile,High,27500,15.53,26.66,7331.5,22.01,36,KOLKATA,Rahul Mehta,active
+INV00174,C0022,13-Jun-2023,mutual fund,Technology,Medium,730900,11.13,14.3,104518.7,11.66,24,CHENNAI,Karthik S,closed
+INV00428,C0433,22-Dec-2021,fixed deposit,Diversified,Low,383800,6.64,6.93,26597.34,0.54,12,MUMBAI,Vikram Singh,closed
+INV01048,C0163,22-Feb-2023,fixed deposit,Diversified,Low,14600,4.63,4.45,649.7,0.5,18,CHENNAI,Arun Kumar,active
+INV00682,C0112,12-Feb-2025,mutual fund,Banking,Medium,584500,10.23,17.43,237017.88,12.85,48,DELHI,Vikram Singh,closed
+INV01118,C0161,29-Sep-2025,etf,Energy,Medium,348000,10.44,11.04,38419.2,15.64,24,PUNE,Divya Raj,closed
+INV01208,C0027,08-Nov-2025,gold,Diversified,Medium,97500,8.42,450.5,8433.75,0.51,60,MUMBAI,Karthik S,closed
+INV01029,C0342,27-May-2025,gold,Diversified,Medium,224800,7.2,7.43,16702.64,12.37,60,KOLKATA,Vikram Singh,matured
+INV00411,C0104,06-Oct-2021,etf,Telecom,Medium,83400,10.08,9.51,7931.34,12.95,6,MUMBAI,Arun Kumar,active
+INV00833,C0167,09-May-2023,gold,Diversified,Medium,1192700,7.67,12.28,146463.56,11.66,12,KOLKATA,Divya Raj,closed
+INV01502,C0395,17-Jan-2024,real estate,Diversified,Medium,40000,11.68,13.54,5416.0,9.79,18,BENGALURU,Vikram Singh,closed
+INV01131,C0252,01-Aug-2023,gold,Diversified,Medium,377600,7.2,5.7,21523.2,11.04,24,HYDERABAD,Arun Kumar,matured
+INV00222,C0291,08-Mar-2021,crypto,Diversified,Very High,245700,22.96,25.93,63710.01,55.72,36,MUMBAI,Divya Raj,closed
+INV00641,C0080,14-Sep-2022,real estate,Diversified,Medium,253100,7.73,1.96,4960.76,10.75,6,CHENNAI,Vikram Singh,active
+INV01391,C0006,08-Jan-2025,mutual fund,Infrastructure,Medium,9200,7.69,4.35,400.2,13.78,24,BENGALURU,Vikram Singh,closed
+INV00891,C0067,10-Jun-2021,gold,Diversified,Medium,72500,7.2,8.81,6387.25,0.51,24,KOLKATA,Vikram Singh,active
+INV01160,C0357,13-Jan-2025,equity,Energy,High,105100,8.21,25.22,26506.22,24.54,36,PUNE,Sneha Iyer,matured
+INV01586,C0437,27-Apr-2024,fixed deposit,Diversified,Low,293900,7.1,7.48,21983.72,0.43,36,DELHI,Karthik S,matured
+INV00319,C0039,02-Nov-2024,etf,FMCG,Medium,64700,10.86,13.72,8876.84,16.68,36,HYDERABAD,Divya Raj,active
+INV00966,C0258,07-Oct-2023,equity,Infrastructure,High,76000,19.07,34.08,14654.4,17.41,24,MUMBAI,Arun Kumar,closed
+INV00329,C0182,10-Feb-2024,fixed deposit,Diversified,Low,15700,6.8,7.25,1138.25,0.44,24,HYDERABAD,Vikram Singh,closed
+INV00123,C0136,25-Nov-2022,mutual fund,Diversified,Medium,1381500,10.34,11.02,152241.3,14.02,48,BENGALURU,Divya Raj,active
+INV00293,C0375,25-Mar-2024,bond,Diversified,Low,83400,6.0,5.96,4970.64,5.11,24,HYDERABAD,Vikram Singh,matured
+INV00520,C0028,31-Jul-2025,etf,Energy,Medium,240800,9.67,7.33,17650.64,17.24,60,BENGALURU,Rahul Mehta,matured
+INV01467,C0129,23-Aug-2021,fixed deposit,Diversified,Low,16500,7.9,8.05,1328.25,0.55,6,PUNE,Divya Raj,active
+INV01553,C0163,23-Apr-2023,equity,Automobile,High,215400,11.43,13.88,29897.52,19.93,24,BENGALURU,Sneha Iyer,closed
+INV01037,C0156,26-Aug-2022,crypto,Diversified,Very High,159100,26.69,1.65,2625.15,48.78,24,CHENNAI,Karthik S,active
+INV00887,C0287,10-Jun-2024,gold,Diversified,Medium,104600,8.21,0.77,805.42,12.66,48,PUNE,Vikram Singh,matured
+INV00478,C0411,17-Jul-2025,gold,Diversified,Medium,14100,8.98,5.18,730.38,13.03,36,BENGALURU,Divya Raj,closed
+INV00941,C0226,17-Apr-2023,bond,Diversified,Low,117700,7.2,6.1,7179.7,5.42,18,PUNE,Vikram Singh,active
+INV00421,C0077,12-Mar-2021,real estate,Diversified,Medium,104600,11.92,14.64,15313.44,10.08,36,BENGALURU,Vikram Singh,active
+INV01140,C0421,26-Jul-2022,gold,Diversified,Medium,740300,8.25,5.47,40494.41,10.45,24,MUMBAI,Priya Nair,active
+INV01154,C0312,13-Apr-2024,etf,Pharma,Medium,23400,9.07,25.71,237017.88,17.54,24,HYDERABAD,Divya Raj,matured
+INV00376,C0191,22-Sep-2024,mutual fund,Diversified,Medium,212600,8.28,2.84,6037.84,14.42,6,BENGALURU,Divya Raj,closed
+INV01151,C0256,28-Jul-2021,fixed deposit,Diversified,Low,76000,6.31,6.27,237017.88,0.44,48,HYDERABAD,Karthik S,matured
+INV00384,C0128,08-Feb-2024,gold,Diversified,Medium,76000,6.98,4.66,5801.7,10.81,36,HYDERABAD,Divya Raj,matured
+INV00112,C0282,26-Sep-2021,etf,FMCG,Medium,8000,9.88,8.67,237017.88,16.46,24,KOLKATA,Sneha Iyer,active
+INV01262,C0425,19-Aug-2022,equity,Automobile,High,48900,9.89,3.55,1735.95,23.02,36,KOLKATA,Arun Kumar,closed
+INV01288,C0009,06-Jan-2024,gold,Diversified,Medium,77700,7.05,5.76,4475.52,11.99,48,PUNE,Karthik S,matured
+INV00381,C0005,03-Jun-2024,bond,Diversified,Low,28300,6.21,5.78,1635.74,5.69,48,MUMBAI,Sneha Iyer,closed
+INV00220,C0208,15-Jan-2023,equity,Metals,High,31800,11.96,10.34,3288.12,22.44,60,KOLKATA,Divya Raj,active
+INV00214,C0386,17-Aug-2024,fixed deposit,Diversified,Low,853300,5.48,5.98,51027.34,0.48,12,DELHI,Rahul Mehta,active
+INV00732,C0026,12-Aug-2021,real estate,Diversified,Medium,380100,8.75,5.38,237017.88,10.19,24,MUMBAI,Priya Nair,matured
+INV00325,C0300,15-Sep-2024,fixed deposit,Diversified,Low,392900,7.66,450.5,29585.37,0.47,24,CHENNAI,Karthik S,matured
+INV00344,C0238,01-May-2025,gold,Diversified,Medium,974100,6.77,2.98,29028.18,11.69,48,HYDERABAD,Divya Raj,matured
+INV00399,C0007,16-May-2022,equity,Technology,High,14600,9.13,8.9,1299.4,22.97,24,DELHI,Sneha Iyer,active
+INV00097,C0289,15-Sep-2022,equity,Banking,High,37500,12.51,10.36,3885.0,20.63,12,BENGALURU,Vikram Singh,closed
+INV00776,C0185,17-Sep-2025,bond,Diversified,Medium,721700,8.8,6.73,48570.41,10.69,24,MUMBAI,Rahul Mehta,matured
+INV01484,C0378,19-Aug-2022,gold,Diversified,Medium,641000,9.8,6.96,44613.6,11.41,36,BENGALURU,Arun Kumar,closed
+INV00053,C0136,20-Mar-2021,mutual fund,Banking,Medium,77900,12.8,4.07,3170.53,14.66,36,BENGALURU,Rahul Mehta,matured
+INV01481,C0307,23-Feb-2025,crypto,Diversified,Very High,38700,19.91,36.84,14257.08,61.34,36,CHENNAI,Vikram Singh,closed
+INV00357,C0096,07-Oct-2022,bond,Diversified,Low,888800,6.04,5.92,52616.96,5.17,60,BENGALURU,Vikram Singh,active
+INV00001,C0140,19-Aug-2022,bond,Diversified,Medium,76000,7.2,450.5,237017.88,0.51,24,BENGALURU,Vikram Singh,matured
+INV00811,C0175,14-Jun-2021,mutual fund,Pharma,Medium,283700,7.2,10.7,30355.9,12.57,60,PUNE,Rahul Mehta,matured
+INV00333,C0101,27-Jul-2023,gold,Diversified,Medium,1193800,10.16,6.51,77716.38,12.77,6,MUMBAI,Rahul Mehta,active
+INV00480,C0366,01-Apr-2022,equity,Metals,High,70700,14.89,23.37,16522.59,23.08,48,PUNE,Sneha Iyer,matured
+INV01133,C0317,10-Feb-2025,fixed deposit,Diversified,Low,58500,7.32,8.0,4680.0,0.57,24,BENGALURU,Sneha Iyer,matured
+INV01577,C0315,27-Dec-2025,real estate,Diversified,Medium,112200,13.63,7.67,8605.74,10.02,18,HYDERABAD,Divya Raj,active
+INV00085,C0125,17-Mar-2025,mutual fund,Pharma,Medium,76000,7.2,1.44,2134.08,15.45,36,HYDERABAD,Divya Raj,closed
+INV00758,C0026,05-Aug-2021,equity,Automobile,High,1503300,11.12,11.47,237017.88,20.51,6,CHENNAI,Sneha Iyer,closed
+INV00560,C0384,27-Feb-2025,fixed deposit,Diversified,Low,22600,8.35,8.22,1857.72,0.55,48,DELHI,Priya Nair,closed
+INV00176,C0186,30-Jun-2021,bond,Diversified,Low,1432000,4.74,4.84,69308.8,0.51,24,PUNE,Arun Kumar,active
+INV01597,C0357,13-Dec-2024,etf,FMCG,Medium,322000,7.55,5.59,17999.8,14.74,18,KOLKATA,Arun Kumar,matured
+INV01476,C0149,24-Aug-2025,equity,Diversified,High,106600,9.96,0.35,373.1,22.77,24,KOLKATA,Rahul Mehta,active
+INV00450,C0190,18-Jan-2022,bond,Diversified,Medium,371400,7.2,6.92,25700.88,4.32,24,CHENNAI,Rahul Mehta,closed
+INV01173,C0218,15-Feb-2025,crypto,Diversified,Very High,12500,22.02,62.04,7755.0,62.55,12,MUMBAI,Sneha Iyer,active
+INV00446,C0050,12-Apr-2021,real estate,Diversified,Medium,89700,10.44,9.02,8090.94,9.39,24,HYDERABAD,Vikram Singh,closed
+INV01482,C0054,14-Mar-2021,bond,Diversified,Low,132300,7.16,5.63,7448.49,4.03,24,HYDERABAD,Priya Nair,matured
+INV01471,C0343,17-Jul-2021,mutual fund,Energy,Medium,12300,9.0,450.5,201.72,13.91,6,PUNE,Vikram Singh,active
+INV00160,C0382,22-Feb-2025,mutual fund,Infrastructure,Medium,25800,7.2,20.72,5345.76,18.31,60,MUMBAI,Vikram Singh,active
+INV01323,C0335,07-Aug-2024,mutual fund,Automobile,Medium,1077400,10.47,21.91,236058.34,11.35,60,BENGALURU,Priya Nair,active
+INV01298,C0080,15-May-2022,bond,Diversified,Low,93200,7.07,2.68,2497.76,4.6,6,HYDERABAD,Divya Raj,closed
+INV01378,C0321,06-Jun-2021,fixed deposit,Diversified,Low,27200,6.8,7.18,1952.96,0.55,12,KOLKATA,Sneha Iyer,closed
+INV00817,C0317,04-Apr-2021,equity,Diversified,High,1507200,10.59,1.21,237017.88,20.48,48,KOLKATA,Priya Nair,active
+INV01215,C0219,23-Oct-2024,mutual fund,Healthcare,Medium,48800,8.52,2.86,1395.68,13.95,6,CHENNAI,Rahul Mehta,closed
+INV00581,C0369,21-Aug-2021,gold,Diversified,Medium,705600,7.87,8.28,58423.68,0.51,24,KOLKATA,Sneha Iyer,closed
+INV01501,C0240,08-Mar-2025,real estate,Diversified,Medium,78000,9.42,2.57,237017.88,8.65,12,MUMBAI,Arun Kumar,closed
+INV01064,C0404,01-Dec-2025,etf,Banking,Medium,569100,14.02,19.15,237017.88,14.39,36,CHENNAI,Karthik S,matured
+INV00134,C0118,28-May-2024,etf,Infrastructure,Medium,137600,13.04,9.26,12741.76,12.61,12,KOLKATA,Priya Nair,matured
+INV01383,C0103,08-Jul-2021,bond,Diversified,Low,87400,6.88,5.61,4903.14,4.95,18,KOLKATA,Vikram Singh,matured
+INV01134,C0023,06-May-2022,bond,Diversified,Low,24800,6.11,7.61,1887.28,5.25,60,MUMBAI,Rahul Mehta,matured
+INV01158,C0330,31-May-2025,crypto,Diversified,Very High,43900,24.7,7.28,3195.92,60.31,60,CHENNAI,Vikram Singh,closed
+INV00098,C0227,01-Sep-2022,gold,Diversified,Medium,525300,7.41,450.5,64139.13,11.29,60,HYDERABAD,Sneha Iyer,closed
+INV00267,C0450,02-Sep-2023,bond,Diversified,Low,626400,6.53,8.88,55624.32,5.01,24,KOLKATA,Priya Nair,closed
+INV00646,C0273,15-Jul-2025,bond,Diversified,Medium,124800,8.52,10.92,13628.16,10.25,18,BENGALURU,Priya Nair,active
+INV01186,C0406,15-Jan-2021,equity,Automobile,High,20300,11.94,13.38,2716.14,23.41,36,HYDERABAD,Karthik S,closed
+INV01441,C0284,13-Feb-2022,gold,Diversified,Medium,73600,7.98,15.22,11201.92,11.87,18,DELHI,Arun Kumar,closed
+INV01548,C0449,22-Aug-2022,bond,Diversified,Low,144100,6.63,10.03,14453.23,4.89,48,BENGALURU,Sneha Iyer,matured
+INV00559,C0285,17-Oct-2021,crypto,Diversified,Very High,11500,31.06,66.4,7636.0,58.07,6,CHENNAI,Vikram Singh,matured
+INV01448,C0063,25-Feb-2025,etf,Telecom,Medium,366100,11.32,450.5,75050.5,17.92,48,HYDERABAD,Divya Raj,matured
+INV01418,C0142,09-Apr-2022,gold,Diversified,Medium,28300,8.25,1.56,441.48,12.25,36,KOLKATA,Divya Raj,matured
+INV01329,C0380,29-Oct-2023,mutual fund,Banking,Medium,251800,10.36,13.43,33816.74,11.09,36,PUNE,Karthik S,active
+INV01550,C0340,21-May-2023,fixed deposit,Diversified,Low,925400,6.76,6.69,61909.26,0.42,24,MUMBAI,Vikram Singh,closed
+INV00334,C0195,05-Jul-2025,fixed deposit,Diversified,Low,360400,7.38,7.66,27606.64,0.57,60,DELHI,Sneha Iyer,closed
+INV01495,C0011,19-Oct-2023,etf,Technology,Medium,76000,9.61,450.5,145050.2,15.83,18,DELHI,Vikram Singh,closed
+INV00861,C0163,22-Mar-2024,bond,Diversified,Low,53800,6.86,450.5,3615.36,5.19,12,BENGALURU,Rahul Mehta,closed
+INV01211,C0100,06-Dec-2024,real estate,Diversified,Medium,129600,11.98,10.87,14087.52,9.37,60,HYDERABAD,Vikram Singh,active
+INV01007,C0286,07-Apr-2021,etf,Technology,Medium,83500,10.26,19.76,16499.6,15.83,18,DELHI,Rahul Mehta,matured
+INV01061,C0363,17-Jul-2023,crypto,Diversified,Very High,158000,28.67,6.17,9748.6,63.13,18,MUMBAI,Divya Raj,closed
+INV00066,C0381,31-Oct-2025,fixed deposit,Diversified,Low,1497200,7.19,7.24,108397.28,0.46,24,BENGALURU,Rahul Mehta,active
+INV01051,C0212,26-Oct-2022,fixed deposit,Diversified,Low,23000,7.66,6.79,1561.7,0.48,18,BENGALURU,Vikram Singh,active
+INV00184,C0415,16-Mar-2024,etf,Energy,Medium,10500,10.0,8.82,926.1,15.13,18,HYDERABAD,Sneha Iyer,matured
+INV00119,C0358,05-May-2022,etf,Telecom,Medium,367400,10.97,10.85,39862.9,13.5,24,MUMBAI,Vikram Singh,closed
+INV00029,C0174,28-Jun-2025,mutual fund,Banking,Medium,10000,8.79,14.88,1488.0,13.3,12,MUMBAI,Priya Nair,matured
+INV01541,C0260,18-Nov-2022,gold,Diversified,Medium,23200,7.46,1.22,283.04,14.07,18,BENGALURU,Divya Raj,matured
+INV00309,C0369,25-Jan-2024,bond,Diversified,Low,192300,7.67,6.49,12480.27,4.24,24,MUMBAI,Vikram Singh,matured
+INV01368,C0296,29-May-2023,fixed deposit,Diversified,Low,14000,6.01,6.28,879.2,0.57,12,KOLKATA,Sneha Iyer,matured
+INV00614,C0121,15-Feb-2025,gold,Diversified,Medium,1337100,7.75,3.4,45461.4,11.85,12,PUNE,Rahul Mehta,active
+INV01424,C0251,24-Nov-2025,crypto,Diversified,Very High,1183200,28.49,450.5,153579.36,59.21,12,BENGALURU,Arun Kumar,active
+INV01489,C0067,26-May-2024,bond,Diversified,Medium,119900,22.82,45.37,54398.63,53.06,24,BENGALURU,Divya Raj,active
+INV01282,C0405,17-Nov-2023,gold,Diversified,Medium,76000,6.35,450.5,1793.76,13.93,24,HYDERABAD,Divya Raj,matured
+INV01273,C0186,02-Mar-2025,crypto,Diversified,Very High,335300,23.56,11.78,39498.34,0.51,60,HYDERABAD,Vikram Singh,matured
+INV00162,C0181,01-Aug-2021,equity,Telecom,High,120000,12.37,2.09,2508.0,20.34,36,MUMBAI,Priya Nair,matured
+INV01322,C0113,15-Mar-2023,gold,Diversified,Medium,609500,8.92,10.97,66862.15,11.27,12,PUNE,Divya Raj,matured
+INV00565,C0220,19-Aug-2022,bond,Diversified,Low,351900,7.35,450.5,26814.78,4.33,6,DELHI,Priya Nair,active
+INV00368,C0165,24-Aug-2025,bond,Diversified,Low,56000,3.68,3.26,1825.6,6.04,12,PUNE,Karthik S,matured
+INV01190,C0317,06-Nov-2024,real estate,Diversified,Medium,72600,12.77,17.39,12625.14,10.22,48,PUNE,Sneha Iyer,matured
+INV01265,C0401,17-Jul-2025,fixed deposit,Diversified,Low,80500,7.06,7.06,5683.3,0.49,6,KOLKATA,Divya Raj,matured
+INV01406,C0375,16-Sep-2023,etf,Energy,Medium,92200,11.92,7.64,7044.08,17.78,6,DELHI,Karthik S,closed
+INV00884,C0351,27-Jun-2025,crypto,Diversified,Very High,356700,28.38,69.82,249047.94,54.55,18,DELHI,Divya Raj,matured
+INV00890,C0061,19-Aug-2022,real estate,Diversified,Medium,13400,8.97,12.27,1644.18,10.55,12,PUNE,Divya Raj,active
+INV00574,C0390,26-Sep-2023,etf,Energy,Medium,160100,10.28,8.23,13176.23,15.77,6,DELHI,Rahul Mehta,active
+INV00230,C0369,08-Sep-2023,real estate,Diversified,Medium,799800,10.38,12.76,102054.48,10.71,36,BENGALURU,Karthik S,closed
+INV01367,C0221,11-May-2022,crypto,Diversified,Very High,78000,24.5,20.83,16247.4,60.43,24,BENGALURU,Priya Nair,matured
+INV00599,C0359,28-Nov-2021,mutual fund,Banking,Medium,78500,7.2,8.25,6476.25,12.95,12,HYDERABAD,Sneha Iyer,closed
+INV00623,C0293,26-Sep-2021,fixed deposit,Diversified,Low,105100,7.85,7.52,7903.52,0.56,36,KOLKATA,Priya Nair,active
+INV01579,C0140,10-Mar-2025,real estate,Diversified,Medium,1062900,11.48,7.15,75997.35,10.96,48,PUNE,Priya Nair,active
+INV00382,C0316,07-Nov-2024,gold,Diversified,Medium,76000,8.15,8.24,6262.4,11.79,24,PUNE,Priya Nair,active
+INV00862,C0018,25-Sep-2024,bond,Diversified,Low,87200,7.69,5.95,5188.4,5.55,18,DELHI,Priya Nair,closed
+INV00900,C0361,14-Aug-2022,bond,Diversified,Low,1362300,5.22,8.75,119201.25,5.31,36,KOLKATA,Arun Kumar,active
+INV01083,C0206,16-Jul-2021,equity,Diversified,High,145000,12.79,15.12,21924.0,20.39,60,BENGALURU,Priya Nair,matured
+INV00613,C0112,20-Mar-2024,bond,Diversified,Low,913900,5.38,5.3,48436.7,5.05,18,MUMBAI,Divya Raj,matured
+INV00869,C0202,03-Feb-2022,etf,Pharma,Medium,39400,9.97,5.52,2174.88,14.72,18,HYDERABAD,Vikram Singh,matured
+INV00036,C0035,14-Oct-2024,mutual fund,Energy,Medium,33400,10.61,12.06,4028.04,16.64,24,CHENNAI,Vikram Singh,active
+INV00801,C0310,24-Sep-2021,mutual fund,Automobile,Medium,17200,8.92,5.02,237017.88,14.25,48,PUNE,Divya Raj,matured
+INV00056,C0064,14-Jan-2025,crypto,Diversified,Very High,315800,7.2,88.13,278314.54,0.51,18,HYDERABAD,Rahul Mehta,matured
+INV00431,C0315,17-Feb-2022,etf,Healthcare,Medium,9300,11.64,11.58,1076.94,18.74,18,KOLKATA,Priya Nair,closed
+INV01213,C0296,09-Oct-2021,real estate,Diversified,Medium,-50000,10.44,9.8,122950.8,10.37,24,KOLKATA,Sneha Iyer,closed
+INV00021,C0418,22-May-2021,mutual fund,Metals,Medium,33300,9.28,1.68,559.44,13.74,60,MUMBAI,Priya Nair,matured
+INV00910,C0339,20-Mar-2025,real estate,Diversified,Medium,34000,13.21,10.96,3726.4,9.26,36,PUNE,Sneha Iyer,closed
+INV00695,C0318,30-Oct-2021,mutual fund,FMCG,Medium,8400,7.83,4.86,408.24,10.79,6,DELHI,Divya Raj,active
+INV00298,C0363,23-Oct-2021,gold,Diversified,Medium,67600,8.61,16.37,11066.12,13.28,60,BENGALURU,Arun Kumar,matured
+INV00280,C0306,24-Nov-2025,gold,Diversified,Medium,96000,6.8,5.39,5174.4,13.18,60,CHENNAI,Vikram Singh,closed
+INV00310,C0039,19-Aug-2022,equity,Technology,High,14400,12.68,11.84,1704.96,25.44,60,CHENNAI,Sneha Iyer,active
+INV01320,C0217,24-Oct-2024,bond,Diversified,Low,10000,6.27,6.79,679.0,5.56,24,HYDERABAD,Divya Raj,closed
+INV01302,C0115,28-Jul-2021,etf,FMCG,Medium,79500,9.44,6.64,5278.8,17.42,18,CHENNAI,Vikram Singh,closed
+INV00935,C0140,07-Oct-2021,fixed deposit,Diversified,Low,76000,7.16,7.13,570.4,0.45,6,DELHI,Karthik S,matured
+INV01584,C0329,12-Sep-2024,fixed deposit,Diversified,Low,116100,6.9,450.5,7918.02,0.56,12,CHENNAI,Vikram Singh,active
+INV00231,C0329,01-Jun-2021,mutual fund,Pharma,Medium,78600,9.46,1.02,801.72,15.62,24,BENGALURU,Vikram Singh,closed
+INV00616,C0340,06-Oct-2023,mutual fund,Telecom,Medium,31900,8.46,1.63,519.97,15.77,6,BENGALURU,Karthik S,matured
+INV01065,C0417,19-Aug-2022,etf,Telecom,Medium,23800,14.76,3.96,942.48,14.07,18,BENGALURU,Priya Nair,matured
+INV00161,C0448,24-Sep-2024,crypto,Diversified,Very High,25300,24.52,19.07,4824.71,0.51,60,BENGALURU,Karthik S,matured
+INV00760,C0048,23-Jul-2025,mutual fund,Pharma,Medium,1167800,8.28,11.73,136982.94,14.93,6,BENGALURU,Rahul Mehta,matured
+INV01258,C0146,24-Mar-2021,crypto,Diversified,Very High,53300,23.13,450.5,1129.96,55.31,12,BENGALURU,Sneha Iyer,matured
+INV00608,C0175,28-Aug-2021,mutual fund,Metals,Medium,27600,10.12,5.67,1564.92,13.69,18,HYDERABAD,Karthik S,matured
+INV01150,C0418,25-Jul-2022,etf,Telecom,Medium,50000,9.67,6.69,3345.0,14.42,18,CHENNAI,Arun Kumar,active
+INV01313,C0437,04-Feb-2024,real estate,Diversified,Medium,744100,13.06,11.55,85943.55,8.67,24,MUMBAI,Priya Nair,active
+INV01111,C0039,06-Jan-2023,etf,Banking,Medium,64900,12.51,22.59,14660.91,12.68,24,PUNE,Vikram Singh,matured
+INV00558,C0074,03-Sep-2022,fixed deposit,Diversified,Low,156000,6.43,6.15,9594.0,0.48,48,BENGALURU,Karthik S,matured
+INV00825,C0406,02-May-2025,real estate,Diversified,Medium,646800,9.7,11.01,71212.68,8.62,24,KOLKATA,Priya Nair,active
+INV01431,C0348,16-Dec-2022,etf,Infrastructure,Medium,43300,11.84,1.19,515.27,14.35,24,HYDERABAD,Sneha Iyer,closed
+INV00870,C0367,15-Oct-2025,equity,Automobile,High,99999999,8.03,23.31,58135.14,23.97,18,BENGALURU,Rahul Mehta,active
+INV00100,C0081,06-Jan-2021,gold,Diversified,Medium,57600,8.37,12.46,237017.88,12.98,24,BENGALURU,Divya Raj,matured
+INV00851,C0249,24-Oct-2023,mutual fund,Metals,Medium,236300,7.62,18.26,43148.38,11.37,60,CHENNAI,Sneha Iyer,matured
+INV01305,C0256,17-Sep-2024,crypto,Diversified,Very High,21800,28.79,450.5,2698.84,54.93,18,DELHI,Karthik S,matured
+INV01193,C0244,10-Sep-2024,crypto,Diversified,Very High,769500,21.88,1.02,7848.9,56.17,60,KOLKATA,Arun Kumar,matured
+INV01542,C0020,07-Jun-2023,mutual fund,Banking,Medium,373100,11.16,20.31,75776.61,14.5,48,PUNE,Vikram Singh,closed
+INV00940,C0381,19-Aug-2022,crypto,Diversified,Very High,702900,26.38,33.72,237017.88,62.36,24,MUMBAI,Priya Nair,active
+INV01401,C0166,31-Oct-2025,equity,Automobile,Medium,7400,12.44,2.78,205.72,19.6,12,MUMBAI,Arun Kumar,active
+INV01376,C0063,08-Aug-2021,mutual fund,Healthcare,Medium,1527200,8.36,19.84,302996.48,12.77,18,DELHI,Priya Nair,active
+INV01437,C0450,04-Aug-2022,equity,Metals,High,73800,11.65,12.12,8944.56,20.98,48,PUNE,Vikram Singh,active
+INV00185,C0416,11-Sep-2025,bond,Diversified,Low,10500,7.64,8.51,893.55,5.13,18,KOLKATA,Arun Kumar,matured
+INV00094,C0028,08-Feb-2024,bond,Diversified,Low,64600,6.12,7.8,5038.8,5.06,18,KOLKATA,Priya Nair,matured
+INV00836,C0070,27-Jul-2023,etf,Energy,Medium,49400,9.64,21.73,10734.62,19.42,48,DELHI,Rahul Mehta,active
+INV00744,C0236,07-Nov-2025,bond,Diversified,Low,755400,7.48,9.32,70403.28,4.66,36,DELHI,Sneha Iyer,closed
+INV00405,C0210,18-Feb-2021,gold,Diversified,Medium,30300,7.14,5.21,1578.63,13.07,12,HYDERABAD,Rahul Mehta,matured
+INV01218,C0408,05-Oct-2024,bond,Diversified,Low,687900,7.04,4.89,33638.31,5.22,48,CHENNAI,Karthik S,closed
+INV00037,C0299,03-Mar-2024,equity,Diversified,High,76000,12.46,8.49,2164.95,21.84,18,DELHI,Priya Nair,matured
+INV01399,C0161,09-Oct-2023,fixed deposit,Diversified,Low,28900,4.37,4.7,1358.3,0.51,36,CHENNAI,Sneha Iyer,closed
+INV00723,C0166,17-Nov-2024,gold,Diversified,Medium,690200,7.03,5.8,40031.6,10.49,48,KOLKATA,Karthik S,active
+INV01000,C0263,25-Apr-2024,equity,Telecom,High,999700,9.76,7.99,79876.03,22.74,48,PUNE,Karthik S,closed
+INV00057,C0152,10-Feb-2024,fixed deposit,Diversified,Low,250600,6.55,450.5,15737.68,0.46,12,MUMBAI,Sneha Iyer,matured
+INV01464,C0302,04-Apr-2024,real estate,Diversified,Medium,64900,11.97,16.28,10565.72,10.51,18,HYDERABAD,Vikram Singh,closed
+INV01423,C0011,30-Dec-2021,equity,FMCG,High,1027900,12.52,2.65,27239.35,17.61,6,MUMBAI,Divya Raj,matured
+INV00012,C0203,17-Dec-2025,crypto,Diversified,Very High,94200,21.03,18.61,17530.62,64.94,48,BENGALURU,Priya Nair,closed
+INV01144,C0228,18-Apr-2021,mutual fund,Telecom,Medium,645200,11.65,21.51,138782.52,14.65,6,CHENNAI,Karthik S,closed
+INV00951,C0322,18-Sep-2022,bond,Diversified,Medium,10000,5.97,2.98,298.0,5.42,18,HYDERABAD,Arun Kumar,active
+INV00950,C0329,06-Aug-2024,etf,Healthcare,Medium,13600,9.62,5.82,791.52,14.09,48,BENGALURU,Karthik S,matured
+INV01284,C0150,22-Mar-2021,gold,Diversified,Medium,11300,6.28,9.09,237017.88,11.37,48,MUMBAI,Rahul Mehta,active
+INV00842,C0246,17-Jul-2025,equity,Banking,High,565600,11.44,17.24,97509.44,24.03,24,BENGALURU,Priya Nair,active
+INV01510,C0040,05-Nov-2023,equity,Pharma,High,71200,13.37,7.34,5226.08,21.88,6,HYDERABAD,Arun Kumar,active
+INV00555,C0317,10-May-2021,mutual fund,Telecom,Medium,12400,6.82,15.35,1903.4,13.15,6,BENGALURU,Karthik S,active
+INV00265,C0272,08-Apr-2022,gold,Diversified,Medium,48800,8.33,2.67,1302.96,0.51,48,BENGALURU,Arun Kumar,active
+INV01498,C0391,14-Dec-2022,equity,Technology,High,63100,10.28,5.53,3489.43,20.7,36,PUNE,Rahul Mehta,closed
+INV01274,C0108,11-Apr-2024,crypto,Diversified,Very High,93800,20.56,28.32,26564.16,57.6,24,CHENNAI,Arun Kumar,active
+INV00543,C0282,04-Jan-2023,real estate,Diversified,Medium,1389900,10.26,10.64,147885.36,11.28,6,PUNE,Divya Raj,closed
+INV01286,C0362,16-Dec-2025,crypto,Diversified,Very High,231100,24.43,39.7,91746.7,51.63,36,DELHI,Divya Raj,active
+INV00834,C0051,01-May-2022,bond,Diversified,Medium,23200,8.41,14.55,3375.6,12.68,48,BENGALURU,Karthik S,active
+INV00427,C0406,18-Feb-2025,gold,Diversified,Medium,113400,8.23,9.01,237017.88,11.63,6,PUNE,Priya Nair,matured
+INV01420,C0148,16-Dec-2024,bond,Diversified,Low,71100,7.89,5.69,4045.59,4.95,36,DELHI,Divya Raj,active
+INV00645,C0321,06-May-2022,gold,Diversified,Medium,67900,7.44,23.13,15705.27,11.87,36,PUNE,Karthik S,matured
+INV00099,C0107,05-Jul-2024,equity,Energy,High,38700,7.2,21.85,8455.95,20.48,18,KOLKATA,Arun Kumar,active
+INV00092,C0379,19-Sep-2023,mutual fund,FMCG,Medium,39600,10.02,450.5,5124.24,12.63,48,HYDERABAD,Karthik S,matured
+INV00401,C0164,10-Jul-2022,gold,Diversified,Medium,757900,8.15,8.85,67074.15,11.48,60,CHENNAI,Vikram Singh,closed
+INV00041,C0284,06-Sep-2022,bond,Diversified,Medium,12700,12.31,18.69,2373.63,9.09,48,CHENNAI,Priya Nair,closed
+INV00377,C0361,14-Jul-2021,gold,Diversified,Medium,76000,7.92,9.91,237017.88,12.39,6,MUMBAI,Sneha Iyer,active
+INV01238,C0179,05-Dec-2024,real estate,Diversified,Medium,695500,8.83,2.13,14814.15,10.28,36,PUNE,Rahul Mehta,matured
+INV01347,C0326,27-Dec-2021,equity,Banking,High,434900,11.96,14.06,61146.94,20.48,12,CHENNAI,Rahul Mehta,closed
+INV00831,C0172,17-Jun-2024,real estate,Diversified,Medium,77600,10.98,8.68,237017.88,9.31,60,PUNE,Sneha Iyer,active
+INV01104,C0385,13-Dec-2025,mutual fund,Metals,Medium,55400,10.0,12.78,7080.12,12.35,18,BENGALURU,Vikram Singh,closed
+INV00987,C0024,18-Nov-2023,real estate,Diversified,Medium,11500,12.87,9.21,237017.88,8.89,6,HYDERABAD,Sneha Iyer,closed
+INV00701,C0235,23-Feb-2024,mutual fund,Technology,Medium,39900,10.56,5.02,2002.98,12.74,6,MUMBAI,Vikram Singh,closed
+INV00797,C0384,11-May-2022,fixed deposit,Diversified,Low,1373200,7.71,7.16,98321.12,0.55,48,KOLKATA,Vikram Singh,active
+INV00967,C0161,01-Apr-2021,fixed deposit,Diversified,Low,43000,6.51,6.5,2795.0,0.51,12,BENGALURU,Karthik S,closed
+INV00550,C0086,03-May-2025,crypto,Diversified,Very High,38700,28.7,115.61,44741.07,67.12,36,HYDERABAD,Arun Kumar,matured
+INV01360,C0353,25-Oct-2024,fixed deposit,Diversified,Low,144500,4.75,4.66,6733.7,0.48,24,KOLKATA,Rahul Mehta,matured
+INV00229,C0189,16-Aug-2023,equity,Metals,High,288500,9.8,6.97,20108.45,23.57,12,BENGALURU,Arun Kumar,active
+INV01344,C0310,23-Sep-2023,crypto,Diversified,Very High,22900,28.01,18.14,4154.06,65.17,12,KOLKATA,Divya Raj,closed
+INV00686,C0269,26-Mar-2021,equity,Infrastructure,High,327100,10.53,19.69,64405.99,20.95,36,HYDERABAD,Priya Nair,closed
+INV00739,C0001,31-Aug-2021,gold,Diversified,Medium,157900,7.44,4.75,7500.25,12.32,6,BENGALURU,Divya Raj,active
+INV00853,C0092,14-Aug-2022,etf,Banking,Medium,17000,6.65,9.11,1548.7,15.01,6,MUMBAI,Rahul Mehta,active
+INV00683,C0354,10-Dec-2024,bond,Diversified,Low,1425700,6.5,5.68,80979.76,5.0,36,PUNE,Arun Kumar,matured
+INV01434,C0077,08-Dec-2023,etf,FMCG,Medium,53300,9.69,0.12,63.96,14.36,36,HYDERABAD,Divya Raj,active
+INV00390,C0043,04-Aug-2024,fixed deposit,Diversified,Low,650900,7.38,7.64,49728.76,0.53,36,HYDERABAD,Vikram Singh,active
+INV01174,C0331,30-Oct-2021,crypto,Diversified,Very High,13000,16.69,61.87,8043.1,63.02,18,HYDERABAD,Sneha Iyer,matured
+INV00693,C0316,10-Aug-2025,real estate,Diversified,Medium,79400,12.02,11.24,8924.56,11.2,60,BENGALURU,Vikram Singh,active
+INV00756,C0282,15-Oct-2022,mutual fund,FMCG,Medium,85700,11.79,13.63,11680.91,11.51,12,KOLKATA,Karthik S,closed
+INV00448,C0106,16-Dec-2021,etf,FMCG,Medium,52300,11.01,20.33,10632.59,15.66,6,BENGALURU,Karthik S,active
+INV00844,C0236,24-Oct-2025,etf,Telecom,Medium,76200,9.13,1.85,1409.7,15.71,48,HYDERABAD,Arun Kumar,closed
+INV00865,C0387,20-Mar-2024,real estate,Diversified,Medium,1496000,10.93,15.2,227392.0,0.51,48,MUMBAI,Karthik S,matured
+INV01004,C0151,20-Jan-2025,crypto,Diversified,Very High,731200,23.23,62.63,457950.56,0.51,48,BENGALURU,Sneha Iyer,matured
+INV00069,C0209,19-Aug-2022,bond,Diversified,Low,49800,5.16,6.33,3152.34,4.53,36,BENGALURU,Sneha Iyer,active
+INV01385,C0368,30-Jul-2022,bond,Diversified,Low,96500,6.58,8.87,8559.55,4.63,24,CHENNAI,Vikram Singh,matured
+INV00090,C0272,06-Dec-2022,real estate,Diversified,Medium,268300,8.64,9.26,24844.58,9.56,24,KOLKATA,Vikram Singh,closed
+INV00595,C0106,09-Nov-2024,mutual fund,Infrastructure,Medium,9800,7.74,8.36,819.28,15.06,24,DELHI,Arun Kumar,active
+INV01108,C0044,03-Oct-2021,bond,Diversified,Low,213600,5.62,6.17,13179.12,4.23,60,CHENNAI,Rahul Mehta,closed
+INV00486,C0176,19-Aug-2022,bond,Diversified,Low,79600,4.78,5.81,4624.76,0.51,36,BENGALURU,Priya Nair,closed
+INV00846,C0354,13-Nov-2022,equity,Metals,High,24600,11.47,22.56,237017.88,24.15,6,DELHI,Sneha Iyer,closed
+INV00808,C0137,07-Nov-2021,equity,Infrastructure,High,12600,14.11,13.64,1718.64,21.5,24,HYDERABAD,Arun Kumar,matured
+INV00397,C0185,24-Apr-2021,mutual fund,Pharma,Medium,76000,10.83,11.5,121348.0,12.64,60,HYDERABAD,Vikram Singh,closed
+INV01315,C0055,19-Sep-2024,fixed deposit,Diversified,Low,163500,6.19,6.07,9924.45,0.38,36,CHENNAI,Sneha Iyer,matured
+INV00611,C0212,25-Dec-2022,gold,Diversified,Medium,105000,8.85,14.7,15435.0,12.28,36,HYDERABAD,Arun Kumar,matured
+INV00784,C0176,01-Jan-2024,mutual fund,Technology,Medium,121300,9.41,14.19,17212.47,15.48,24,BENGALURU,Vikram Singh,closed
+INV01487,C0386,25-Dec-2025,equity,Metals,High,76000,9.21,23.15,17594.0,0.51,36,CHENNAI,Karthik S,active
+INV01328,C0201,26-Jan-2025,fixed deposit,Diversified,Low,68600,8.47,8.1,5556.6,0.66,18,MUMBAI,Divya Raj,matured
+INV01233,C0138,19-Aug-2022,gold,Diversified,Medium,30700,7.31,13.1,4021.7,12.4,48,KOLKATA,Priya Nair,matured
+INV00823,C0298,25-Mar-2021,bond,Diversified,Low,843600,5.76,7.48,63101.28,5.02,12,CHENNAI,Karthik S,matured
+INV01225,C0410,06-Oct-2022,bond,Diversified,Low,11500,5.39,5.22,600.3,5.41,6,CHENNAI,Priya Nair,matured
+INV01008,C0258,07-Mar-2021,bond,Diversified,Low,71400,6.05,450.5,6290.34,4.79,60,CHENNAI,Rahul Mehta,closed
+INV00109,C0169,24-Apr-2023,crypto,Diversified,Very High,36400,21.23,51.75,18837.0,52.71,48,BENGALURU,Vikram Singh,matured
+INV00809,C0433,30-Jan-2025,etf,Banking,Medium,1036100,8.47,12.98,134485.78,15.77,36,BENGALURU,Arun Kumar,closed
+INV00629,C0348,25-May-2024,fixed deposit,Diversified,Low,23800,6.77,6.53,1554.14,0.51,12,HYDERABAD,Vikram Singh,matured
+INV00205,C0122,09-Sep-2022,fixed deposit,Diversified,Low,34400,7.09,7.82,237017.88,0.44,6,CHENNAI,Priya Nair,closed
+INV00248,C0320,25-Oct-2024,etf,Telecom,Medium,142500,8.89,9.07,12924.75,14.06,6,MUMBAI,Arun Kumar,closed
+INV00753,C0024,31-Jul-2021,equity,Metals,High,23300,13.6,13.84,3224.72,21.07,60,KOLKATA,Divya Raj,closed
+INV00049,C0443,14-Feb-2025,crypto,Diversified,Very High,701100,25.97,14.04,98434.44,64.69,60,MUMBAI,Rahul Mehta,active
+INV01537,C0140,30-Dec-2025,bond,Diversified,Low,12000,7.17,7.33,879.6,4.58,36,HYDERABAD,Karthik S,active
+INV01462,C0391,10-Sep-2024,etf,Diversified,Medium,43900,11.33,450.5,3722.72,14.09,24,CHENNAI,Karthik S,matured
+INV00597,C0402,19-Aug-2022,fixed deposit,Diversified,Low,76000,7.13,6.57,4993.2,0.51,24,MUMBAI,Rahul Mehta,matured
+INV00539,C0100,26-Aug-2022,crypto,Diversified,Very High,103200,24.32,36.14,37296.48,79.16,24,MUMBAI,Divya Raj,active
+INV01125,C0309,28-Sep-2023,bond,Diversified,Low,14300,7.91,2.95,421.85,5.9,6,MUMBAI,Priya Nair,active
+INV01442,C0449,04-Sep-2025,etf,Diversified,Medium,48800,9.22,16.4,8003.2,13.86,6,MUMBAI,Vikram Singh,closed
+INV00850,C0137,29-Oct-2023,gold,Diversified,Medium,69000,7.32,21.14,14586.6,13.23,48,BENGALURU,Rahul Mehta,active
+INV00982,C0251,02-Jul-2023,mutual fund,Automobile,Medium,278200,9.71,1.42,3950.44,14.45,24,DELHI,Vikram Singh,matured
+INV00545,C0110,20-Sep-2024,fixed deposit,Diversified,Low,23700,6.14,6.04,1431.48,0.55,18,DELHI,Rahul Mehta,closed
+INV00521,C0059,19-Jul-2021,etf,Energy,Medium,329000,10.96,5.86,19279.4,13.88,6,DELHI,Rahul Mehta,matured
+INV00454,C0366,13-Mar-2021,mutual fund,Metals,Medium,751400,10.28,14.33,107675.62,13.98,36,HYDERABAD,Karthik S,matured
+INV00033,C0402,27-May-2025,equity,Pharma,High,432600,12.53,12.59,54464.34,22.57,18,BENGALURU,Divya Raj,matured
+INV00519,C0317,29-Jul-2024,equity,FMCG,High,34800,11.59,22.01,7659.48,22.81,36,BENGALURU,Priya Nair,matured
+INV00600,C0326,11-Jan-2021,equity,Banking,High,49500,10.57,10.83,5360.85,24.37,60,MUMBAI,Sneha Iyer,matured
+INV00706,C0079,19-Aug-2022,gold,Diversified,Medium,420200,7.38,1.55,6513.1,11.73,18,HYDERABAD,Rahul Mehta,closed
+INV01486,C0224,29-Apr-2021,crypto,Diversified,Very High,198400,26.08,9.29,18431.36,53.06,12,MUMBAI,Arun Kumar,matured
+INV01394,C0411,09-Oct-2023,crypto,Diversified,Very High,59800,23.71,8.01,4789.98,61.67,24,CHENNAI,Rahul Mehta,closed
+INV00728,C0438,19-Oct-2023,real estate,Diversified,Medium,10600,10.41,17.15,1817.9,9.82,36,PUNE,Arun Kumar,matured
+INV00742,C0171,01-Dec-2022,crypto,Diversified,Very High,7100,7.2,61.38,4357.98,56.1,24,KOLKATA,Vikram Singh,matured
+INV01519,C0060,20-Nov-2024,gold,Diversified,Medium,914800,7.9,2.05,18753.4,11.64,12,BENGALURU,Divya Raj,closed
+INV01560,C0387,15-Dec-2023,equity,Banking,High,14500,13.99,16.99,2463.55,23.9,36,BENGALURU,Karthik S,closed
+INV00182,C0181,06-Nov-2023,real estate,Diversified,Medium,119100,7.2,10.38,12362.58,7.53,6,DELHI,Sneha Iyer,closed
+INV01222,C0033,01-Jan-2025,real estate,Diversified,Medium,35000,11.52,4.48,1568.0,11.19,60,PUNE,Vikram Singh,active
+INV00977,C0023,19-Aug-2022,real estate,Diversified,Medium,9300,13.6,18.38,1709.34,10.99,36,BENGALURU,Rahul Mehta,matured
+INV00535,C0053,15-Jun-2024,equity,Metals,High,353500,10.84,5.95,21033.25,20.24,60,BENGALURU,Divya Raj,matured
+INV01575,C0446,21-Aug-2021,mutual fund,Technology,Medium,39900,10.04,450.5,3786.51,13.58,24,BENGALURU,Vikram Singh,matured
+INV01147,C0263,09-Aug-2021,bond,Diversified,Low,32200,5.24,5.61,1806.42,5.15,60,DELHI,Rahul Mehta,matured
+INV00218,C0157,19-Aug-2022,mutual fund,Telecom,Medium,315200,11.69,4.15,13080.8,13.62,48,BENGALURU,Priya Nair,matured
+INV00241,C0063,02-Jul-2022,mutual fund,Pharma,Medium,210400,10.46,2.63,5533.52,11.61,12,MUMBAI,Arun Kumar,active
+INV00643,C0306,19-Apr-2022,equity,Technology,High,699000,7.45,19.21,134277.9,21.37,36,DELHI,Priya Nair,closed
+INV01026,C0156,27-Jan-2025,real estate,Diversified,Medium,107400,14.0,16.98,18236.52,10.78,24,BENGALURU,Arun Kumar,matured
+INV01182,C0109,16-Jan-2022,bond,Energy,Medium,1167100,8.38,10.87,126863.77,15.93,6,KOLKATA,Priya Nair,active
+INV01408,C0111,17-Aug-2023,equity,Automobile,High,46000,13.52,26.48,12180.8,21.99,12,BENGALURU,Arun Kumar,closed
+INV01200,C0381,16-Feb-2025,crypto,Diversified,Very High,755100,28.78,21.73,164083.23,62.02,48,BENGALURU,Divya Raj,matured
+INV01454,C0316,10-Sep-2021,real estate,Diversified,Medium,1459300,12.12,7.87,114846.91,10.31,24,MUMBAI,Divya Raj,active
+INV01050,C0167,07-Jan-2022,bond,Diversified,Low,12100,5.81,450.5,237017.88,4.94,6,KOLKATA,Arun Kumar,closed
+INV00311,C0005,24-Mar-2022,gold,Diversified,Medium,32700,7.33,2.99,977.73,0.51,36,BENGALURU,Rahul Mehta,active
+INV00042,C0080,12-Jul-2022,mutual fund,FMCG,Medium,33600,7.9,24.13,8107.68,14.82,36,MUMBAI,Divya Raj,closed
+INV01540,C0375,01-Oct-2024,mutual fund,Banking,Medium,79700,5.74,5.0,3985.0,13.98,18,PUNE,Arun Kumar,matured
+INV00210,C0376,07-Sep-2024,crypto,Diversified,Very High,23600,24.53,450.5,13579.44,60.33,48,CHENNAI,Karthik S,matured
+INV00895,C0438,23-Oct-2023,real estate,Diversified,Medium,76000,10.46,12.26,29191.06,10.73,60,KOLKATA,Vikram Singh,active
+INV00670,C0311,10-Jan-2025,real estate,Diversified,Medium,9700,9.65,14.65,1421.05,10.66,6,CHENNAI,Priya Nair,matured
+INV00546,C0422,21-Mar-2025,gold,Diversified,Medium,1596600,7.2,9.82,156786.12,10.85,48,CHENNAI,Arun Kumar,matured
+INV01509,C0366,15-Jun-2022,equity,FMCG,High,49600,14.12,2.9,1438.4,24.52,24,KOLKATA,Karthik S,closed
+INV00999,C0435,13-Oct-2023,mutual fund,Telecom,Medium,789700,8.57,10.39,82049.83,14.11,36,KOLKATA,Vikram Singh,closed
+INV00040,C0126,27-Jan-2023,bond,Diversified,Low,370200,5.36,7.45,27579.9,5.57,18,MUMBAI,Sneha Iyer,matured
+INV01234,C0079,10-Oct-2022,crypto,Diversified,Very High,51000,24.16,72.38,36913.8,66.39,60,BENGALURU,Sneha Iyer,active
+INV00362,C0053,16-Feb-2025,etf,Energy,Medium,119200,14.43,17.78,21193.76,15.57,18,PUNE,Arun Kumar,closed
+INV00628,C0287,16-Feb-2024,crypto,Diversified,Very High,96100,31.06,15.48,14876.28,0.51,60,DELHI,Rahul Mehta,active
+INV00632,C0037,12-Jun-2021,fixed deposit,Diversified,Low,724500,6.69,6.58,47672.1,0.5,12,DELHI,Priya Nair,closed
+INV00527,C0308,26-May-2024,bond,Diversified,Low,24700,5.78,6.24,1541.28,4.59,18,HYDERABAD,Sneha Iyer,closed
+INV01460,C0441,28-Oct-2023,bond,Diversified,Low,275200,8.49,6.49,17860.48,5.15,12,DELHI,Divya Raj,matured
+INV00074,C0070,11-Nov-2025,equity,Diversified,High,31100,12.15,13.14,4086.54,27.09,12,CHENNAI,Rahul Mehta,closed
+INV00304,C0185,17-Nov-2023,etf,Pharma,Medium,227100,14.57,16.16,36699.36,14.54,24,CHENNAI,Karthik S,matured
+INV00552,C0079,18-Feb-2021,fixed deposit,Diversified,Low,33700,6.44,6.35,2139.95,0.52,24,KOLKATA,Rahul Mehta,active
+INV00291,C0035,26-Jul-2021,fixed deposit,Diversified,Low,8400,7.2,6.21,521.64,0.46,36,CHENNAI,Sneha Iyer,matured
+INV01054,C0010,06-Jul-2022,equity,Metals,High,616800,12.56,17.27,106521.36,20.67,36,KOLKATA,Arun Kumar,active
+INV01326,C0017,08-May-2022,gold,Diversified,Medium,92900,7.2,17.36,16127.44,12.61,18,CHENNAI,Vikram Singh,matured
+INV00489,C0207,29-May-2023,bond,Diversified,Low,616700,5.93,10.35,237017.88,5.29,24,BENGALURU,Arun Kumar,matured
+INV00259,C0445,16-Jan-2025,crypto,Diversified,Very High,319000,27.33,8.94,28518.6,50.58,48,KOLKATA,Karthik S,matured
+INV01364,C0401,04-Apr-2022,fixed deposit,Diversified,Low,15400,6.4,6.83,1051.82,0.45,36,DELHI,Rahul Mehta,matured
+INV00342,C0337,23-Sep-2024,mutual fund,Infrastructure,Medium,34200,13.21,16.79,237017.88,16.42,12,KOLKATA,Vikram Singh,active
+INV00625,C0091,14-May-2023,bond,Diversified,Low,1405700,6.2,9.73,136774.61,5.39,24,MUMBAI,Karthik S,matured
+INV01223,C0419,04-Jan-2024,fixed deposit,Diversified,Low,9900,7.55,7.51,743.49,0.53,60,PUNE,Vikram Singh,closed
+INV00372,C0423,10-Mar-2022,fixed deposit,Diversified,Low,117600,7.31,7.42,8725.92,0.51,24,DELHI,Rahul Mehta,closed
+INV00591,C0023,29-Nov-2024,fixed deposit,Diversified,Low,485200,6.84,6.65,32265.8,0.58,36,BENGALURU,Priya Nair,closed
+INV01206,C0353,10-Sep-2021,equity,FMCG,High,227200,13.32,10.5,23856.0,19.83,60,KOLKATA,Vikram Singh,closed
+INV00988,C0292,23-Jul-2025,mutual fund,FMCG,Medium,1260900,7.2,2.09,26352.81,0.51,18,DELHI,Vikram Singh,active
+INV00880,C0376,24-Mar-2024,etf,Technology,Medium,24300,7.2,15.23,3700.89,0.51,60,DELHI,Priya Nair,matured
+INV01242,C0094,18-Jun-2023,gold,Diversified,Medium,653400,5.86,9.14,59720.76,11.25,18,PUNE,Vikram Singh,matured
+INV01426,C0172,16-Jul-2023,mutual fund,Pharma,Medium,140400,9.85,3.49,4899.96,13.16,48,DELHI,Vikram Singh,closed
+INV00783,C0268,28-Dec-2025,real estate,Diversified,Medium,1116900,10.21,13.38,149441.22,9.14,36,CHENNAI,Priya Nair,closed
+INV00705,C0267,20-Oct-2024,bond,Diversified,Low,33200,6.54,8.21,2725.72,4.5,36,PUNE,Divya Raj,matured
+INV01046,C0362,15-Sep-2025,real estate,Diversified,Medium,63400,11.73,6.14,3892.76,10.95,24,BENGALURU,Arun Kumar,matured
+INV00713,C0192,19-Aug-2022,bond,Diversified,Low,1312000,6.6,3.03,39753.6,5.77,60,BENGALURU,Sneha Iyer,closed
+INV00774,C0121,04-Jun-2023,mutual fund,Telecom,Medium,146600,7.2,14.04,20582.64,14.62,24,KOLKATA,Vikram Singh,matured
+INV01099,C0339,17-Dec-2021,gold,Diversified,Medium,352400,6.55,15.53,54727.72,10.71,36,PUNE,Vikram Singh,closed
+INV00391,C0262,21-Feb-2022,real estate,Diversified,Medium,22700,12.25,12.79,2903.33,0.51,60,MUMBAI,Vikram Singh,closed
+INV00828,C0099,29-Aug-2021,fixed deposit,Diversified,Low,11600,8.55,8.32,965.12,0.6,24,CHENNAI,Vikram Singh,closed
+INV00481,C0431,08-Sep-2024,crypto,Diversified,Very High,144500,27.49,33.56,48494.2,67.04,36,MUMBAI,Rahul Mehta,active
+INV00948,C0431,13-Nov-2022,etf,Automobile,Medium,1336900,8.5,1.55,20721.95,17.22,60,CHENNAI,Karthik S,active
+INV00743,C0427,24-Nov-2022,equity,Pharma,High,39700,14.56,4.74,1881.78,20.68,24,PUNE,Arun Kumar,matured
+INV00525,C0302,30-Oct-2023,mutual fund,Healthcare,Medium,1057400,7.2,13.26,140211.24,12.1,24,CHENNAI,Vikram Singh,matured
+INV00025,C0031,14-Apr-2022,equity,Banking,High,32700,7.2,21.38,6991.26,25.44,24,PUNE,Rahul Mehta,active
+INV01214,C0384,05-Feb-2022,bond,Diversified,Low,61400,6.95,6.52,4003.28,4.75,48,KOLKATA,Arun Kumar,closed
+INV00312,C0273,04-Feb-2024,etf,Automobile,Medium,615700,7.37,3.44,237017.88,15.66,6,CHENNAI,Vikram Singh,matured
+INV00163,C0180,28-Sep-2025,etf,Diversified,Medium,108500,9.93,21.22,23023.7,13.38,18,CHENNAI,Karthik S,closed
+INV00158,C0424,18-Jul-2023,etf,Automobile,Medium,76000,7.2,15.9,12084.0,12.73,24,KOLKATA,Arun Kumar,closed
+INV00995,C0108,13-Sep-2023,equity,Diversified,High,109400,13.32,5.41,5918.54,22.64,48,MUMBAI,Sneha Iyer,matured
+INV00403,C0234,17-Jan-2021,real estate,Diversified,Medium,171600,9.84,3.29,5645.64,9.34,18,MUMBAI,Rahul Mehta,matured
+INV00386,C0028,25-May-2025,gold,Diversified,Medium,447800,9.21,21.79,97575.62,11.17,60,MUMBAI,Sneha Iyer,closed
+INV00835,C0300,20-Sep-2023,fixed deposit,Diversified,Low,50500,6.46,6.13,3095.65,0.47,6,BENGALURU,Priya Nair,active
+INV00148,C0106,21-May-2021,gold,Diversified,Medium,69300,7.96,7.54,5225.22,9.52,60,PUNE,Vikram Singh,active
+INV00407,C0073,28-Dec-2024,fixed deposit,Diversified,Low,1561200,5.95,5.59,87271.08,0.61,18,CHENNAI,Arun Kumar,active
+INV01217,C0124,24-Mar-2023,fixed deposit,Diversified,Low,47500,7.6,450.5,3667.0,0.48,24,BENGALURU,Divya Raj,matured
+INV00577,C0194,19-Jan-2023,real estate,Diversified,Medium,48800,11.61,10.29,5021.52,11.84,36,KOLKATA,Karthik S,active
+INV01458,C0062,01-Mar-2024,bond,Diversified,Low,8800,5.97,6.27,551.76,4.45,24,CHENNAI,Vikram Singh,closed
+INV00398,C0294,12-Oct-2024,bond,Diversified,Low,137300,5.2,5.95,8169.35,4.7,48,CHENNAI,Priya Nair,matured
+INV00141,C0288,03-Nov-2022,etf,Telecom,Medium,12200,14.4,12.21,237017.88,17.63,12,KOLKATA,Arun Kumar,matured
+INV01528,C0182,09-Jul-2023,equity,Automobile,High,33500,10.23,18.85,237017.88,21.99,48,BENGALURU,Divya Raj,closed
+INV00432,C0361,18-Oct-2021,equity,Diversified,High,7500,13.51,12.41,930.75,22.18,60,HYDERABAD,Karthik S,closed
+INV00175,C0140,16-Aug-2022,fixed deposit,Diversified,Low,654700,7.2,5.89,38561.83,0.53,6,BENGALURU,Arun Kumar,closed
+INV00083,C0326,31-Dec-2025,mutual fund,Pharma,Medium,780400,9.29,450.5,162635.36,13.09,48,MUMBAI,Sneha Iyer,active
+INV00894,C0103,14-Jan-2022,mutual fund,Infrastructure,Medium,89100,9.6,7.34,6539.94,14.95,24,CHENNAI,Priya Nair,matured
+INV00149,C0076,04-Jun-2025,gold,Diversified,Medium,69600,6.43,8.78,6110.88,12.8,36,CHENNAI,Rahul Mehta,active
+INV01432,C0267,08-Dec-2024,real estate,Diversified,Medium,48100,10.66,2.1,1010.1,11.21,18,PUNE,Vikram Singh,active
+INV00413,C0047,19-Nov-2021,etf,FMCG,Medium,145200,13.77,17.8,237017.88,14.17,60,KOLKATA,Divya Raj,matured
+INV00729,C0338,02-Sep-2023,etf,Pharma,Medium,61300,7.35,4.97,3046.61,17.3,24,BENGALURU,Arun Kumar,matured
+INV00596,C0275,18-May-2023,fixed deposit,Diversified,Low,86100,5.31,5.08,4373.88,0.48,36,DELHI,Vikram Singh,closed
+INV00441,C0246,04-Jun-2025,crypto,Diversified,Very High,350700,25.21,450.5,80590.86,63.18,60,HYDERABAD,Divya Raj,matured
+INV00393,C0314,31-May-2024,mutual fund,Technology,Medium,358000,7.46,0.61,2183.8,13.86,18,KOLKATA,Divya Raj,matured
+INV01078,C0414,19-Feb-2021,bond,Telecom,Medium,10800,6.96,18.91,237017.88,12.5,60,KOLKATA,Rahul Mehta,closed
+INV01070,C0338,22-Feb-2025,etf,Telecom,Medium,57600,12.37,16.06,9250.56,16.35,48,KOLKATA,Vikram Singh,matured
+INV00610,C0442,26-Feb-2021,etf,Pharma,Medium,1496500,13.33,13.47,237017.88,14.85,6,DELHI,Arun Kumar,closed
+INV01538,C0014,27-Jan-2023,equity,Energy,High,1432500,8.36,1.91,27360.75,25.17,18,HYDERABAD,Sneha Iyer,matured
+INV01466,C0396,14-Jul-2025,etf,Energy,Medium,340000,8.76,2.18,7412.0,13.65,6,MUMBAI,Divya Raj,closed
+INV00062,C0244,05-Jun-2024,bond,Diversified,Low,6500,6.97,8.72,566.8,4.89,60,PUNE,Arun Kumar,closed
+INV00716,C0219,10-Apr-2023,crypto,Diversified,Very High,1487600,30.59,450.5,144594.72,50.39,24,CHENNAI,Vikram Singh,matured
+INV00998,C0425,04-Sep-2025,gold,Diversified,Medium,67100,8.72,7.44,4992.24,12.09,24,CHENNAI,Rahul Mehta,active
+INV00556,C0352,10-Sep-2022,crypto,Diversified,Very High,76000,24.91,11.28,2504.16,0.51,36,CHENNAI,Rahul Mehta,closed
+INV01049,C0131,23-Apr-2025,bond,Diversified,Low,74400,6.92,5.07,3772.08,0.51,6,BENGALURU,Rahul Mehta,closed
+INV00551,C0397,13-Mar-2022,mutual fund,Automobile,Medium,95300,10.87,12.28,11702.84,14.46,60,CHENNAI,Priya Nair,matured
+INV00327,C0055,07-Jul-2021,bond,Diversified,Low,458300,4.96,7.07,32401.81,5.38,6,DELHI,Sneha Iyer,closed
+INV00832,C0091,20-Nov-2021,mutual fund,Technology,Medium,15200,12.17,17.15,2606.8,12.24,24,HYDERABAD,Arun Kumar,active
+INV00071,C0181,04-Sep-2022,fixed deposit,Diversified,Low,605900,7.38,7.67,46472.53,0.56,60,BENGALURU,Karthik S,closed
+INV01599,C0314,31-Dec-2024,mutual fund,Healthcare,Medium,9700,9.77,12.74,1235.78,12.23,48,KOLKATA,Priya Nair,active
+INV00459,C0076,06-Mar-2024,fixed deposit,Diversified,Low,25400,8.3,8.1,2057.4,0.49,36,HYDERABAD,Karthik S,active
+INV00338,C0237,21-Dec-2024,bond,Diversified,Low,15500,6.69,4.61,714.55,6.04,12,BENGALURU,Karthik S,closed
+INV00336,C0356,20-Jul-2024,fixed deposit,Diversified,Low,222900,7.2,7.39,16472.31,0.54,24,HYDERABAD,Karthik S,active
+INV01259,C0102,09-Sep-2023,bond,Diversified,Very High,7600,18.36,39.17,2976.92,62.83,48,DELHI,Arun Kumar,closed
+INV00242,C0140,24-May-2022,real estate,Diversified,Medium,732100,12.23,11.29,82654.09,10.17,60,MUMBAI,Karthik S,closed
+INV01565,C0104,24-Jul-2021,equity,FMCG,High,87400,13.71,11.5,237017.88,23.16,48,HYDERABAD,Sneha Iyer,matured
+INV01425,C0269,28-Oct-2023,equity,Healthcare,High,143500,9.55,10.28,14751.8,19.62,60,MUMBAI,Karthik S,active
+INV00926,C0140,18-May-2021,mutual fund,Telecom,Medium,29800,9.57,7.92,2360.16,0.51,60,HYDERABAD,Sneha Iyer,closed
+INV00039,C0289,24-Jul-2021,mutual fund,Banking,Medium,10600,9.71,9.46,1002.76,14.42,36,MUMBAI,Vikram Singh,closed
+INV00782,C0354,13-Jun-2021,crypto,Diversified,Very High,29500,23.03,48.86,14413.7,47.08,12,KOLKATA,Divya Raj,matured
+INV00394,C0071,07-Dec-2024,bond,Diversified,Low,15300,5.42,450.5,1370.88,5.09,6,MUMBAI,Sneha Iyer,closed
+INV00691,C0398,31-May-2023,gold,Diversified,Medium,50400,9.16,9.76,4919.04,13.48,18,KOLKATA,Vikram Singh,active
+INV01349,C0220,02-Dec-2022,bond,Diversified,Low,6900,7.41,9.09,627.21,4.79,60,DELHI,Priya Nair,active
+INV01291,C0372,08-Jun-2023,bond,Diversified,Low,831700,5.14,2.35,19544.95,5.08,18,MUMBAI,Vikram Singh,active
+INV00526,C0248,08-Nov-2023,equity,Healthcare,High,719400,11.94,22.68,163159.92,18.45,48,HYDERABAD,Priya Nair,matured
+INV00892,C0388,03-Jun-2023,mutual fund,Technology,Medium,13700,9.19,3.16,432.92,12.59,12,CHENNAI,Arun Kumar,matured
+INV01488,C0065,19-Aug-2022,gold,Diversified,Medium,6800,10.22,17.78,1209.04,13.01,12,DELHI,Arun Kumar,closed
+INV00440,C0225,09-Feb-2025,mutual fund,Automobile,Medium,6500,9.54,8.31,540.15,13.15,12,BENGALURU,Sneha Iyer,closed
+INV01566,C0209,23-Feb-2024,real estate,Diversified,Medium,346500,10.67,17.36,60152.4,10.51,18,BENGALURU,Rahul Mehta,matured
+INV00557,C0016,29-Aug-2023,fixed deposit,Diversified,Low,711100,7.66,7.59,237017.88,0.53,12,HYDERABAD,Priya Nair,active
+INV00662,C0251,24-Jan-2022,etf,Telecom,Medium,114300,12.42,16.63,19008.09,16.43,12,HYDERABAD,Rahul Mehta,closed
+INV01398,C0213,21-Jan-2025,etf,FMCG,Medium,35700,11.43,9.11,3252.27,16.93,18,DELHI,Karthik S,closed
+INV00978,C0411,11-Aug-2024,bond,Diversified,Low,109700,6.06,8.24,9039.28,4.56,18,DELHI,Karthik S,active
+INV00193,C0052,06-Nov-2023,mutual fund,Metals,Medium,144400,10.35,0.8,1155.2,15.08,60,KOLKATA,Vikram Singh,active
+INV00798,C0006,09-Oct-2024,crypto,Diversified,Very High,45700,21.51,4.93,237017.88,51.02,6,PUNE,Arun Kumar,active
+INV01295,C0194,26-Feb-2023,bond,Diversified,Low,12000,4.7,4.55,546.0,4.55,6,CHENNAI,Karthik S,active
+INV01132,C0234,12-Dec-2022,mutual fund,FMCG,Medium,124600,9.89,1.72,2143.12,16.76,24,HYDERABAD,Karthik S,active
+INV00962,C0069,20-Nov-2025,etf,Infrastructure,Medium,15300,11.76,9.04,1383.12,10.88,48,BENGALURU,Divya Raj,matured
+INV00875,C0196,16-Aug-2022,bond,Diversified,Low,59000,6.58,7.75,4572.5,5.71,36,BENGALURU,Arun Kumar,closed
+INV01017,C0212,19-Aug-2022,gold,Diversified,Medium,70100,8.51,0.71,497.71,13.44,24,PUNE,Vikram Singh,matured
+INV01379,C0093,04-Sep-2022,crypto,Diversified,Very High,99999999,24.58,22.97,237017.88,57.67,6,MUMBAI,Divya Raj,matured
+INV00680,C0262,14-Feb-2024,equity,Telecom,High,151900,11.08,450.5,12653.27,21.94,36,BENGALURU,Arun Kumar,active
+INV00575,C0406,10-Jan-2023,equity,Automobile,High,83800,13.33,2.41,2019.58,23.35,24,BENGALURU,Arun Kumar,active
+INV00471,C0438,17-Mar-2024,equity,Energy,High,324800,14.39,19.68,63920.64,23.22,60,BENGALURU,Divya Raj,active
+INV00462,C0170,15-Nov-2024,fixed deposit,Diversified,Low,10000,6.18,6.27,627.0,0.54,12,CHENNAI,Divya Raj,closed
+INV00143,C0070,07-Mar-2023,mutual fund,Pharma,Medium,111500,8.55,16.47,18364.05,14.96,18,KOLKATA,Divya Raj,matured
+INV00200,C0076,29-Aug-2025,real estate,Diversified,Medium,1505300,7.2,11.19,168443.07,9.56,24,CHENNAI,Priya Nair,closed
+INV00060,C0407,19-Jun-2025,etf,Healthcare,Medium,83300,13.4,33.26,27705.58,14.6,48,CHENNAI,Rahul Mehta,matured
+INV01588,C0001,25-Oct-2022,bond,Diversified,Low,53800,7.15,8.18,4400.84,5.34,6,CHENNAI,Priya Nair,matured
+INV01294,C0219,18-May-2022,gold,Diversified,Medium,18600,7.76,8.84,1644.24,12.36,24,KOLKATA,Sneha Iyer,active
+INV01300,C0140,10-Apr-2022,bond,Diversified,Low,15100,7.19,8.18,1235.18,5.21,24,BENGALURU,Priya Nair,closed
+INV00934,C0126,21-Jun-2025,mutual fund,FMCG,Medium,39600,10.45,29.65,11741.4,14.26,24,BENGALURU,Vikram Singh,closed
+INV00113,C0160,03-Feb-2024,equity,Technology,High,98200,10.51,14.91,14641.62,21.29,36,BENGALURU,Arun Kumar,matured
+INV00081,C0290,22-May-2025,real estate,Diversified,Medium,34900,9.69,12.19,4254.31,9.89,6,DELHI,Vikram Singh,closed
+INV00896,C0391,29-Jan-2021,mutual fund,Metals,Medium,35500,10.47,0.79,280.45,14.66,12,KOLKATA,Priya Nair,closed
+INV01567,C0255,30-Jan-2025,gold,Diversified,Medium,308600,8.15,2.47,7622.42,11.44,24,DELHI,Karthik S,matured
+INV00352,C0101,27-Jul-2023,mutual fund,Banking,Medium,48300,10.39,5.95,237017.88,13.23,18,KOLKATA,Karthik S,matured
+INV00602,C0267,10-Aug-2022,fixed deposit,Diversified,Medium,607000,5.26,4.78,29014.6,0.41,48,HYDERABAD,Arun Kumar,active
+INV00717,C0381,17-Mar-2024,fixed deposit,Diversified,Low,248500,6.69,6.64,16500.4,0.42,36,HYDERABAD,Vikram Singh,matured
+INV01240,C0133,20-Jan-2021,bond,Diversified,Low,1192300,9.15,9.12,108737.76,0.49,48,HYDERABAD,Divya Raj,active
+INV00677,C0289,23-Jan-2024,fixed deposit,Diversified,Low,302100,7.01,7.25,21902.25,0.48,12,BENGALURU,Karthik S,matured
+INV00306,C0300,01-Apr-2024,bond,Diversified,Low,8600,7.2,7.26,624.36,5.3,48,BENGALURU,Rahul Mehta,active
+INV01123,C0033,31-Dec-2023,fixed deposit,Diversified,Low,116200,6.26,6.38,7413.56,0.51,24,MUMBAI,Sneha Iyer,matured
+INV00351,C0106,25-Jul-2022,fixed deposit,Diversified,Low,13000,6.16,6.31,820.3,0.51,60,KOLKATA,Karthik S,active
+INV00404,C0303,08-Oct-2023,real estate,Diversified,Medium,79800,13.89,10.86,8666.28,0.51,60,BENGALURU,Priya Nair,matured
+INV01081,C0018,12-Feb-2023,mutual fund,Infrastructure,Medium,39400,10.02,5.01,1973.94,18.02,60,KOLKATA,Vikram Singh,active
+INV01526,C0182,19-Sep-2021,bond,Diversified,Low,752100,6.28,10.29,77391.09,4.41,24,KOLKATA,Vikram Singh,active
+INV00751,C0447,21-Jul-2021,real estate,Diversified,Medium,185800,10.79,2.44,4533.52,11.51,60,HYDERABAD,Divya Raj,active
+INV01141,C0274,27-Feb-2025,mutual fund,Automobile,Medium,44700,9.09,450.5,237017.88,13.89,24,BENGALURU,Divya Raj,active
+INV00262,C0140,18-Jan-2024,real estate,Diversified,Medium,72200,7.2,17.72,12793.84,10.56,24,BENGALURU,Karthik S,closed
+INV01531,C0370,19-Apr-2024,crypto,Diversified,Very High,776700,22.7,39.4,306019.8,61.18,18,PUNE,Arun Kumar,active
+INV00243,C0256,21-Nov-2023,crypto,Diversified,Very High,102200,25.07,8.31,8492.82,0.51,24,BENGALURU,Rahul Mehta,matured
+INV00116,C0142,02-May-2025,gold,Diversified,Medium,73200,8.28,1.06,775.92,10.26,60,PUNE,Sneha Iyer,closed
+INV00349,C0237,20-Apr-2022,bond,Diversified,Low,290000,6.33,8.1,237017.88,5.44,60,BENGALURU,Divya Raj,active
+INV00136,C0047,28-Aug-2022,equity,Diversified,High,333100,13.12,11.72,39039.32,19.65,48,BENGALURU,Priya Nair,active
+INV01220,C0261,06-Apr-2022,mutual fund,Technology,Medium,1241400,6.87,22.6,280556.4,14.22,36,HYDERABAD,Vikram Singh,closed
+INV00206,C0256,07-May-2024,etf,Metals,Medium,17800,11.21,16.71,2974.38,0.51,6,KOLKATA,Vikram Singh,matured
+INV00089,C0009,10-Jul-2021,etf,FMCG,Medium,1048200,10.58,21.3,223266.6,13.13,12,BENGALURU,Divya Raj,active
+INV01402,C0445,19-Aug-2022,bond,Diversified,Very High,15300,21.36,2.36,361.08,60.66,18,PUNE,Arun Kumar,active
+INV01407,C0447,12-May-2022,mutual fund,Energy,Medium,289600,10.49,3.23,9354.08,11.47,24,CHENNAI,Arun Kumar,closed
+INV00589,C0091,02-Sep-2023,fixed deposit,Diversified,Low,60300,6.55,7.2,4341.6,0.46,36,HYDERABAD,Arun Kumar,matured
+INV00901,C0146,25-Jul-2023,crypto,Diversified,Very High,715700,26.45,93.41,668535.37,66.55,36,KOLKATA,Rahul Mehta,matured
+INV00914,C0250,14-Apr-2025,bond,Diversified,Low,131600,7.33,8.54,11238.64,5.21,6,HYDERABAD,Divya Raj,closed
+INV00251,C0264,14-Oct-2021,etf,Infrastructure,Medium,60300,9.48,3.15,1899.45,12.97,36,DELHI,Vikram Singh,closed
+INV00084,C0423,06-Feb-2025,real estate,Diversified,Medium,1064900,11.67,15.68,166976.32,8.74,36,DELHI,Rahul Mehta,active
+INV00164,C0393,04-Aug-2025,gold,Diversified,Medium,722600,9.06,17.93,129562.18,11.99,36,HYDERABAD,Divya Raj,matured
+INV01536,C0342,25-Jul-2022,real estate,Diversified,Medium,38100,7.2,12.94,4930.14,9.65,12,CHENNAI,Priya Nair,matured
+INV00003,C0302,24-Jul-2022,gold,Diversified,Medium,410200,9.9,6.87,28180.74,12.92,60,BENGALURU,Arun Kumar,active
+INV01396,C0439,25-Mar-2024,real estate,Diversified,Medium,12400,11.59,7.17,889.08,12.35,6,BENGALURU,Rahul Mehta,active
+INV01260,C0366,18-Sep-2021,etf,Infrastructure,Medium,1399800,8.97,8.46,118423.08,11.89,60,PUNE,Karthik S,closed
+INV00567,C0250,04-Feb-2024,etf,Banking,Medium,343700,11.85,14.53,49939.61,15.27,12,KOLKATA,Vikram Singh,active
+INV00859,C0025,31-Oct-2021,crypto,Diversified,Very High,137000,34.83,73.87,101201.9,0.51,18,DELHI,Sneha Iyer,active
+INV01165,C0185,27-Mar-2023,real estate,Diversified,Medium,76000,11.82,14.24,96832.0,9.46,24,MUMBAI,Sneha Iyer,closed
+INV00114,C0332,01-Sep-2025,mutual fund,Healthcare,Medium,1547100,9.15,10.72,165849.12,12.85,24,KOLKATA,Rahul Mehta,matured
+INV00857,C0341,28-Nov-2024,crypto,Diversified,Very High,271500,28.22,29.34,237017.88,58.59,36,PUNE,Vikram Singh,closed
+INV01309,C0335,19-May-2022,crypto,Diversified,Very High,70100,24.02,51.86,36353.86,57.98,24,BENGALURU,Vikram Singh,closed
+INV00845,C0208,14-Jan-2022,bond,Infrastructure,Medium,73700,11.92,9.08,6691.96,13.62,48,BENGALURU,Divya Raj,matured
+INV01415,C0026,21-Aug-2024,etf,Automobile,Medium,97000,10.03,10.23,237017.88,16.05,48,BENGALURU,Priya Nair,closed
+INV01023,C0401,21-Aug-2024,etf,Automobile,Medium,371900,13.9,15.59,237017.88,15.03,60,MUMBAI,Rahul Mehta,active
+INV00771,C0163,06-Sep-2022,gold,Diversified,Medium,96100,7.62,9.25,8889.25,14.15,36,PUNE,Divya Raj,closed
+INV00958,C0254,31-Aug-2021,fixed deposit,Diversified,Low,1427300,7.27,7.09,101195.57,0.4,12,KOLKATA,Priya Nair,active
+INV01195,C0045,10-Sep-2022,equity,Metals,High,54900,15.46,16.15,8866.35,19.31,24,BENGALURU,Priya Nair,closed
+INV01003,C0099,20-Aug-2023,equity,Infrastructure,High,44400,7.2,22.94,10185.36,18.6,24,MUMBAI,Vikram Singh,active
+INV00145,C0112,28-Jun-2023,real estate,Diversified,Medium,12900,10.56,18.61,2400.69,10.72,24,MUMBAI,Karthik S,closed
+INV01522,C0341,10-Oct-2021,gold,Diversified,Medium,637100,8.26,4.57,29115.47,12.95,36,DELHI,Karthik S,closed
+INV00902,C0149,18-Oct-2025,etf,Automobile,Medium,86500,12.69,20.72,17922.8,15.37,12,PUNE,Arun Kumar,closed
+INV01461,C0078,22-Dec-2022,fixed deposit,Diversified,Low,19400,6.96,6.76,1311.44,0.51,48,KOLKATA,Vikram Singh,closed
+INV00548,C0059,02-Mar-2023,crypto,Diversified,Very High,758000,30.3,43.76,331700.8,59.52,18,HYDERABAD,Divya Raj,matured
+INV00518,C0061,16-Oct-2023,mutual fund,Technology,Medium,1047100,9.69,4.41,46177.11,12.77,6,BENGALURU,Sneha Iyer,active
+INV00196,C0123,26-Sep-2022,real estate,Diversified,Medium,834000,11.41,7.36,61382.4,9.54,60,PUNE,Sneha Iyer,active
+INV00924,C0326,02-Oct-2025,crypto,Diversified,Very High,400900,24.26,450.5,9340.97,58.76,60,CHENNAI,Karthik S,matured
+INV00408,C0383,23-Jun-2021,fixed deposit,Diversified,Low,264600,7.12,7.24,237017.88,0.53,36,CHENNAI,Vikram Singh,active
+INV01183,C0320,12-Aug-2021,real estate,Diversified,Medium,520400,12.13,5.76,29975.04,11.47,60,KOLKATA,Priya Nair,active
+INV01136,C0054,31-Oct-2023,mutual fund,Infrastructure,Medium,169100,6.2,7.14,12073.74,14.95,24,BENGALURU,Priya Nair,closed
+INV01243,C0267,11-Jan-2025,real estate,Diversified,Medium,155300,7.2,5.18,8044.54,11.07,60,MUMBAI,Rahul Mehta,matured
+INV01107,C0203,24-Mar-2022,gold,Diversified,Medium,1463200,9.35,10.8,158025.6,14.78,18,BENGALURU,Sneha Iyer,matured
+INV01127,C0441,22-Apr-2023,crypto,Diversified,Very High,7700,26.9,87.12,6708.24,55.63,24,MUMBAI,Arun Kumar,active
+INV00569,C0324,05-Mar-2021,mutual fund,Telecom,Medium,14500,10.61,15.2,2204.0,13.66,36,BENGALURU,Karthik S,matured
+INV01143,C0429,24-Jul-2024,gold,Diversified,Medium,1296700,8.3,310.2,146916.11,13.66,60,HYDERABAD,Divya Raj,matured
+INV00369,C0324,05-Jul-2022,fixed deposit,Diversified,Low,742200,7.2,8.11,60192.42,0.45,48,BENGALURU,Sneha Iyer,closed
+INV00626,C0288,25-Oct-2025,crypto,Diversified,Very High,76000,30.23,24.31,218790.0,0.51,36,BENGALURU,Sneha Iyer,active
+INV00973,C0384,08-Nov-2023,bond,Diversified,Medium,71700,7.2,11.23,237017.88,10.67,60,DELHI,Vikram Singh,matured
+INV01126,C0150,12-Sep-2024,fixed deposit,Diversified,Low,80600,5.76,5.47,4408.82,0.49,36,CHENNAI,Sneha Iyer,active
+INV00383,C0302,04-Feb-2025,mutual fund,Automobile,Medium,67600,8.36,17.91,12107.16,11.98,18,BENGALURU,Rahul Mehta,active
+INV00073,C0066,28-Jun-2024,fixed deposit,Diversified,Low,72000,6.01,5.86,4219.2,0.51,36,CHENNAI,Sneha Iyer,matured
+INV01533,C0388,01-Jan-2022,real estate,Diversified,Medium,246000,10.54,450.5,31783.2,11.29,12,CHENNAI,Karthik S,matured
+INV01453,C0095,07-Aug-2025,real estate,Diversified,Medium,541900,11.37,14.23,237017.88,0.51,12,PUNE,Karthik S,matured
+INV00485,C0257,03-Sep-2021,mutual fund,Automobile,Medium,1489400,10.36,15.35,228622.9,17.64,36,DELHI,Sneha Iyer,active
+INV00954,C0213,23-Jan-2023,crypto,Diversified,Very High,79900,25.73,39.47,31536.53,56.81,12,BENGALURU,Sneha Iyer,matured
+INV01278,C0368,29-Aug-2021,crypto,Diversified,Very High,262100,23.02,450.5,63139.89,0.51,24,CHENNAI,Sneha Iyer,closed
+INV00515,C0081,02-Nov-2023,equity,Pharma,High,12400,14.99,8.67,1075.08,20.99,60,BENGALURU,Karthik S,active
+INV00479,C0152,16-Jun-2022,bond,Diversified,Low,12600,6.34,5.7,718.2,0.51,24,BENGALURU,Sneha Iyer,matured
+INV01337,C0364,30-Apr-2025,crypto,Diversified,Very High,16800,23.17,23.89,4013.52,63.8,24,DELHI,Sneha Iyer,closed
+INV01310,C0298,04-Jan-2025,etf,Automobile,Medium,73800,11.76,12.9,9520.2,13.23,36,HYDERABAD,Karthik S,matured
+INV01001,C0217,26-Mar-2024,gold,Diversified,Medium,11300,5.71,3.44,388.72,10.97,18,HYDERABAD,Arun Kumar,closed
+INV00330,C0199,15-May-2025,fixed deposit,Diversified,Low,8900,7.69,7.7,685.3,0.49,6,KOLKATA,Vikram Singh,active
+INV00652,C0431,28-May-2022,etf,Automobile,Medium,39600,9.92,19.62,7769.52,14.11,60,CHENNAI,Arun Kumar,matured
+INV01314,C0357,12-Dec-2024,equity,Healthcare,High,35900,10.61,24.65,8849.35,22.83,24,KOLKATA,Arun Kumar,matured
+INV00561,C0316,06-Sep-2025,bond,Diversified,Low,76000,6.89,4.64,1818.88,4.99,18,MUMBAI,Arun Kumar,active
+INV00767,C0040,23-Feb-2025,gold,Diversified,Medium,63100,8.78,14.14,8922.34,10.2,48,HYDERABAD,Karthik S,closed
+INV00775,C0280,09-Mar-2022,fixed deposit,Diversified,Low,490800,7.27,7.27,35681.16,0.58,48,MUMBAI,Sneha Iyer,active
+INV00255,C0370,23-Jun-2024,etf,Automobile,Medium,56200,15.22,23.76,13353.12,14.86,12,PUNE,Vikram Singh,active
+INV00258,C0245,13-Dec-2023,gold,Diversified,Medium,399500,7.2,13.53,54052.35,12.76,24,DELHI,Priya Nair,closed
+INV01080,C0318,18-Jun-2023,gold,Diversified,Medium,34400,6.49,12.22,4203.68,12.22,60,CHENNAI,Divya Raj,closed
+INV00412,C0062,03-Jan-2024,etf,Infrastructure,Medium,914000,15.26,26.56,242758.4,13.79,60,MUMBAI,Sneha Iyer,closed
+INV00004,C0111,13-Apr-2025,fixed deposit,Diversified,Low,219500,7.35,7.21,15825.95,0.51,18,CHENNAI,Arun Kumar,closed
+INV00016,C0441,24-Jan-2021,etf,Banking,Medium,157100,9.81,17.37,27288.27,14.31,48,HYDERABAD,Karthik S,closed
+INV00364,C0313,19-Jul-2024,gold,Diversified,Medium,365300,7.2,7.54,27543.62,11.91,24,MUMBAI,Vikram Singh,active
+INV01308,C0254,19-May-2023,bond,Diversified,Low,476300,6.72,2.83,13479.29,4.83,24,KOLKATA,Sneha Iyer,matured
+INV01363,C0439,20-Aug-2023,etf,Banking,Medium,357300,12.42,21.04,75175.92,15.12,18,PUNE,Sneha Iyer,closed
+INV01574,C0040,09-Feb-2023,mutual fund,Healthcare,Medium,25600,10.17,14.16,3624.96,15.41,60,CHENNAI,Priya Nair,matured
+INV00102,C0321,22-Apr-2024,gold,Diversified,Medium,138800,8.73,9.43,237017.88,11.97,48,PUNE,Priya Nair,closed
+INV01497,C0106,16-Feb-2023,fixed deposit,Diversified,Low,644400,7.7,7.82,50392.08,0.5,12,KOLKATA,Sneha Iyer,matured
+INV00339,C0072,21-Jul-2024,mutual fund,FMCG,Medium,636500,12.6,7.95,50601.75,14.28,12,DELHI,Divya Raj,active
+INV00054,C0262,25-Aug-2021,crypto,Diversified,Very High,603100,27.46,450.5,294131.87,54.15,24,HYDERABAD,Priya Nair,closed
+INV00642,C0005,09-Nov-2024,crypto,Diversified,Very High,106900,25.9,7.4,7910.6,0.51,24,PUNE,Sneha Iyer,closed
+INV01591,C0432,15-Mar-2022,crypto,Diversified,Very High,37100,25.06,42.54,15782.34,54.15,12,KOLKATA,Karthik S,closed
+INV00281,C0058,07-May-2021,crypto,Diversified,Very High,37900,24.81,11.15,4225.85,64.05,60,HYDERABAD,Vikram Singh,active
+INV00517,C0041,30-Jul-2023,fixed deposit,Diversified,Low,708600,7.2,7.55,53499.3,0.56,24,PUNE,Vikram Singh,matured
+INV00593,C0393,22-Apr-2022,fixed deposit,Diversified,Low,42700,6.18,6.05,2583.35,0.5,60,CHENNAI,Rahul Mehta,matured
+INV00618,C0296,20-Sep-2021,real estate,Diversified,Medium,411000,13.93,17.98,237017.88,8.81,6,HYDERABAD,Karthik S,closed
+INV01014,C0063,04-Oct-2025,crypto,Diversified,Very High,354800,7.2,29.23,103708.04,63.66,12,BENGALURU,Sneha Iyer,active
+INV00208,C0185,19-May-2021,bond,Diversified,Low,28100,6.96,10.96,3079.76,5.94,36,HYDERABAD,Vikram Singh,matured
+INV00476,C0056,14-Sep-2023,crypto,Diversified,Very High,89800,17.63,22.27,19998.46,72.34,6,DELHI,Rahul Mehta,matured
+INV00674,C0393,31-Jul-2024,bond,Diversified,Low,76000,5.29,5.99,237017.88,5.03,36,DELHI,Divya Raj,closed
+INV00492,C0024,03-Sep-2022,real estate,Diversified,Medium,33300,11.02,14.01,4665.33,9.22,18,BENGALURU,Divya Raj,matured
+INV01534,C0295,07-Dec-2025,gold,Diversified,Medium,559600,9.57,15.07,237017.88,11.74,36,DELHI,Arun Kumar,matured
+INV00260,C0127,26-Jul-2022,real estate,Diversified,Medium,792300,10.59,13.67,108307.41,9.93,36,DELHI,Priya Nair,closed
+INV01444,C0072,13-Jun-2024,equity,FMCG,Medium,344200,11.28,2.28,7847.76,23.5,60,MUMBAI,Vikram Singh,matured
+INV01175,C0297,19-Sep-2024,bond,Diversified,Low,84700,5.56,3.87,3277.89,5.81,60,MUMBAI,Arun Kumar,active
+INV01330,C0445,11-Oct-2025,equity,Technology,High,538500,11.01,0.85,4577.25,26.23,18,MUMBAI,Priya Nair,matured
+INV00126,C0154,01-Mar-2021,mutual fund,Technology,Medium,766400,8.85,10.25,78556.0,15.22,18,PUNE,Arun Kumar,closed
+INV01066,C0099,30-Jun-2023,equity,Technology,High,26600,8.62,450.5,3609.62,23.57,12,KOLKATA,Arun Kumar,closed
+INV01149,C0206,01-Sep-2024,crypto,Diversified,Very High,193400,27.61,24.65,47673.1,53.15,18,CHENNAI,Sneha Iyer,active
+INV00240,C0441,09-Dec-2022,crypto,Diversified,Very High,333500,25.56,23.91,79739.85,57.82,24,BENGALURU,Karthik S,closed
+INV00277,C0239,21-Sep-2022,gold,Diversified,Medium,12700,7.5,0.34,43.18,11.66,12,BENGALURU,Divya Raj,matured
+INV00370,C0384,24-Jul-2022,mutual fund,Infrastructure,Medium,25100,8.42,20.99,5268.49,0.51,24,BENGALURU,Vikram Singh,matured
+INV00590,C0067,20-May-2024,mutual fund,Metals,Medium,27100,9.74,450.5,3699.15,14.17,60,CHENNAI,Karthik S,matured
+INV01371,C0048,22-Feb-2021,bond,Diversified,Low,200900,7.62,11.21,237017.88,4.61,24,CHENNAI,Divya Raj,matured
+INV01530,C0304,29-Apr-2024,mutual fund,Diversified,Medium,74800,11.38,4.17,3119.16,13.36,48,KOLKATA,Sneha Iyer,closed
+INV00458,C0448,26-Jan-2021,crypto,Diversified,Very High,112000,31.42,10.35,11592.0,51.77,60,BENGALURU,Vikram Singh,matured
+INV00800,C0318,08-Jul-2021,real estate,Diversified,Medium,47600,9.34,9.69,4612.44,10.21,6,BENGALURU,Divya Raj,active
+INV01580,C0092,04-Nov-2021,etf,Pharma,Medium,9200,11.06,15.6,237017.88,12.95,24,CHENNAI,Rahul Mehta,matured
+INV01047,C0252,01-Nov-2025,crypto,Diversified,Very High,594400,26.78,51.5,306116.0,58.39,6,DELHI,Sneha Iyer,active
+INV00499,C0054,14-Nov-2023,bond,Diversified,Low,715300,8.0,14.18,101429.54,6.0,48,HYDERABAD,Arun Kumar,closed
+INV00531,C0390,19-Aug-2022,bond,Diversified,Low,327600,5.45,6.22,20376.72,3.54,36,BENGALURU,Vikram Singh,matured
+INV00007,C0117,03-May-2025,gold,Diversified,Medium,16100,6.91,14.47,2329.67,10.31,18,BENGALURU,Karthik S,active
+INV00976,C0236,29-Aug-2025,crypto,Diversified,Very High,31400,25.95,32.32,10148.48,59.3,48,KOLKATA,Sneha Iyer,closed
+INV00930,C0273,15-Jul-2025,etf,Telecom,Medium,153700,8.86,10.16,15615.92,14.32,60,PUNE,Sneha Iyer,matured
+INV00712,C0014,06-Jan-2023,gold,Diversified,Medium,62300,8.71,450.5,3357.97,11.58,6,KOLKATA,Karthik S,closed
+INV00110,C0162,01-Jun-2022,fixed deposit,Diversified,Low,10500,7.2,7.8,819.0,0.53,18,CHENNAI,Karthik S,closed
+INV00165,C0140,10-Dec-2024,equity,FMCG,High,62900,12.14,27.46,17272.34,20.11,18,DELHI,Arun Kumar,active
+INV01355,C0382,20-Jan-2022,etf,Automobile,Medium,15900,9.43,450.5,278.25,15.48,48,HYDERABAD,Karthik S,active
+INV00356,C0250,25-Jul-2024,bond,Diversified,Low,511500,5.41,7.93,40561.95,4.35,36,KOLKATA,Divya Raj,active
+INV00843,C0068,05-Jan-2023,equity,FMCG,High,775000,7.2,36.76,284890.0,23.34,24,KOLKATA,Arun Kumar,active
+INV01547,C0315,18-Feb-2023,equity,Diversified,High,644000,8.37,14.79,95247.6,15.77,12,KOLKATA,Rahul Mehta,closed
+INV00500,C0312,14-Feb-2022,mutual fund,FMCG,Medium,27400,11.81,16.38,4488.12,15.43,60,HYDERABAD,Priya Nair,closed
+INV00675,C0093,01-Feb-2024,fixed deposit,Diversified,Low,19200,8.19,7.28,1397.76,0.43,24,HYDERABAD,Rahul Mehta,matured
+INV00696,C0170,05-Mar-2022,real estate,Diversified,Medium,1071200,8.99,8.29,88802.48,9.49,24,HYDERABAD,Priya Nair,active
+INV00005,C0310,26-Jun-2022,mutual fund,Technology,Medium,361900,10.36,450.5,237017.88,11.32,48,BENGALURU,Vikram Singh,active
+INV00447,C0219,29-Jun-2021,bond,Diversified,Low,9600,6.12,6.53,626.88,5.09,18,PUNE,Divya Raj,matured
+INV00974,C0293,05-Jan-2022,gold,Diversified,Medium,11300,9.56,13.71,1549.23,11.14,24,CHENNAI,Priya Nair,closed
+INV00639,C0358,10-Jan-2024,etf,Diversified,Medium,78500,8.03,2.44,1915.4,14.19,36,HYDERABAD,Vikram Singh,matured
+INV00889,C0306,08-Dec-2023,crypto,Diversified,Medium,70900,7.2,48.71,237017.88,51.8,60,DELHI,Priya Nair,matured
+INV01500,C0370,20-Oct-2024,equity,FMCG,High,28800,13.94,450.5,1051.2,17.23,60,HYDERABAD,Sneha Iyer,closed
+INV00697,C0073,24-Nov-2024,real estate,Diversified,Medium,76000,10.25,12.12,148227.6,11.45,24,KOLKATA,Arun Kumar,closed
+INV01583,C0445,23-May-2023,real estate,Diversified,Medium,142100,11.23,7.36,10458.56,8.91,36,KOLKATA,Rahul Mehta,closed
+INV01325,C0278,07-Aug-2021,equity,Banking,High,66200,12.63,450.5,10975.96,22.19,12,HYDERABAD,Arun Kumar,closed
+INV00127,C0126,19-Aug-2022,crypto,Diversified,Very High,257700,33.21,10.05,25898.85,0.51,24,HYDERABAD,Divya Raj,active
+INV01103,C0140,26-May-2025,bond,Diversified,Low,76000,7.02,11.58,93705.36,5.18,24,PUNE,Divya Raj,matured
+INV01301,C0351,27-Feb-2023,real estate,Diversified,Medium,114100,10.08,18.32,20903.12,9.87,48,KOLKATA,Karthik S,active
+INV00630,C0345,12-Nov-2023,bond,Diversified,Low,76000,6.91,6.88,6570.4,4.76,24,PUNE,Divya Raj,closed
+INV00434,C0224,10-Jun-2025,bond,Diversified,Low,66600,6.81,9.13,6080.58,4.67,48,BENGALURU,Divya Raj,closed
+INV00465,C0422,14-Apr-2023,mutual fund,Pharma,Medium,78100,13.02,10.43,8145.83,14.19,60,HYDERABAD,Karthik S,closed
+INV00324,C0140,24-May-2025,fixed deposit,Diversified,Low,157400,5.34,5.14,8090.36,0.51,24,BENGALURU,Priya Nair,closed
+INV00006,C0425,11-Jul-2024,fixed deposit,Diversified,Low,28800,6.23,6.32,1820.16,0.45,36,PUNE,Rahul Mehta,matured
+INV00840,C0374,27-May-2023,etf,Energy,Medium,879200,7.34,1.1,9671.2,14.66,12,DELHI,Sneha Iyer,matured
+INV01164,C0156,08-Aug-2022,fixed deposit,Diversified,Low,60300,5.17,5.11,3081.33,0.48,36,BENGALURU,Divya Raj,active
+INV00860,C0090,15-Sep-2025,bond,Diversified,Low,78200,7.47,11.99,9376.18,5.14,48,KOLKATA,Divya Raj,active
+INV01170,C0213,20-Mar-2023,crypto,Diversified,Very High,1004600,24.77,7.96,79966.16,63.0,24,DELHI,Sneha Iyer,closed
+INV00150,C0057,15-Sep-2024,bond,Diversified,Low,139900,5.58,3.07,4294.93,4.74,60,CHENNAI,Priya Nair,active
+INV01179,C0204,02-Dec-2024,real estate,Diversified,Medium,114800,14.46,18.39,21111.72,11.59,18,CHENNAI,Priya Nair,closed
+INV00278,C0152,23-Jan-2023,real estate,Diversified,Medium,31000,9.48,6.02,1866.2,9.0,36,BENGALURU,Priya Nair,active
+INV00540,C0062,12-Feb-2023,bond,Diversified,Low,66800,5.77,8.52,5691.36,4.79,6,BENGALURU,Rahul Mehta,matured
+INV01413,C0272,17-Jul-2023,real estate,Diversified,Medium,10800,13.37,20.38,2201.04,9.65,18,DELHI,Arun Kumar,matured
+INV00367,C0403,23-Apr-2023,mutual fund,Technology,Medium,78100,11.37,18.6,14526.6,14.49,18,PUNE,Divya Raj,active
+INV00316,C0440,23-Aug-2024,real estate,Diversified,Medium,31300,9.23,6.3,1971.9,8.47,60,CHENNAI,Arun Kumar,closed
+INV00791,C0212,27-Apr-2025,bond,Diversified,Low,1352800,6.35,6.73,91043.44,4.73,24,MUMBAI,Divya Raj,closed
+INV00813,C0324,16-Jun-2023,mutual fund,Energy,Medium,271600,9.8,6.49,17626.84,15.16,12,CHENNAI,Priya Nair,matured
+INV01304,C0077,28-Sep-2024,crypto,Diversified,Very High,64000,7.2,27.87,17836.8,51.51,48,DELHI,Vikram Singh,closed
+INV00634,C0438,17-Feb-2021,etf,Healthcare,Medium,383700,10.51,7.83,30043.71,16.05,48,MUMBAI,Divya Raj,closed
+INV00415,C0090,05-Mar-2021,equity,Automobile,High,76000,10.95,4.53,237017.88,19.77,60,BENGALURU,Vikram Singh,matured
+INV00690,C0334,16-Mar-2024,etf,Energy,Medium,81600,10.78,18.71,15267.36,17.13,36,HYDERABAD,Divya Raj,matured
+INV01033,C0300,19-Oct-2023,fixed deposit,Diversified,Low,736000,7.86,7.82,57555.2,0.53,48,BENGALURU,Sneha Iyer,matured
+INV01299,C0053,21-Jan-2024,mutual fund,FMCG,Medium,14200,9.41,20.14,2859.88,15.4,6,HYDERABAD,Vikram Singh,closed
+INV00650,C0160,29-May-2025,etf,Pharma,Medium,70600,10.95,10.52,7427.12,16.69,18,BENGALURU,Divya Raj,active
+INV00736,C0056,16-Mar-2024,gold,Diversified,Medium,90900,8.57,11.02,237017.88,13.78,48,KOLKATA,Vikram Singh,active
+INV00438,C0122,12-Dec-2022,bond,Diversified,Low,336300,7.3,8.89,29897.07,5.7,18,MUMBAI,Divya Raj,active
+INV00135,C0322,16-Aug-2024,real estate,Diversified,Medium,61400,11.01,8.75,5372.5,10.05,6,DELHI,Karthik S,closed
+INV01352,C0422,12-Feb-2025,bond,Diversified,Low,316000,6.69,450.5,237017.88,0.51,48,BENGALURU,Divya Raj,matured
+INV01573,C0334,19-Aug-2022,etf,Diversified,Medium,913000,14.94,21.0,191730.0,16.78,24,KOLKATA,Sneha Iyer,matured
+INV00276,C0371,19-Mar-2024,real estate,Diversified,Medium,225500,13.4,10.37,23384.35,11.58,6,DELHI,Divya Raj,closed
+INV00358,C0100,28-Jul-2025,crypto,Diversified,Very High,10800,26.79,11.99,1294.92,60.46,24,HYDERABAD,Vikram Singh,matured
+INV01523,C0210,13-May-2023,crypto,Diversified,Very High,179500,28.2,66.41,119205.95,52.62,36,MUMBAI,Vikram Singh,closed
+INV00028,C0443,02-Feb-2025,crypto,Diversified,Very High,505600,26.34,8.49,42925.44,68.87,6,KOLKATA,Divya Raj,matured
+INV01297,C0044,19-Feb-2022,mutual fund,Healthcare,Medium,363200,10.21,15.47,56187.04,15.19,24,PUNE,Vikram Singh,closed
+INV00170,C0140,21-Oct-2024,crypto,Diversified,Very High,355400,21.76,3.29,11692.66,60.29,36,BENGALURU,Vikram Singh,matured
+INV01209,C0338,04-Oct-2025,fixed deposit,Diversified,Low,158400,8.74,8.49,13448.16,0.45,12,CHENNAI,Vikram Singh,closed
+INV00699,C0139,19-Sep-2024,equity,Infrastructure,High,24700,13.87,21.19,5233.93,21.83,60,CHENNAI,Arun Kumar,closed
+INV00612,C0140,11-Oct-2024,real estate,Diversified,Medium,76000,11.47,13.17,8758.05,9.39,48,BENGALURU,Rahul Mehta,active
+INV00292,C0206,18-Jun-2023,equity,Energy,High,100500,10.68,30.36,30511.8,21.93,36,MUMBAI,Karthik S,active
+INV00529,C0281,29-Oct-2025,fixed deposit,Diversified,Low,144300,7.24,450.5,10519.47,0.53,18,KOLKATA,Vikram Singh,matured
+INV00234,C0283,17-Jul-2022,mutual fund,Healthcare,Medium,79600,9.72,16.68,13277.28,13.27,48,DELHI,Vikram Singh,matured
+INV01096,C0102,10-Feb-2022,crypto,Diversified,Very High,15800,30.64,24.5,3871.0,58.02,18,MUMBAI,Priya Nair,closed
+INV00328,C0096,02-Jun-2023,real estate,Diversified,Medium,18300,11.7,11.48,2100.84,9.03,24,HYDERABAD,Vikram Singh,matured
+INV01334,C0313,27-May-2024,equity,Banking,High,419600,12.65,12.34,51778.64,20.1,12,HYDERABAD,Vikram Singh,matured
+INV01036,C0293,17-Aug-2022,fixed deposit,Diversified,Low,18000,7.17,7.34,1321.2,0.44,6,HYDERABAD,Priya Nair,active
+INV00883,C0094,16-Apr-2025,mutual fund,Banking,Medium,102500,9.44,9.53,237017.88,12.03,36,PUNE,Priya Nair,matured
+INV00741,C0131,07-Jun-2025,equity,Banking,High,96800,7.2,450.5,18401.68,20.58,18,DELHI,Vikram Singh,matured
+INV01024,C0369,24-Feb-2025,equity,Healthcare,Medium,247500,13.25,29.6,73260.0,19.21,36,HYDERABAD,Rahul Mehta,active
+INV01592,C0251,24-Nov-2024,bond,Diversified,Low,580200,6.52,8.02,46532.04,3.84,60,DELHI,Divya Raj,active
+INV00785,C0409,27-Aug-2022,crypto,Diversified,Very High,476500,27.56,58.95,280896.75,51.8,18,MUMBAI,Vikram Singh,matured
+INV00814,C0406,13-Jan-2024,gold,Diversified,Medium,988800,6.07,15.81,237017.88,14.1,48,DELHI,Sneha Iyer,matured
+INV01435,C0410,27-Aug-2022,real estate,Diversified,Medium,888300,9.39,2.4,237017.88,0.51,6,BENGALURU,Arun Kumar,active
+INV00754,C0108,20-Oct-2022,equity,Energy,High,99999999,7.2,17.0,21063.0,0.51,12,DELHI,Rahul Mehta,matured
+INV00108,C0252,06-Jul-2021,bond,Diversified,Low,617400,7.08,11.88,73347.12,4.59,24,DELHI,Sneha Iyer,matured
+INV01506,C0226,04-Jan-2022,real estate,Diversified,Medium,388300,9.49,11.14,237017.88,9.58,18,PUNE,Karthik S,closed
+INV00045,C0058,04-Jun-2021,etf,Healthcare,Medium,580500,9.25,2.03,11784.15,15.71,36,CHENNAI,Vikram Singh,closed
+INV00146,C0331,05-Jan-2023,mutual fund,Technology,Medium,286100,10.11,1.12,3204.32,16.28,24,DELHI,Priya Nair,active
+INV00031,C0277,09-Sep-2025,mutual fund,Technology,Medium,12500,10.15,4.76,595.0,15.36,6,PUNE,Karthik S,active
+INV00537,C0404,04-Nov-2024,equity,Infrastructure,High,493800,12.58,9.45,46664.1,21.44,36,CHENNAI,Vikram Singh,matured
+INV00763,C0179,22-May-2024,etf,Telecom,Medium,76000,12.29,7.92,3492.72,14.62,12,HYDERABAD,Vikram Singh,closed
+INV00159,C0192,09-Nov-2021,fixed deposit,Diversified,Low,316300,8.48,8.65,27359.95,0.49,48,BENGALURU,Arun Kumar,active
+INV00347,C0357,16-Jul-2023,etf,Infrastructure,Medium,26000,11.37,25.32,6583.2,16.57,6,DELHI,Arun Kumar,matured
+INV00425,C0014,16-Oct-2022,crypto,Diversified,Very High,435200,20.9,56.14,244321.28,58.1,36,MUMBAI,Arun Kumar,closed
+INV01511,C0425,12-Aug-2025,gold,Diversified,Medium,292600,8.2,11.49,33619.74,0.51,48,BENGALURU,Arun Kumar,matured
+INV00829,C0338,03-Mar-2022,gold,Diversified,Medium,1370300,7.34,4.82,66048.46,13.03,18,CHENNAI,Priya Nair,active
+INV00856,C0119,06-Sep-2025,mutual fund,Metals,Medium,14700,9.39,13.5,1984.5,12.61,48,DELHI,Sneha Iyer,matured
+INV00947,C0393,12-Aug-2024,etf,Automobile,Medium,369900,7.2,16.84,62291.16,14.76,60,CHENNAI,Rahul Mehta,active
+INV01267,C0099,27-Oct-2021,bond,Diversified,Low,319200,5.53,2.41,7692.72,4.49,24,CHENNAI,Vikram Singh,active
+INV01504,C0228,06-Aug-2023,crypto,Diversified,Very High,144800,24.74,52.71,76324.08,52.88,6,BENGALURU,Arun Kumar,closed
+INV00689,C0205,25-Oct-2023,equity,Automobile,High,431300,12.48,12.79,55163.27,20.72,60,KOLKATA,Priya Nair,active
+INV00547,C0329,10-Jun-2024,crypto,Diversified,Very High,840300,32.73,33.38,280492.14,53.59,36,MUMBAI,Arun Kumar,matured
+INV01469,C0294,14-Feb-2024,fixed deposit,Diversified,Low,79400,6.67,6.64,5272.16,0.54,12,MUMBAI,Rahul Mehta,closed
+INV01520,C0259,06-Jun-2021,crypto,Diversified,Very High,23800,26.35,44.95,10698.1,56.77,18,KOLKATA,Sneha Iyer,matured
+INV00488,C0397,12-Dec-2021,etf,Telecom,Medium,80900,8.98,2.73,2208.57,14.69,60,MUMBAI,Sneha Iyer,active
+INV00790,C0271,01-Nov-2025,gold,Diversified,Medium,780800,5.95,12.54,97912.32,10.66,6,DELHI,Arun Kumar,active
+INV00022,C0447,27-May-2024,etf,Automobile,Medium,43300,9.03,20.03,8672.99,16.22,12,HYDERABAD,Karthik S,matured
+INV00580,C0081,19-Aug-2022,real estate,Diversified,Medium,56300,9.24,18.61,10477.43,10.95,36,KOLKATA,Karthik S,active
+INV00305,C0190,03-Oct-2022,etf,Automobile,Medium,378600,11.41,10.58,40055.88,17.37,6,HYDERABAD,Vikram Singh,active
+INV00964,C0182,26-May-2024,crypto,Diversified,Very High,80300,26.44,38.38,30819.14,0.51,48,PUNE,Vikram Singh,matured
+INV00969,C0162,18-Feb-2025,crypto,Diversified,Very High,746300,19.31,5.89,43957.07,0.51,24,PUNE,Vikram Singh,matured
+INV01433,C0406,11-Jun-2025,fixed deposit,Diversified,Low,-50000,5.72,5.42,63235.14,0.51,18,DELHI,Arun Kumar,active
+INV00761,C0115,22-Oct-2021,etf,Telecom,Medium,831700,8.15,16.5,237017.88,13.98,18,DELHI,Sneha Iyer,active
+INV01032,C0244,16-Mar-2022,equity,Pharma,High,744300,12.76,25.62,190689.66,20.1,6,BENGALURU,Divya Raj,matured
+INV00886,C0211,28-Nov-2022,real estate,Diversified,Medium,344700,12.41,16.38,56461.86,8.91,12,CHENNAI,Priya Nair,active
+INV00944,C0404,07-Oct-2024,equity,Energy,High,12900,11.34,2.9,374.1,18.25,18,HYDERABAD,Sneha Iyer,closed
+INV00553,C0407,31-May-2022,mutual fund,Metals,Medium,16400,10.25,2.28,373.92,15.84,6,HYDERABAD,Karthik S,active
+INV01095,C0285,24-Aug-2021,equity,Healthcare,High,23900,8.13,10.55,2521.45,23.93,18,BENGALURU,Priya Nair,matured
+INV01276,C0243,08-Apr-2025,mutual fund,Energy,Medium,225400,11.76,14.77,33291.58,12.35,36,KOLKATA,Priya Nair,active
+INV01075,C0216,27-Dec-2023,gold,Diversified,Medium,8800,9.64,11.46,1008.48,12.83,24,DELHI,Arun Kumar,closed
+INV00354,C0303,23-Jun-2021,bond,Diversified,Low,151900,6.14,450.5,2339.26,5.39,48,MUMBAI,Rahul Mehta,active
+INV01072,C0012,20-Nov-2024,real estate,Diversified,Medium,108600,13.51,23.08,25064.88,10.74,48,HYDERABAD,Vikram Singh,closed
+INV00803,C0355,29-Sep-2024,etf,Infrastructure,Medium,136900,8.86,15.45,21151.05,0.51,18,MUMBAI,Karthik S,active
+INV01409,C0160,22-Dec-2024,gold,Diversified,Medium,340100,6.35,18.14,61694.14,12.62,24,KOLKATA,Priya Nair,matured
+INV01581,C0276,29-Jul-2023,gold,Diversified,Medium,97100,8.62,8.63,8379.73,12.59,18,CHENNAI,Arun Kumar,matured
+INV00501,C0281,14-Oct-2023,fixed deposit,Diversified,Low,76000,7.59,7.34,237017.88,0.47,12,KOLKATA,Sneha Iyer,closed
+INV00321,C0289,08-May-2022,fixed deposit,Diversified,Low,22500,7.46,7.52,1692.0,0.57,36,PUNE,Karthik S,closed
+INV00788,C0141,23-Oct-2025,real estate,Diversified,Medium,60800,8.77,13.49,8201.92,8.48,18,CHENNAI,Divya Raj,active
+INV01005,C0433,28-Nov-2021,crypto,Diversified,Very High,1399800,20.17,5.11,71529.78,51.62,36,MUMBAI,Rahul Mehta,matured
+INV01361,C0054,03-Jul-2021,mutual fund,Technology,Medium,35100,10.95,21.88,7679.88,0.51,36,BENGALURU,Arun Kumar,closed
+INV01221,C0093,26-Feb-2023,real estate,Diversified,Medium,34900,10.41,12.14,4236.86,9.27,24,KOLKATA,Divya Raj,closed
+INV01161,C0004,13-May-2021,crypto,Diversified,Very High,52100,23.87,15.85,8257.85,44.38,60,BENGALURU,Arun Kumar,active
+INV01275,C0336,02-Aug-2025,mutual fund,Energy,Medium,11900,9.93,5.15,612.85,14.26,12,KOLKATA,Sneha Iyer,active
+INV00314,C0124,29-Jan-2022,mutual fund,Telecom,Medium,28100,9.15,14.48,4068.88,12.21,36,BENGALURU,Karthik S,closed
+INV01205,C0234,19-Aug-2022,real estate,Diversified,Medium,82500,10.7,14.3,11797.5,10.4,36,DELHI,Priya Nair,matured
+INV00436,C0001,08-Dec-2024,real estate,Diversified,Medium,38900,9.52,9.47,3683.83,10.03,36,BENGALURU,Karthik S,matured
+INV00722,C0231,21-Feb-2021,bond,Diversified,Low,506800,7.61,4.67,23667.56,5.79,12,BENGALURU,Vikram Singh,matured
+INV01483,C0401,07-Oct-2025,crypto,Diversified,Very High,538800,21.71,36.28,195476.64,60.6,12,CHENNAI,Arun Kumar,active
+INV00239,C0213,19-Sep-2023,mutual fund,Pharma,Medium,7600,9.94,10.83,823.08,15.54,12,DELHI,Vikram Singh,active
+INV01253,C0316,01-Aug-2023,etf,Infrastructure,Medium,9600,11.17,13.67,1312.32,18.06,18,DELHI,Arun Kumar,active
+INV00300,C0048,02-Jan-2024,mutual fund,Energy,Medium,1447100,10.22,3.81,55134.51,15.69,24,BENGALURU,Sneha Iyer,matured
+INV00938,C0377,22-Oct-2023,bond,Diversified,Low,53400,5.88,4.94,2637.96,5.87,6,HYDERABAD,Divya Raj,matured
+INV00410,C0202,06-Dec-2024,real estate,Diversified,Medium,381500,7.2,22.87,87249.05,10.96,60,KOLKATA,Rahul Mehta,closed
+INV00542,C0140,19-Aug-2022,bond,Diversified,Low,7500,5.85,9.06,679.5,5.94,6,PUNE,Divya Raj,matured
+INV00912,C0061,25-Feb-2023,equity,Pharma,High,15900,10.42,450.5,543.78,26.37,18,PUNE,Sneha Iyer,closed
+INV00990,C0371,21-Jul-2023,bond,Diversified,Low,91400,6.22,6.3,5758.2,0.41,60,KOLKATA,Vikram Singh,matured
+INV01194,C0365,21-Oct-2021,fixed deposit,Diversified,Low,120700,5.71,450.5,7386.84,0.61,60,HYDERABAD,Vikram Singh,matured
+INV01596,C0007,19-Aug-2022,crypto,Diversified,Very High,110300,23.85,2.9,3198.7,64.39,18,CHENNAI,Divya Raj,matured
+INV00389,C0111,23-Mar-2021,equity,Technology,High,15300,13.84,32.78,5015.34,27.37,60,BENGALURU,Vikram Singh,closed
+INV00604,C0185,05-May-2022,gold,Diversified,Medium,63700,9.07,9.91,6312.67,11.42,48,CHENNAI,Priya Nair,active
+INV00341,C0140,07-Dec-2024,fixed deposit,Diversified,Low,13900,7.33,7.32,237017.88,0.47,60,HYDERABAD,Vikram Singh,matured
+INV01256,C0154,17-Jan-2023,gold,Diversified,Medium,76000,8.02,15.08,150106.32,10.83,24,MUMBAI,Vikram Singh,closed
+INV00223,C0040,21-Mar-2024,crypto,Diversified,Very High,261000,24.04,67.44,176018.4,69.02,24,HYDERABAD,Rahul Mehta,closed
+INV00385,C0338,29-Nov-2025,real estate,Diversified,Medium,14500,9.95,17.08,2476.6,8.68,18,MUMBAI,Vikram Singh,matured
+INV00014,C0071,10-Nov-2023,fixed deposit,Diversified,Low,204800,7.0,7.05,14438.4,0.51,24,CHENNAI,Karthik S,active
+INV00290,C0142,22-Jan-2022,gold,Diversified,Medium,946200,8.4,450.5,201162.12,12.79,48,PUNE,Arun Kumar,active
+INV00433,C0340,22-Mar-2023,mutual fund,Telecom,Medium,326100,11.38,13.2,237017.88,13.59,6,BENGALURU,Rahul Mehta,closed
+INV01311,C0002,21-Feb-2022,gold,Diversified,Medium,20900,8.81,14.95,3124.55,13.83,60,CHENNAI,Rahul Mehta,matured
+INV01440,C0224,22-Oct-2024,real estate,Diversified,Medium,77300,7.2,11.15,8618.95,10.15,18,PUNE,Vikram Singh,active
+INV00252,C0261,27-Dec-2023,real estate,Diversified,Medium,276800,12.74,24.65,68231.2,0.51,24,KOLKATA,Vikram Singh,closed
+INV00013,C0140,23-Jun-2022,bond,Diversified,Low,100900,6.7,4.03,237017.88,4.02,48,HYDERABAD,Sneha Iyer,matured
+INV00516,C0170,24-Jul-2022,mutual fund,Technology,Medium,920600,10.7,12.6,115995.6,12.6,36,MUMBAI,Vikram Singh,matured
+INV01338,C0292,27-Sep-2023,etf,Technology,Medium,77000,8.68,10.02,7715.4,13.52,18,PUNE,Rahul Mehta,closed
+INV01380,C0178,19-Sep-2023,equity,Telecom,High,39400,12.61,12.66,4988.04,23.96,36,HYDERABAD,Arun Kumar,matured
+INV00721,C0257,20-Aug-2021,etf,Healthcare,Medium,690400,9.17,13.0,89752.0,15.37,60,HYDERABAD,Divya Raj,matured
+INV01342,C0237,02-Oct-2024,mutual fund,Banking,Medium,74100,11.18,9.1,6743.1,13.05,18,BENGALURU,Sneha Iyer,matured
+INV00772,C0299,17-Jan-2021,fixed deposit,Diversified,Low,397600,7.31,450.5,237017.88,0.53,36,HYDERABAD,Sneha Iyer,active
+INV00379,C0118,24-Feb-2023,fixed deposit,Diversified,Low,53900,6.55,6.91,3724.49,0.55,6,KOLKATA,Karthik S,active
+INV00827,C0046,08-Jul-2024,bond,Diversified,Low,1212000,5.19,3.57,43268.4,5.35,60,PUNE,Rahul Mehta,closed
+INV01335,C0446,26-Sep-2022,mutual fund,Metals,Medium,7400,10.03,0.01,0.74,14.66,60,PUNE,Karthik S,active
+INV00238,C0413,12-Jul-2025,real estate,Diversified,Medium,108300,10.84,12.73,237017.88,9.46,48,BENGALURU,Rahul Mehta,closed
+INV01414,C0078,24-Mar-2023,mutual fund,Metals,Medium,257900,9.88,14.97,38607.63,11.42,24,HYDERABAD,Rahul Mehta,active
+INV00474,C0193,11-Oct-2025,real estate,Diversified,Medium,102400,11.84,17.49,17909.76,0.51,18,BENGALURU,Rahul Mehta,active
+INV00144,C0336,22-Jul-2021,fixed deposit,Diversified,Low,74300,5.01,4.4,3269.2,0.44,60,BENGALURU,Vikram Singh,closed
+INV01052,C0306,15-Apr-2024,equity,Energy,High,63000,11.33,4.75,2992.5,19.72,24,HYDERABAD,Karthik S,matured
+INV00244,C0259,26-Jul-2023,equity,Energy,High,38600,10.6,0.37,142.82,22.43,12,HYDERABAD,Rahul Mehta,active
+INV00096,C0140,22-Aug-2021,equity,Banking,High,154100,8.49,14.86,237017.88,21.67,24,BENGALURU,Arun Kumar,matured
+INV00778,C0329,09-Jul-2025,fixed deposit,Diversified,Low,34200,6.73,6.62,2264.04,0.42,24,BENGALURU,Sneha Iyer,matured
+INV00261,C0251,12-Oct-2022,real estate,Diversified,Medium,96800,11.29,12.94,12525.92,8.66,24,DELHI,Vikram Singh,matured
+INV00395,C0384,19-May-2025,real estate,Diversified,Medium,48600,7.2,450.5,4058.1,0.51,60,DELHI,Divya Raj,active
+INV01055,C0229,21-Jun-2021,bond,Diversified,Low,116800,6.05,3.37,3936.16,4.65,60,KOLKATA,Vikram Singh,active
+INV00472,C0263,11-Feb-2021,gold,Diversified,Medium,125200,10.6,15.81,237017.88,11.23,60,PUNE,Karthik S,matured
+INV00676,C0162,01-Feb-2024,bond,Diversified,Low,1533500,6.68,10.33,158410.55,5.9,18,PUNE,Rahul Mehta,closed
+INV00038,C0068,07-Oct-2024,crypto,Diversified,Very High,64900,24.9,99.24,237017.88,0.51,48,DELHI,Sneha Iyer,closed
+INV00664,C0278,22-Jan-2023,etf,Pharma,Medium,141900,11.71,17.82,25286.58,16.2,6,PUNE,Divya Raj,matured
+INV00881,C0450,20-Nov-2024,equity,Healthcare,High,46000,15.26,6.14,2824.4,21.52,18,MUMBAI,Arun Kumar,closed
+INV00178,C0325,22-Aug-2021,crypto,Diversified,Very High,33800,18.77,450.5,5854.16,59.6,36,HYDERABAD,Priya Nair,closed
+INV01293,C0084,18-Dec-2025,bond,Diversified,Low,62100,7.43,3.51,2179.71,5.12,12,PUNE,Sneha Iyer,matured
+INV00837,C0292,03-May-2021,crypto,Diversified,Very High,76000,19.93,32.48,10263.68,52.07,24,MUMBAI,Arun Kumar,closed
+INV00140,C0422,31-Jul-2024,crypto,Diversified,Very High,118500,25.43,27.69,32812.65,67.08,18,CHENNAI,Divya Raj,active
+INV00463,C0419,14-Jun-2025,real estate,Diversified,Medium,155100,13.15,13.33,20674.83,11.56,18,DELHI,Rahul Mehta,closed
+INV00733,C0384,31-Mar-2024,real estate,Diversified,Medium,76000,11.7,8.49,6647.67,10.02,18,CHENNAI,Arun Kumar,closed
+INV00137,C0140,28-Aug-2025,bond,Diversified,Low,282700,6.62,8.49,24001.23,5.26,12,DELHI,Karthik S,closed
+INV00749,C0192,27-May-2025,gold,Diversified,Medium,77500,9.94,4.49,3479.75,12.13,6,PUNE,Priya Nair,active
+INV00906,C0393,06-Apr-2024,etf,Telecom,Medium,136500,7.53,14.59,19915.35,15.94,18,PUNE,Karthik S,matured
+INV01187,C0310,30-May-2023,etf,Infrastructure,Medium,1356900,10.81,12.33,167305.77,13.05,18,KOLKATA,Rahul Mehta,closed
+INV00633,C0310,13-Aug-2024,crypto,Diversified,Very High,131000,24.03,43.55,57050.5,69.59,24,DELHI,Sneha Iyer,closed
+INV01451,C0079,21-May-2024,gold,Diversified,Medium,16700,5.56,4.06,678.02,12.06,6,HYDERABAD,Arun Kumar,active
+INV00299,C0069,07-Mar-2023,fixed deposit,Diversified,Low,578600,8.21,8.16,47213.76,0.53,12,DELHI,Priya Nair,closed
+INV01184,C0142,12-May-2021,bond,Diversified,Medium,76000,10.94,3.52,858.88,9.47,18,CHENNAI,Vikram Singh,active
+INV01251,C0248,25-Aug-2022,gold,Diversified,Medium,22300,7.3,15.06,3358.38,12.39,18,MUMBAI,Arun Kumar,matured
+INV00983,C0416,25-Jan-2023,fixed deposit,Diversified,Low,33900,6.89,6.83,2315.37,0.35,36,MUMBAI,Sneha Iyer,matured
+INV01122,C0170,09-Mar-2024,equity,Telecom,Medium,37700,9.56,29.52,11129.04,20.44,24,HYDERABAD,Karthik S,closed
+INV00124,C0321,11-Jan-2025,crypto,Diversified,Very High,777100,7.2,37.08,288148.68,60.15,60,BENGALURU,Karthik S,matured
+INV00905,C0305,25-Sep-2025,crypto,Diversified,Very High,70400,26.87,36.36,25597.44,51.6,24,CHENNAI,Priya Nair,closed
+INV00666,C0276,05-Aug-2025,crypto,Diversified,Very High,31500,29.01,2.62,825.3,59.84,24,MUMBAI,Vikram Singh,matured
+INV00087,C0360,08-Dec-2025,crypto,Diversified,Very High,148000,26.66,3.3,4884.0,64.65,18,HYDERABAD,Arun Kumar,matured
+INV00807,C0373,29-May-2022,equity,Pharma,High,16800,12.7,22.69,237017.88,19.08,6,BENGALURU,Priya Nair,matured
+INV01025,C0388,25-Jul-2024,mutual fund,Healthcare,Medium,112100,10.3,4.33,4853.93,16.28,6,CHENNAI,Karthik S,matured
+INV00874,C0140,29-Apr-2023,mutual fund,Healthcare,Medium,10100,12.18,18.09,1827.09,14.99,36,BENGALURU,Divya Raj,matured
+INV01569,C0415,14-Jul-2024,mutual fund,Banking,Medium,93200,10.87,20.59,19189.88,13.82,6,HYDERABAD,Priya Nair,active
+INV00769,C0331,14-Sep-2024,mutual fund,Technology,Medium,76000,7.2,18.56,86062.72,18.35,6,MUMBAI,Karthik S,active
+INV01561,C0013,17-Apr-2022,equity,Energy,High,44200,11.58,26.83,11858.86,20.73,6,BENGALURU,Vikram Singh,active
+INV00502,C0046,15-Aug-2021,gold,Diversified,Medium,6100,8.0,5.33,237017.88,11.8,60,HYDERABAD,Divya Raj,closed
+INV00620,C0007,12-Oct-2024,etf,Energy,Medium,322300,10.59,12.6,40609.8,15.43,24,HYDERABAD,Arun Kumar,closed
+INV00254,C0336,23-May-2025,equity,Telecom,High,865500,13.26,14.52,125670.6,20.73,36,MUMBAI,Divya Raj,active
+INV01366,C0405,06-Feb-2023,equity,Metals,High,6300,10.14,3.26,205.38,23.31,60,KOLKATA,Vikram Singh,closed
+INV00534,C0032,15-Nov-2024,real estate,Diversified,Medium,74600,9.8,16.55,12346.3,0.51,60,BENGALURU,Priya Nair,matured
+INV00191,C0217,08-Nov-2023,bond,Diversified,Low,31200,6.52,7.47,2330.64,5.84,18,CHENNAI,Rahul Mehta,closed
+INV01370,C0402,14-Mar-2023,bond,Diversified,Low,30800,7.82,8.39,2584.12,4.9,60,PUNE,Divya Raj,closed
+INV00270,C0005,04-Sep-2022,bond,Diversified,Low,147700,6.03,3.51,5184.27,5.63,36,HYDERABAD,Arun Kumar,closed
+INV01227,C0088,17-May-2023,real estate,Diversified,Medium,391600,7.2,450.5,237017.88,0.51,48,CHENNAI,Priya Nair,closed
+INV01100,C0067,16-Jun-2025,mutual fund,Energy,Medium,18600,8.58,15.63,2907.18,12.39,12,HYDERABAD,Sneha Iyer,matured
+INV00288,C0276,16-Mar-2023,bond,Diversified,Low,179700,5.02,10.2,237017.88,5.77,36,MUMBAI,Divya Raj,active
+INV01247,C0098,30-Aug-2025,mutual fund,Technology,Medium,307000,9.44,5.11,15687.7,12.11,48,BENGALURU,Divya Raj,matured
+INV01419,C0376,15-Aug-2025,fixed deposit,Diversified,Low,350700,7.04,6.79,23812.53,0.55,48,DELHI,Sneha Iyer,active
+INV00997,C0228,21-Sep-2023,bond,Diversified,Low,66900,5.4,10.11,6763.59,6.21,24,CHENNAI,Karthik S,closed
+INV01564,C0440,02-Oct-2022,fixed deposit,Diversified,Low,107400,6.31,6.38,6852.12,0.5,60,DELHI,Sneha Iyer,matured
+INV00209,C0023,25-Jul-2024,equity,Automobile,High,736700,14.87,4.54,33446.18,20.88,18,DELHI,Divya Raj,active
+INV00272,C0058,09-Nov-2022,etf,Healthcare,Medium,79300,11.32,0.97,769.21,16.55,48,BENGALURU,Divya Raj,closed
+INV01021,C0161,06-Dec-2022,fixed deposit,Diversified,Low,132200,7.12,7.09,9372.98,0.48,6,PUNE,Rahul Mehta,matured
+INV00745,C0140,09-Oct-2022,equity,Metals,High,116500,8.45,6.06,7059.9,23.96,24,CHENNAI,Priya Nair,matured
+INV00564,C0169,16-Jun-2024,gold,Diversified,Medium,271500,7.69,4.67,12679.05,12.7,48,DELHI,Divya Raj,matured
+INV00157,C0334,03-Dec-2025,mutual fund,Metals,Medium,76000,9.2,7.39,2682.57,13.19,48,PUNE,Priya Nair,closed
+INV00726,C0092,25-Apr-2025,bond,Diversified,Low,73400,7.2,8.93,6554.62,4.2,48,CHENNAI,Sneha Iyer,closed
+INV01429,C0126,28-Mar-2024,bond,Diversified,Low,76000,5.74,4.57,12544.65,5.1,48,KOLKATA,Sneha Iyer,closed
+INV01189,C0358,03-Apr-2023,mutual fund,Healthcare,Medium,10600,11.44,13.05,1383.3,0.51,6,HYDERABAD,Arun Kumar,matured
+INV00903,C0346,04-Oct-2023,crypto,Diversified,Very High,30600,25.54,14.97,4580.82,60.14,48,CHENNAI,Sneha Iyer,closed
+INV00692,C0179,26-Jan-2022,mutual fund,Infrastructure,Medium,511800,10.3,8.22,42069.96,13.14,18,HYDERABAD,Divya Raj,matured
+INV00727,C0093,29-Aug-2021,real estate,Diversified,Medium,888800,14.34,13.39,119010.32,10.01,12,MUMBAI,Arun Kumar,matured
+INV00773,C0282,19-Apr-2021,real estate,Diversified,Medium,9700,12.38,9.76,946.72,9.38,6,KOLKATA,Vikram Singh,closed
+INV00101,C0148,18-Dec-2024,etf,FMCG,Medium,63300,9.63,14.92,9444.36,14.16,48,PUNE,Sneha Iyer,active
+INV00970,C0028,16-Apr-2022,etf,Healthcare,Medium,7900,9.14,18.14,1433.06,14.32,6,BENGALURU,Rahul Mehta,active
+INV00524,C0056,31-Mar-2025,etf,Automobile,Medium,98800,10.13,0.02,19.76,16.19,6,KOLKATA,Karthik S,matured
+INV00939,C0122,13-May-2024,real estate,Diversified,Medium,1484600,14.02,16.63,246888.98,10.81,24,PUNE,Karthik S,closed
+INV00936,C0249,22-May-2025,bond,Diversified,Low,15600,4.77,2.7,421.2,4.96,6,CHENNAI,Karthik S,matured
+INV01493,C0071,20-Sep-2025,etf,Metals,Medium,76000,10.24,1.01,684.78,16.13,12,DELHI,Divya Raj,matured
+INV00667,C0166,20-Apr-2023,etf,Infrastructure,Medium,60700,10.73,6.04,237017.88,13.88,6,CHENNAI,Vikram Singh,matured
+INV00748,C0045,15-Oct-2023,crypto,Diversified,Medium,8700,27.19,29.01,2523.87,71.86,12,DELHI,Sneha Iyer,closed
+INV00246,C0373,20-Jan-2023,fixed deposit,Diversified,Low,-50000,7.28,7.57,5609.37,0.51,60,BENGALURU,Rahul Mehta,active
+INV01306,C0077,12-May-2025,mutual fund,Healthcare,Medium,14600,9.86,13.67,1995.82,13.88,24,MUMBAI,Sneha Iyer,closed
+INV00541,C0434,07-Jun-2022,real estate,Diversified,Medium,38000,11.19,15.12,5745.6,8.56,6,DELHI,Sneha Iyer,matured
+INV01076,C0293,13-Jul-2025,gold,Diversified,Medium,170500,6.81,13.67,23307.35,10.98,6,KOLKATA,Vikram Singh,matured
+INV01231,C0319,15-May-2023,crypto,Diversified,Very High,72800,27.0,66.62,48499.36,65.04,6,HYDERABAD,Rahul Mehta,closed
+INV00937,C0209,15-Jan-2023,crypto,Diversified,Very High,146700,28.43,25.12,237017.88,56.7,48,KOLKATA,Arun Kumar,closed
+INV00830,C0082,04-Oct-2024,bond,Diversified,Low,1097500,7.2,1.65,18108.75,5.01,6,CHENNAI,Divya Raj,closed
+INV00323,C0119,14-Sep-2025,crypto,Diversified,Very High,7000,22.46,21.04,1472.8,70.81,6,DELHI,Vikram Singh,matured
+INV00247,C0100,13-Jan-2023,fixed deposit,Diversified,Low,11700,8.5,7.95,930.15,0.55,36,DELHI,Arun Kumar,closed
+INV01119,C0286,03-Mar-2021,gold,Diversified,Medium,1050000,7.29,7.75,81375.0,11.8,18,MUMBAI,Vikram Singh,active
+INV00378,C0228,20-Jan-2021,bond,Diversified,Low,84000,6.91,8.23,6913.2,5.81,6,KOLKATA,Rahul Mehta,active
+INV00086,C0167,08-Jan-2022,crypto,Diversified,Medium,10900,23.18,0.74,80.66,67.6,24,BENGALURU,Rahul Mehta,closed
+INV01350,C0275,11-Nov-2024,crypto,Diversified,Very High,540800,35.55,47.23,255419.84,59.37,60,MUMBAI,Divya Raj,closed
+INV01395,C0308,01-Nov-2022,mutual fund,Telecom,Medium,26300,8.73,5.57,237017.88,13.18,24,MUMBAI,Vikram Singh,active
+INV00943,C0367,24-Jan-2023,real estate,Diversified,Medium,48100,13.06,17.79,8556.99,9.94,60,DELHI,Arun Kumar,matured
+INV00585,C0311,24-Aug-2023,real estate,Diversified,Medium,20400,9.92,12.01,2450.04,8.17,60,BENGALURU,Priya Nair,active
+INV01312,C0031,17-Dec-2022,etf,Infrastructure,Medium,76000,12.26,15.19,11544.4,15.09,60,PUNE,Karthik S,matured
+INV01117,C0301,29-May-2025,gold,Diversified,Medium,833700,8.81,5.74,47854.38,11.84,36,PUNE,Sneha Iyer,matured
+INV01073,C0329,10-Oct-2024,etf,Technology,Medium,15400,8.27,3.05,237017.88,14.21,60,DELHI,Sneha Iyer,closed
+INV00011,C0413,09-Oct-2022,equity,Automobile,High,106600,10.92,10.74,11448.84,26.08,18,CHENNAI,Priya Nair,matured
+INV00388,C0350,20-Dec-2021,fixed deposit,Diversified,Low,482700,9.14,8.65,41753.55,0.43,60,BENGALURU,Karthik S,active
+INV00907,C0309,09-Apr-2023,fixed deposit,Diversified,Low,269000,6.2,6.79,18265.1,0.51,24,HYDERABAD,Rahul Mehta,active
+INV00078,C0112,11-Aug-2023,etf,Diversified,Medium,29100,11.36,6.45,1876.95,15.07,60,DELHI,Priya Nair,matured
+INV01197,C0367,01-Mar-2021,mutual fund,Healthcare,Medium,25900,11.86,19.04,237017.88,13.45,18,BENGALURU,Karthik S,closed
+INV01069,C0421,31-Jul-2024,gold,Diversified,Medium,8000,6.86,450.5,203.2,11.19,24,CHENNAI,Karthik S,closed
+INV00942,C0058,11-Oct-2022,etf,Metals,Medium,324900,8.68,21.39,69496.11,14.92,24,BENGALURU,Divya Raj,active
+INV00854,C0105,03-Dec-2023,bond,Diversified,Low,750500,7.4,7.59,56962.95,4.49,48,CHENNAI,Rahul Mehta,closed
+INV01374,C0126,27-Jan-2025,real estate,Diversified,Medium,85200,9.28,450.5,7361.28,9.39,60,PUNE,Karthik S,closed
+INV01245,C0030,23-Jun-2021,gold,Diversified,Medium,19100,7.2,10.41,1988.31,12.17,48,DELHI,Vikram Singh,closed
+INV00345,C0248,03-Aug-2021,bond,Diversified,Low,399400,6.89,5.6,237017.88,5.32,18,BENGALURU,Arun Kumar,active
+INV01508,C0020,13-Jan-2022,equity,Metals,High,53600,7.2,37.89,20309.04,23.09,60,BENGALURU,Vikram Singh,closed
+INV00952,C0394,19-Aug-2022,bond,Diversified,Low,83700,6.72,5.28,4419.36,5.61,48,PUNE,Priya Nair,matured
+INV00688,C0403,19-Mar-2023,mutual fund,Healthcare,Medium,77400,9.79,9.04,6996.96,14.55,24,DELHI,Arun Kumar,closed
+INV00494,C0115,29-Jan-2025,bond,Diversified,Low,76000,6.07,5.07,15696.72,5.36,12,MUMBAI,Divya Raj,active
+INV01587,C0402,20-Apr-2022,etf,Energy,Medium,57600,9.9,0.31,178.56,16.08,6,PUNE,Vikram Singh,active
+INV00426,C0393,11-Apr-2024,equity,Energy,Medium,1129400,12.26,17.59,198661.46,27.1,12,CHENNAI,Priya Nair,matured
+INV01113,C0129,12-Sep-2022,crypto,Diversified,Very High,95600,19.88,34.74,33211.44,59.11,24,PUNE,Karthik S,matured
+INV01358,C0425,16-Jan-2024,fixed deposit,Diversified,Low,475900,6.08,6.04,28744.36,0.42,24,BENGALURU,Karthik S,matured
+INV01439,C0128,21-Jul-2025,equity,Automobile,High,1532900,11.26,2.39,36636.31,24.21,24,BENGALURU,Arun Kumar,closed
+INV01403,C0169,09-Nov-2024,equity,Telecom,High,67500,12.89,6.16,4158.0,15.72,60,PUNE,Sneha Iyer,closed
+INV00617,C0162,06-Oct-2023,equity,Telecom,High,971200,13.75,6.34,61574.08,22.94,60,BENGALURU,Sneha Iyer,active
+INV01178,C0294,10-May-2025,fixed deposit,Diversified,Low,17700,8.69,8.32,1472.64,0.49,60,DELHI,Karthik S,active
+INV01264,C0059,05-Nov-2025,bond,Diversified,Low,66100,7.77,6.68,4415.48,5.29,24,KOLKATA,Priya Nair,matured
+INV01341,C0054,19-Aug-2022,gold,Diversified,Medium,7500,10.6,1.07,80.25,10.29,24,MUMBAI,Vikram Singh,closed
+INV00497,C0130,30-Aug-2023,etf,Healthcare,Medium,76000,8.48,3.82,13820.76,16.89,12,BENGALURU,Vikram Singh,matured
+INV00188,C0049,17-Feb-2024,equity,Automobile,High,166500,15.74,11.84,19713.6,23.92,18,DELHI,Divya Raj,matured
+INV00416,C0412,14-Jun-2025,gold,Diversified,Medium,26600,6.53,1.89,237017.88,12.04,12,CHENNAI,Arun Kumar,active
+INV01229,C0340,06-Aug-2025,crypto,Diversified,Very High,96600,27.26,95.48,92233.68,54.9,24,MUMBAI,Arun Kumar,active
+INV00759,C0160,19-Aug-2022,bond,Diversified,Low,1216300,5.44,450.5,84654.48,4.46,60,MUMBAI,Divya Raj,matured
+INV00994,C0045,14-Sep-2021,crypto,Diversified,Very High,702300,25.75,64.93,456003.39,61.58,12,CHENNAI,Priya Nair,active
+INV00322,C0072,07-Jun-2025,crypto,Diversified,Very High,677800,27.66,70.47,477645.66,59.46,48,KOLKATA,Vikram Singh,matured
+INV00638,C0441,29-Oct-2022,equity,Pharma,High,12600,7.2,21.88,2756.88,23.4,24,PUNE,Vikram Singh,matured
+INV00080,C0354,29-Aug-2025,fixed deposit,Diversified,Low,76000,6.99,7.25,3675.75,0.47,48,MUMBAI,Arun Kumar,matured
+INV01254,C0005,27-Jul-2021,crypto,Diversified,Very High,50100,24.92,24.58,12314.58,61.93,24,BENGALURU,Priya Nair,active
+INV00048,C0410,19-Jul-2025,bond,Diversified,Low,109800,7.77,8.16,8959.68,4.2,12,BENGALURU,Arun Kumar,active
+INV00302,C0098,27-Feb-2025,real estate,Diversified,Medium,8100,13.11,13.35,1081.35,10.19,6,KOLKATA,Karthik S,closed
+INV01102,C0168,22-May-2022,gold,Diversified,Medium,139000,6.77,13.84,19237.6,13.32,6,KOLKATA,Karthik S,closed
+INV01252,C0330,22-Nov-2023,fixed deposit,Diversified,Low,114200,6.34,5.75,6566.5,0.47,60,BENGALURU,Sneha Iyer,matured
+INV00224,C0059,23-Feb-2021,crypto,Diversified,Very High,76000,29.09,40.87,34739.5,67.48,48,MUMBAI,Sneha Iyer,matured
+INV00482,C0372,14-Jul-2025,etf,Metals,Medium,67000,8.86,3.78,2532.6,15.6,60,MUMBAI,Divya Raj,closed
+INV00505,C0347,03-Oct-2022,equity,Automobile,High,96000,10.71,9.97,9571.2,17.89,48,CHENNAI,Arun Kumar,active
+INV00475,C0423,01-Jul-2024,etf,Automobile,Medium,127700,10.4,3.22,4111.94,13.74,36,CHENNAI,Arun Kumar,matured
+INV01177,C0273,10-Sep-2024,real estate,Diversified,Medium,110100,7.98,14.68,16162.68,8.95,24,HYDERABAD,Rahul Mehta,matured
+INV00572,C0258,22-Jan-2021,etf,Diversified,Medium,24900,12.4,11.76,2928.24,14.2,60,PUNE,Vikram Singh,matured
+INV00301,C0390,18-Apr-2024,equity,Metals,High,19700,12.66,12.96,2553.12,21.13,12,BENGALURU,Priya Nair,closed
+INV01336,C0087,29-Aug-2022,etf,Healthcare,Medium,26400,11.98,8.53,2251.92,10.94,24,BENGALURU,Vikram Singh,closed
+INV01412,C0055,06-Mar-2025,mutual fund,Banking,Medium,53000,10.76,3.8,2014.0,11.81,12,CHENNAI,Sneha Iyer,active
+INV01505,C0433,14-Feb-2024,equity,Energy,High,270100,10.94,9.17,24768.17,19.94,24,CHENNAI,Vikram Singh,active
+INV00207,C0001,13-Jun-2024,gold,Diversified,Medium,44600,8.58,3.73,1663.58,12.27,18,MUMBAI,Vikram Singh,closed
+INV01192,C0120,27-May-2024,equity,Pharma,High,319500,12.35,15.11,48276.45,19.21,24,KOLKATA,Vikram Singh,active
+INV01257,C0225,28-Nov-2021,mutual fund,Healthcare,Medium,1256300,11.0,17.63,221485.69,13.23,18,KOLKATA,Sneha Iyer,active
+INV01331,C0048,11-Jan-2025,etf,Energy,Medium,37100,8.21,5.9,2188.9,14.29,12,PUNE,Divya Raj,matured
+INV00285,C0024,18-May-2023,equity,Infrastructure,High,88400,10.85,28.34,25052.56,0.51,48,BENGALURU,Vikram Singh,active
+INV00918,C0183,19-Aug-2022,bond,Diversified,Low,25700,8.4,8.35,2145.95,0.48,18,BENGALURU,Divya Raj,active
+INV00219,C0373,17-Nov-2025,etf,Infrastructure,Medium,261800,15.25,15.36,40212.48,15.09,36,BENGALURU,Rahul Mehta,matured
+INV00725,C0023,23-Apr-2025,bond,Diversified,Low,575200,6.19,4.07,23410.64,0.51,12,DELHI,Vikram Singh,matured
+INV00981,C0222,16-Feb-2025,mutual fund,FMCG,Medium,109100,11.49,15.77,17205.07,13.35,24,HYDERABAD,Vikram Singh,closed
+INV01585,C0135,29-Feb-2024,mutual fund,Banking,Medium,66000,9.65,6.06,3999.6,13.43,12,BENGALURU,Vikram Singh,matured
+INV01106,C0140,10-Apr-2024,real estate,Diversified,Medium,619100,11.69,6.8,237017.88,9.95,48,CHENNAI,Priya Nair,active
+INV01028,C0003,18-Jul-2023,etf,Infrastructure,Medium,117200,11.23,4.5,5274.0,12.05,12,PUNE,Divya Raj,matured
+INV00245,C0432,01-Sep-2024,equity,Pharma,High,109500,12.73,22.12,24221.4,18.25,18,HYDERABAD,Arun Kumar,active
+INV01535,C0141,24-Sep-2023,real estate,Diversified,Medium,35900,7.2,7.52,2699.68,11.31,24,MUMBAI,Priya Nair,closed
+INV01449,C0288,19-Aug-2022,equity,Pharma,High,83700,10.82,10.3,8621.1,22.06,12,MUMBAI,Divya Raj,matured
+INV01475,C0256,18-Apr-2022,bond,Diversified,Low,70100,7.72,5.26,3687.26,5.47,6,HYDERABAD,Vikram Singh,closed
+INV01582,C0326,20-Feb-2024,etf,Energy,Medium,33300,11.68,9.2,3063.6,0.51,18,KOLKATA,Vikram Singh,active
+INV01384,C0254,13-Jun-2023,real estate,Diversified,Medium,1345200,11.4,17.01,228818.52,9.94,36,BENGALURU,Priya Nair,closed
+INV00400,C0366,25-Feb-2025,bond,Diversified,Low,11500,7.2,10.53,1210.95,5.11,24,BENGALURU,Priya Nair,closed
+INV00091,C0129,19-Aug-2022,crypto,Diversified,Very High,870900,7.2,60.28,524978.52,51.38,6,KOLKATA,Priya Nair,closed
+INV00852,C0410,10-Oct-2024,real estate,Diversified,Medium,1221000,11.64,14.08,171916.8,9.13,48,PUNE,Arun Kumar,active
+INV00142,C0060,14-Oct-2021,etf,Diversified,Medium,124900,12.6,450.5,237017.88,15.97,6,DELHI,Sneha Iyer,active
+INV00601,C0114,30-Jan-2023,fixed deposit,Diversified,Low,16600,8.74,8.53,1415.98,0.5,6,HYDERABAD,Arun Kumar,matured
+INV00897,C0051,15-Mar-2022,bond,Diversified,Low,15700,7.24,450.5,712.78,5.31,36,PUNE,Divya Raj,closed
+INV00437,C0415,06-Jun-2024,equity,Energy,High,60100,13.95,13.66,8209.66,23.04,48,HYDERABAD,Arun Kumar,closed
+INV00513,C0140,05-Dec-2024,gold,Diversified,Medium,279800,8.62,450.5,5512.06,11.36,36,CHENNAI,Sneha Iyer,matured
+INV00068,C0277,15-Jun-2021,real estate,Diversified,Medium,229900,11.93,17.77,40853.23,11.08,24,MUMBAI,Priya Nair,closed
+INV00965,C0318,20-Feb-2023,equity,FMCG,High,8500,13.38,19.09,1622.65,22.47,24,KOLKATA,Rahul Mehta,active
+INV00360,C0141,06-Apr-2022,equity,Metals,High,66900,11.23,21.99,14711.31,25.3,18,BENGALURU,Karthik S,closed
+INV00932,C0426,12-May-2021,fixed deposit,Diversified,Low,459300,7.2,5.6,25720.8,0.51,48,MUMBAI,Karthik S,closed
+INV00151,C0009,23-Dec-2021,crypto,Diversified,Very High,89200,24.76,7.64,6814.88,65.73,18,CHENNAI,Priya Nair,matured
+INV00279,C0311,05-Feb-2023,etf,Automobile,Medium,52700,10.94,22.84,12036.68,0.51,48,HYDERABAD,Sneha Iyer,matured
+INV00445,C0170,25-Feb-2022,fixed deposit,Diversified,Low,32700,6.58,6.62,2164.74,0.57,12,BENGALURU,Divya Raj,matured
+INV01410,C0140,01-Mar-2023,mutual fund,Pharma,Medium,40900,10.63,10.69,4372.21,14.39,60,HYDERABAD,Vikram Singh,active
+INV00453,C0215,02-Jan-2024,equity,Pharma,High,709200,11.02,5.88,41700.96,22.86,36,MUMBAI,Sneha Iyer,closed
+INV00849,C0172,04-May-2022,mutual fund,Metals,Medium,55400,13.64,3.58,1983.32,14.61,6,KOLKATA,Sneha Iyer,matured
+INV01590,C0362,30-Aug-2023,fixed deposit,Diversified,Low,687000,6.54,6.78,46578.6,0.55,18,DELHI,Karthik S,matured
+INV01041,C0077,10-Nov-2025,etf,Infrastructure,Medium,1267200,10.2,13.66,173099.52,14.08,6,PUNE,Vikram Singh,matured
+INV00019,C0277,14-May-2025,bond,Diversified,Low,340600,7.51,5.21,17745.26,5.47,24,CHENNAI,Vikram Singh,closed
+INV00034,C0112,30-Apr-2021,etf,Telecom,Medium,39500,10.61,7.9,3120.5,12.88,48,HYDERABAD,Arun Kumar,matured
+INV01169,C0367,20-Aug-2023,etf,Energy,Medium,23300,10.17,12.26,2856.58,12.94,12,MUMBAI,Arun Kumar,active
+INV00985,C0332,11-Dec-2023,bond,Diversified,Low,76000,6.96,4.23,47684.79,5.76,6,DELHI,Sneha Iyer,closed
+INV01188,C0194,04-Jun-2024,gold,Diversified,Medium,316300,7.09,12.69,237017.88,9.37,6,DELHI,Karthik S,closed
+INV00562,C0038,19-Aug-2022,equity,Banking,High,1244700,12.58,450.5,300097.17,19.41,18,CHENNAI,Priya Nair,matured
+INV00687,C0375,16-Mar-2023,gold,Diversified,Medium,32500,8.32,13.52,4394.0,12.23,24,PUNE,Vikram Singh,matured
+INV00929,C0265,02-Nov-2025,bond,Diversified,Low,12300,6.02,4.16,511.68,4.82,24,HYDERABAD,Sneha Iyer,active
+INV01128,C0200,08-Nov-2025,fixed deposit,Diversified,Low,1343100,8.01,8.32,111745.92,0.51,12,MUMBAI,Karthik S,active
+INV00422,C0282,09-Sep-2023,real estate,Diversified,Medium,1012000,9.48,2.29,23174.8,10.17,6,CHENNAI,Rahul Mehta,closed
+INV01554,C0373,25-Mar-2022,real estate,Diversified,Medium,8700,9.68,8.05,237017.88,11.48,18,KOLKATA,Karthik S,active
+INV00530,C0366,19-Aug-2022,gold,Diversified,Medium,60700,7.56,8.03,4874.21,11.01,24,DELHI,Divya Raj,active
+INV00661,C0184,23-Jan-2025,gold,Diversified,Medium,12900,6.83,3.59,463.11,10.34,12,DELHI,Arun Kumar,closed
+INV01388,C0018,14-Nov-2023,bond,Diversified,Very High,26200,26.8,26.81,7024.22,58.39,18,HYDERABAD,Sneha Iyer,closed
+INV01346,C0414,11-Jan-2023,equity,Automobile,High,331200,13.72,450.5,36961.92,23.14,24,MUMBAI,Arun Kumar,active
+INV01356,C0098,23-Oct-2024,fixed deposit,Diversified,Low,71100,6.15,6.24,4436.64,0.51,36,BENGALURU,Rahul Mehta,closed
+INV00659,C0331,12-Nov-2021,crypto,Diversified,Very High,6600,24.93,57.34,3784.44,57.67,48,HYDERABAD,Karthik S,active
+INV01532,C0289,27-Nov-2023,real estate,Diversified,Medium,941100,7.42,8.21,77264.31,9.99,36,HYDERABAD,Vikram Singh,closed
+INV00752,C0366,07-Nov-2025,gold,Diversified,Medium,10600,7.99,9.9,1049.4,10.5,36,CHENNAI,Arun Kumar,closed
+INV01040,C0244,05-Sep-2025,etf,Telecom,Medium,345300,9.75,23.47,81041.91,16.57,12,PUNE,Priya Nair,matured
+INV00371,C0235,24-Jul-2024,equity,Infrastructure,High,33300,11.66,21.44,7139.52,22.48,60,CHENNAI,Karthik S,matured
+INV00795,C0272,30-Oct-2024,etf,Technology,Medium,76000,11.57,11.81,75489.52,14.93,6,HYDERABAD,Divya Raj,closed
+INV00607,C0207,23-Mar-2024,gold,Diversified,Medium,79100,7.75,7.04,5568.64,10.82,6,DELHI,Priya Nair,matured
+INV01185,C0052,20-Jan-2021,etf,Technology,Medium,1272800,11.57,5.7,72549.6,18.77,18,PUNE,Arun Kumar,matured
+INV00343,C0221,05-Aug-2021,fixed deposit,Diversified,Low,76000,6.84,450.5,27476.28,0.51,24,CHENNAI,Rahul Mehta,matured
+INV00904,C0206,24-Nov-2024,mutual fund,Telecom,Medium,18600,12.35,22.2,4129.2,12.85,6,KOLKATA,Priya Nair,active
+INV01421,C0359,28-Jun-2024,mutual fund,Pharma,Medium,55200,11.5,16.66,9196.32,13.6,24,DELHI,Karthik S,matured
+INV00460,C0445,02-Jan-2024,mutual fund,Infrastructure,Medium,34600,11.56,450.5,8155.22,13.15,24,DELHI,Sneha Iyer,matured
+INV00972,C0369,11-Nov-2025,etf,Healthcare,Medium,712500,12.25,27.07,192873.75,16.03,24,DELHI,Arun Kumar,matured
+INV00359,C0213,25-Dec-2024,etf,Pharma,Medium,642300,12.64,450.5,9891.42,14.26,24,MUMBAI,Arun Kumar,matured
+INV01473,C0293,22-Aug-2025,etf,Pharma,Medium,107400,11.43,9.31,9998.94,12.08,36,DELHI,Rahul Mehta,matured
+INV00326,C0043,03-Jul-2022,real estate,Diversified,Medium,98500,7.88,3.69,3634.65,9.55,24,BENGALURU,Divya Raj,matured
+INV00167,C0175,19-Nov-2021,gold,Diversified,Medium,509900,6.95,11.74,59862.26,10.34,18,DELHI,Divya Raj,closed
+INV01400,C0063,23-Sep-2025,etf,Infrastructure,Medium,1448700,8.42,11.42,165441.54,10.49,36,CHENNAI,Arun Kumar,active
+INV00198,C0071,23-Nov-2025,bond,Diversified,Low,76000,6.03,6.9,7251.9,5.24,24,CHENNAI,Divya Raj,closed
+INV00533,C0029,14-Feb-2022,fixed deposit,Diversified,Medium,32700,7.43,7.44,2432.88,0.6,18,PUNE,Karthik S,active
+INV01373,C0399,04-Jan-2023,bond,Diversified,Low,1234500,6.26,5.34,65922.3,4.05,12,MUMBAI,Divya Raj,active
+INV01093,C0328,02-Apr-2022,etf,Energy,Medium,114000,12.93,13.53,15424.2,15.2,24,HYDERABAD,Priya Nair,active
+INV00361,C0138,07-May-2025,etf,Metals,Medium,29300,10.42,8.09,2370.37,14.48,60,DELHI,Vikram Singh,active
+INV00579,C0004,25-Oct-2023,etf,Healthcare,Medium,1487200,12.32,5.69,84621.68,12.58,24,MUMBAI,Priya Nair,active
+INV00183,C0147,07-Jun-2021,equity,Banking,High,9700,13.04,450.5,1652.88,21.55,36,HYDERABAD,Vikram Singh,closed
+INV01549,C0152,17-Jul-2021,fixed deposit,Diversified,Low,285900,7.45,7.03,20098.77,0.58,12,CHENNAI,Karthik S,closed
+INV00282,C0267,24-Jun-2023,bond,Diversified,Low,46400,6.87,8.12,3767.68,5.08,6,KOLKATA,Priya Nair,matured
+INV01089,C0005,27-Nov-2023,crypto,Diversified,Very High,96900,27.5,3.97,3846.93,71.65,36,KOLKATA,Divya Raj,active
+INV00130,C0177,18-Apr-2024,real estate,Diversified,Medium,76000,14.1,10.94,3686.78,10.95,18,KOLKATA,Sneha Iyer,matured
+INV01077,C0101,03-Dec-2021,fixed deposit,Diversified,Low,37900,7.59,7.46,2827.34,0.5,18,DELHI,Arun Kumar,matured
+INV01006,C0103,17-Nov-2021,mutual fund,Telecom,Medium,729100,11.56,5.25,38277.75,11.87,24,CHENNAI,Karthik S,closed
+INV00177,C0203,18-Nov-2025,fixed deposit,Diversified,Low,562000,7.06,7.25,40745.0,0.45,18,KOLKATA,Rahul Mehta,active
+INV00587,C0176,18-Jul-2023,real estate,Diversified,Medium,66200,13.66,22.93,15179.66,11.31,36,HYDERABAD,Arun Kumar,active
+INV00799,C0351,03-Jul-2023,fixed deposit,Diversified,Low,28100,6.71,6.43,237017.88,0.43,18,MUMBAI,Divya Raj,closed
+INV00456,C0350,11-Jun-2023,bond,Diversified,Low,10200,6.35,4.02,410.04,4.99,12,PUNE,Divya Raj,active
+INV01544,C0078,20-Sep-2023,gold,Diversified,Medium,64900,8.51,450.5,3744.73,10.15,60,MUMBAI,Divya Raj,closed
+INV01199,C0171,21-Nov-2025,etf,Energy,Medium,34900,13.08,4.94,1724.06,16.72,36,PUNE,Vikram Singh,active
+INV00296,C0177,19-Aug-2022,fixed deposit,Diversified,Low,646900,8.68,8.57,55439.33,0.53,48,BENGALURU,Karthik S,matured
+INV01494,C0140,02-Jun-2025,gold,Diversified,Medium,24300,9.26,10.77,2617.11,10.57,12,CHENNAI,Vikram Singh,matured
+INV00111,C0097,28-Nov-2023,equity,Infrastructure,High,1013200,11.98,450.5,129081.68,20.03,36,PUNE,Sneha Iyer,matured
+INV01228,C0228,14-Oct-2021,equity,Telecom,High,125900,11.29,25.05,31537.95,22.39,24,KOLKATA,Rahul Mehta,matured
+INV00340,C0140,09-Sep-2023,fixed deposit,Diversified,Low,337000,6.31,450.5,21702.8,0.48,36,BENGALURU,Vikram Singh,matured
+INV00656,C0167,31-Jan-2021,mutual fund,Healthcare,Medium,92500,10.13,9.09,8408.25,13.72,60,DELHI,Vikram Singh,active
+INV00503,C0039,21-Jan-2025,bond,Diversified,Low,34500,7.18,7.42,2559.9,5.48,48,CHENNAI,Rahul Mehta,matured
+INV00418,C0034,09-Feb-2022,real estate,Diversified,Medium,76000,12.38,13.88,2151.4,8.01,48,BENGALURU,Karthik S,active
+INV01555,C0294,29-Nov-2025,real estate,Diversified,Medium,1009800,10.07,13.49,136222.02,9.53,12,HYDERABAD,Priya Nair,matured
+INV01447,C0425,23-Aug-2024,equity,Banking,High,16400,8.29,18.31,3002.84,21.3,18,HYDERABAD,Arun Kumar,closed
+INV00762,C0016,14-May-2021,crypto,Diversified,Very High,263300,21.32,34.54,90943.82,57.21,24,CHENNAI,Rahul Mehta,closed
+INV00483,C0382,20-Nov-2025,mutual fund,Diversified,Medium,71600,9.21,450.5,13167.24,14.82,24,PUNE,Rahul Mehta,closed
+INV00649,C0373,19-Aug-2022,real estate,Diversified,Medium,65800,12.03,13.85,9113.3,9.63,12,CHENNAI,Priya Nair,active
+INV00653,C0227,22-May-2022,gold,Diversified,Medium,685600,5.44,13.77,94407.12,0.51,48,CHENNAI,Priya Nair,closed
+INV01557,C0284,10-May-2021,crypto,Diversified,Very High,341700,21.79,41.43,141566.31,60.21,48,CHENNAI,Vikram Singh,active
+INV00263,C0366,11-Jun-2021,bond,Diversified,Low,64200,7.31,7.13,4577.46,5.23,18,BENGALURU,Divya Raj,closed
+INV00979,C0131,31-Dec-2021,mutual fund,Energy,Medium,346300,11.31,6.46,22370.98,16.06,24,PUNE,Sneha Iyer,active
+INV00402,C0412,23-Nov-2023,mutual fund,Technology,Medium,7800,10.81,11.1,865.8,14.07,24,CHENNAI,Sneha Iyer,closed
+INV00637,C0227,07-Jul-2024,gold,Diversified,Medium,100300,6.57,17.11,17161.33,12.17,12,MUMBAI,Vikram Singh,active
+INV01101,C0326,16-May-2022,crypto,Diversified,Very High,299900,26.27,32.16,96447.84,54.37,6,PUNE,Vikram Singh,matured
+INV00819,C0305,25-Jun-2025,mutual fund,Telecom,Medium,17900,11.02,6.36,1138.44,16.08,12,CHENNAI,Karthik S,active
+INV00023,C0344,23-Aug-2024,gold,Diversified,Medium,99900,7.91,10.3,10289.7,13.2,18,BENGALURU,Vikram Singh,closed
+INV01490,C0279,26-Feb-2022,mutual fund,Diversified,Medium,21300,10.63,13.37,2847.81,14.15,48,KOLKATA,Karthik S,closed
+INV01513,C0151,27-Jun-2024,crypto,Diversified,Very High,1542500,25.81,19.44,299862.0,58.18,6,MUMBAI,Rahul Mehta,active
+INV00928,C0206,30-May-2022,fixed deposit,Diversified,Low,200000,6.14,5.83,11660.0,0.44,36,HYDERABAD,Sneha Iyer,matured
+INV00571,C0396,22-Apr-2024,crypto,Diversified,Very High,411700,29.15,35.25,145124.25,0.51,48,PUNE,Rahul Mehta,active
+INV00963,C0132,30-May-2021,fixed deposit,Diversified,Low,76000,6.26,6.14,41021.34,0.57,6,HYDERABAD,Arun Kumar,active
+INV00554,C0323,09-Apr-2023,real estate,Diversified,Medium,494000,12.88,12.21,60317.4,11.32,24,DELHI,Arun Kumar,closed
+INV00915,C0081,04-Nov-2023,etf,Technology,Medium,1162300,11.07,8.96,104142.08,15.84,24,DELHI,Sneha Iyer,matured
+INV01480,C0038,08-Jul-2025,crypto,Diversified,Very High,8400,23.98,38.47,237017.88,57.96,36,HYDERABAD,Divya Raj,active
+INV01292,C0418,02-Nov-2025,etf,Healthcare,Medium,53000,8.56,16.84,8925.2,13.89,12,HYDERABAD,Sneha Iyer,matured
+INV00217,C0422,05-Jan-2022,fixed deposit,Diversified,Low,25800,6.56,7.11,1834.38,0.53,36,DELHI,Rahul Mehta,active
+INV01232,C0043,05-Jun-2022,fixed deposit,Diversified,Medium,50000,7.88,7.79,3895.0,0.54,48,BENGALURU,Vikram Singh,matured
+INV00061,C0385,27-Apr-2022,crypto,Diversified,Very High,35500,27.35,2.02,237017.88,54.86,48,DELHI,Priya Nair,active
+INV01019,C0396,03-Dec-2021,mutual fund,Automobile,Medium,228700,12.6,9.04,20674.48,12.8,6,BENGALURU,Karthik S,active
+INV01405,C0140,17-Dec-2023,fixed deposit,Diversified,Low,1268200,7.61,7.62,96636.84,0.41,12,HYDERABAD,Sneha Iyer,matured
+INV01389,C0093,15-Jul-2025,crypto,Diversified,Very High,315000,23.38,13.75,237017.88,64.76,18,BENGALURU,Karthik S,active
+INV00419,C0237,14-Apr-2021,mutual fund,Healthcare,Medium,180600,7.2,22.13,39966.78,12.31,36,BENGALURU,Karthik S,matured
+INV01031,C0365,22-May-2023,crypto,Diversified,Very High,698000,18.18,15.13,105607.4,64.56,60,BENGALURU,Arun Kumar,matured
+INV01038,C0157,26-Dec-2025,bond,Diversified,Low,324300,6.22,3.29,10669.47,4.85,18,MUMBAI,Priya Nair,matured
+INV00658,C0128,19-Nov-2021,bond,Diversified,Low,342700,3.63,4.15,14222.05,5.33,24,CHENNAI,Divya Raj,matured
+INV00236,C0015,16-Jun-2021,crypto,Diversified,Very High,14300,27.27,73.18,10464.74,52.32,6,KOLKATA,Karthik S,matured
+INV00266,C0052,27-Oct-2024,fixed deposit,Diversified,Low,329300,7.2,8.07,26574.51,0.5,60,MUMBAI,Arun Kumar,matured
+INV00818,C0421,14-Jun-2025,bond,Diversified,Medium,15000,5.69,3.91,237017.88,4.97,6,BENGALURU,Vikram Singh,active
+INV00544,C0403,01-Nov-2023,gold,Diversified,Medium,56000,9.02,3.7,2072.0,12.58,12,BENGALURU,Vikram Singh,matured
+INV00452,C0414,14-Jan-2024,mutual fund,Automobile,Medium,31700,11.14,5.95,1886.15,0.51,60,HYDERABAD,Priya Nair,matured
+INV00576,C0267,19-Aug-2022,crypto,Diversified,Very High,32600,29.07,52.01,16955.26,56.78,60,BENGALURU,Karthik S,matured
+INV00315,C0208,30-Jul-2023,real estate,Diversified,Medium,339500,12.07,21.21,72007.95,9.9,36,MUMBAI,Divya Raj,active
+INV01593,C0444,19-Jan-2023,fixed deposit,Diversified,Low,194500,6.78,6.45,12545.25,0.56,60,BENGALURU,Karthik S,matured
+INV01216,C0264,24-Aug-2024,bond,Diversified,Low,7200,5.41,5.96,429.12,5.13,18,HYDERABAD,Sneha Iyer,active
+INV00980,C0400,05-Apr-2023,equity,FMCG,High,57200,11.59,7.98,4564.56,18.39,48,PUNE,Divya Raj,active
+INV00876,C0238,05-Apr-2022,real estate,Diversified,Medium,1159300,9.58,13.56,157201.08,11.4,6,PUNE,Arun Kumar,active
+INV00715,C0034,29-Dec-2021,gold,Diversified,Medium,76000,8.21,450.5,6963.12,12.29,24,PUNE,Vikram Singh,closed
+INV01382,C0112,02-Mar-2021,gold,Diversified,Medium,178700,8.37,5.02,8970.74,10.18,18,MUMBAI,Priya Nair,active
+INV00684,C0296,21-Feb-2023,real estate,Diversified,Medium,13300,11.26,6.56,237017.88,10.83,6,PUNE,Arun Kumar,closed
+INV00606,C0372,27-Aug-2025,mutual fund,Metals,Medium,28700,8.66,4.71,1351.77,10.99,36,DELHI,Rahul Mehta,closed
+INV00528,C0176,26-Aug-2022,gold,Diversified,Medium,99800,9.38,9.71,9690.58,10.78,24,PUNE,Priya Nair,active
+INV00946,C0422,30-Mar-2025,real estate,Diversified,Medium,76000,10.51,20.18,13924.2,11.9,12,DELHI,Priya Nair,active
+INV00755,C0140,02-Nov-2021,crypto,Diversified,Very High,76000,29.63,450.5,608221.35,53.57,12,DELHI,Arun Kumar,active
+INV00737,C0435,11-Oct-2022,etf,FMCG,Medium,102700,10.48,1.1,1129.7,15.0,36,HYDERABAD,Vikram Singh,closed
+INV00466,C0364,04-Nov-2023,equity,Automobile,High,33300,12.33,3.08,1025.64,19.04,12,PUNE,Karthik S,matured
+INV00636,C0317,15-Nov-2021,fixed deposit,Diversified,Low,17600,7.26,6.92,237017.88,0.42,6,KOLKATA,Sneha Iyer,closed
+INV01321,C0081,11-Jul-2022,real estate,Diversified,Medium,76800,9.79,10.08,7741.44,11.89,6,HYDERABAD,Sneha Iyer,active
+INV01114,C0071,18-Oct-2025,real estate,Diversified,Medium,97900,13.96,12.66,12394.14,10.71,60,KOLKATA,Divya Raj,matured
+INV00927,C0334,15-Aug-2025,gold,Diversified,Medium,348900,7.93,13.43,46857.27,12.58,18,HYDERABAD,Karthik S,closed
+INV00147,C0329,02-Aug-2024,etf,Telecom,Medium,31600,8.19,11.06,237017.88,14.92,6,CHENNAI,Karthik S,closed
+INV01570,C0207,16-Jun-2024,etf,Pharma,Medium,51300,10.2,450.5,5068.44,16.43,36,KOLKATA,Karthik S,matured
+INV00592,C0380,09-Apr-2025,fixed deposit,Diversified,Low,297300,7.0,450.5,19621.8,0.46,60,KOLKATA,Vikram Singh,active
+INV00331,C0138,09-Sep-2022,bond,Diversified,Low,384800,6.7,6.21,23896.08,3.98,18,BENGALURU,Priya Nair,active
+INV00757,C0314,25-Nov-2022,gold,Diversified,Medium,33600,7.39,9.46,3178.56,11.9,24,BENGALURU,Arun Kumar,active
+INV00373,C0249,03-Jun-2025,crypto,Diversified,Very High,58300,34.01,40.01,23325.83,59.65,18,KOLKATA,Karthik S,active
+INV00673,C0098,31-Jan-2022,mutual fund,Metals,Medium,84900,9.6,13.16,11172.84,11.19,24,MUMBAI,Vikram Singh,matured
+INV00294,C0074,14-Sep-2024,crypto,Diversified,Very High,67600,29.46,9.51,6428.76,75.16,36,MUMBAI,Sneha Iyer,closed
+INV00648,C0078,12-Apr-2021,etf,Metals,Medium,69000,10.35,7.71,5319.9,15.4,6,MUMBAI,Arun Kumar,closed
+INV00308,C0251,21-Jan-2025,crypto,Diversified,Very High,136300,21.15,450.5,177.19,60.8,48,KOLKATA,Sneha Iyer,closed
+INV00866,C0375,08-Sep-2023,etf,Technology,Medium,322300,7.29,8.78,28297.94,14.09,12,KOLKATA,Vikram Singh,active
+INV01018,C0395,21-Jan-2021,crypto,Diversified,Very High,10400,22.34,0.49,50.96,58.27,48,PUNE,Vikram Singh,active
+INV00821,C0407,13-Mar-2022,bond,Diversified,Low,359100,6.57,7.86,28225.26,5.37,60,CHENNAI,Vikram Singh,active
+INV00871,C0229,19-Aug-2022,real estate,Diversified,Medium,237800,12.08,11.19,26609.82,8.86,36,CHENNAI,Priya Nair,matured
+INV01416,C0142,21-Dec-2023,gold,Diversified,Medium,388300,6.15,19.55,75912.65,12.2,36,BENGALURU,Vikram Singh,closed
+INV00065,C0238,29-Sep-2024,mutual fund,Metals,Medium,733300,7.2,11.38,83449.54,0.51,36,HYDERABAD,Rahul Mehta,closed
+INV01266,C0303,12-Jul-2024,bond,Diversified,Low,119400,6.18,6.7,7999.8,4.92,48,MUMBAI,Priya Nair,active
+INV00959,C0196,24-Sep-2021,real estate,Diversified,Medium,76000,10.95,6.69,9004.74,9.09,24,PUNE,Vikram Singh,matured
+INV00588,C0009,19-Feb-2022,fixed deposit,Diversified,Low,366100,7.56,7.08,25919.88,0.5,24,PUNE,Vikram Singh,matured
+INV01181,C0096,12-Dec-2024,fixed deposit,Diversified,Low,38800,7.14,7.4,2871.2,0.57,12,MUMBAI,Sneha Iyer,active
+INV00841,C0003,06-May-2023,gold,Diversified,Medium,75700,8.21,11.07,8379.99,15.58,6,CHENNAI,Sneha Iyer,matured
+INV01162,C0065,07-Jul-2021,equity,Healthcare,High,76900,11.88,6.78,5213.82,19.78,36,HYDERABAD,Karthik S,active
+INV00392,C0224,03-Feb-2025,fixed deposit,Diversified,Low,22800,6.74,6.66,1518.48,0.46,24,MUMBAI,Arun Kumar,active
+INV00724,C0231,22-Jul-2024,mutual fund,Infrastructure,Medium,17900,10.7,10.12,1811.48,15.38,6,HYDERABAD,Divya Raj,closed
+INV01013,C0256,09-Feb-2025,real estate,Diversified,Medium,1362000,10.43,5.53,75318.6,10.17,60,CHENNAI,Priya Nair,matured
+INV00746,C0077,29-Jul-2022,crypto,Diversified,Very High,166600,27.74,0.92,1532.72,60.09,60,CHENNAI,Rahul Mehta,closed
+INV00284,C0345,11-Jul-2025,etf,FMCG,Medium,11600,10.12,6.21,720.36,14.07,48,CHENNAI,Sneha Iyer,closed
+INV01237,C0114,15-Feb-2023,real estate,Diversified,Medium,7000,11.7,4.49,314.3,10.04,6,PUNE,Arun Kumar,matured
+INV01053,C0163,10-Aug-2023,fixed deposit,Diversified,Low,21700,5.54,5.94,1288.98,0.51,36,BENGALURU,Arun Kumar,closed
+INV01129,C0341,31-Aug-2023,bond,Diversified,Medium,708900,12.82,8.97,63588.33,0.51,12,HYDERABAD,Vikram Singh,closed
+INV00070,C0395,11-Apr-2024,gold,Diversified,Medium,494700,8.62,32.93,162904.71,12.62,48,CHENNAI,Karthik S,matured
+INV01422,C0036,08-Dec-2021,gold,Diversified,Medium,45800,7.65,10.59,4850.22,11.93,12,DELHI,Sneha Iyer,active
+INV01348,C0232,20-Nov-2025,mutual fund,Automobile,Medium,147400,11.15,12.91,19029.34,11.74,36,MUMBAI,Divya Raj,closed
+INV00026,C0110,10-Jan-2024,gold,Diversified,Medium,126900,8.99,7.18,9111.42,12.1,12,KOLKATA,Vikram Singh,matured
+INV01011,C0431,28-Mar-2025,equity,Banking,High,1399000,7.52,12.18,170398.2,20.55,6,PUNE,Vikram Singh,matured
+INV00009,C0088,30-Dec-2023,real estate,Diversified,Medium,30200,10.1,4.28,1292.56,10.11,48,MUMBAI,Priya Nair,closed
+INV00018,C0153,20-Sep-2025,bond,Diversified,Low,36800,6.12,7.55,2778.4,4.66,48,HYDERABAD,Vikram Singh,matured
+INV00429,C0181,08-Mar-2024,crypto,Diversified,Very High,13000,22.05,25.7,3341.0,52.01,24,MUMBAI,Vikram Singh,active
+INV00681,C0136,22-Jan-2023,etf,Telecom,Medium,189000,9.85,6.08,11491.2,14.39,12,MUMBAI,Rahul Mehta,closed
+INV00156,C0272,27-Aug-2022,crypto,Diversified,Very High,797300,24.17,48.29,385016.17,63.69,24,HYDERABAD,Vikram Singh,closed
+INV01445,C0290,03-Dec-2025,crypto,Diversified,Very High,61000,27.83,42.3,237017.88,61.2,18,CHENNAI,Karthik S,closed
+INV00077,C0127,13-Feb-2022,mutual fund,Technology,Medium,13500,8.93,3.47,468.45,14.95,36,MUMBAI,Priya Nair,active
+INV00346,C0234,26-May-2025,bond,Diversified,Low,228000,8.03,450.5,10989.6,4.39,12,HYDERABAD,Sneha Iyer,closed
+INV01034,C0074,02-Nov-2023,etf,Healthcare,Medium,711900,11.96,17.92,127572.48,13.94,24,KOLKATA,Sneha Iyer,active
+INV00076,C0384,10-Jan-2024,real estate,Diversified,Medium,26800,12.8,7.38,1977.84,10.06,6,DELHI,Priya Nair,matured
+INV00619,C0202,29-Oct-2025,etf,Healthcare,Medium,11000,12.65,450.5,2462.9,13.99,24,CHENNAI,Divya Raj,matured
+INV00320,C0107,17-Apr-2024,bond,Diversified,Low,153900,7.2,8.13,12512.07,5.28,12,PUNE,Karthik S,matured
+INV01518,C0429,24-Mar-2024,etf,FMCG,Medium,217300,12.38,4.5,9778.5,16.31,24,DELHI,Priya Nair,closed
+INV00864,C0379,24-Jan-2024,crypto,Diversified,Very High,30200,24.76,450.5,2820.68,67.42,36,DELHI,Divya Raj,matured
+INV00232,C0067,06-Jun-2023,bond,Diversified,Low,68400,7.1,6.28,4295.52,0.51,24,PUNE,Arun Kumar,active
+INV00063,C0197,10-Oct-2023,fixed deposit,Diversified,Low,98900,7.28,7.03,6952.67,0.5,24,MUMBAI,Priya Nair,matured
+INV00024,C0174,13-Feb-2021,mutual fund,Telecom,Medium,61900,9.03,20.19,12497.61,14.51,36,MUMBAI,Vikram Singh,active
+INV00566,C0069,23-Oct-2024,fixed deposit,Diversified,Low,144000,8.78,8.58,12355.2,0.51,48,DELHI,Sneha Iyer,closed
+INV01153,C0390,16-Dec-2025,bond,Diversified,Low,76000,7.56,7.61,14748.18,4.81,48,DELHI,Karthik S,matured
+INV00168,C0387,19-Jun-2024,mutual fund,Technology,Medium,7600,12.86,16.25,237017.88,12.04,48,CHENNAI,Rahul Mehta,closed
+INV01317,C0241,03-Mar-2025,fixed deposit,Diversified,Low,68300,6.51,6.66,4548.78,0.44,12,KOLKATA,Vikram Singh,matured
+INV01351,C0288,23-May-2025,crypto,Diversified,Very High,711500,7.2,36.29,237017.88,61.09,36,MUMBAI,Arun Kumar,matured
+INV01556,C0277,10-Feb-2021,mutual fund,Technology,Medium,182300,9.76,20.67,37681.41,13.1,60,BENGALURU,Arun Kumar,matured
+INV01235,C0273,14-Aug-2021,bond,Diversified,Medium,21800,6.9,6.13,1336.34,11.0,48,BENGALURU,Vikram Singh,active
+INV01088,C0278,08-May-2025,crypto,Diversified,Very High,118400,25.17,57.17,67689.28,54.57,12,MUMBAI,Sneha Iyer,matured
+INV00442,C0410,29-Sep-2025,gold,Diversified,Medium,52600,8.58,3.35,1762.1,12.08,6,DELHI,Arun Kumar,closed
+INV00490,C0165,31-Mar-2025,gold,Diversified,Medium,387500,8.47,10.82,41927.5,10.56,60,HYDERABAD,Priya Nair,active
+INV01517,C0271,23-Jun-2025,fixed deposit,Diversified,Low,36200,7.22,7.64,2765.68,0.49,6,HYDERABAD,Sneha Iyer,matured
+INV01277,C0365,02-Jun-2022,bond,Diversified,Low,76400,7.65,7.12,5439.68,5.24,60,PUNE,Karthik S,matured
+INV00672,C0376,25-May-2021,equity,Diversified,High,112900,10.31,8.0,9032.0,23.82,6,MUMBAI,Vikram Singh,active
+INV01210,C0179,01-Apr-2025,crypto,Diversified,Very High,76000,7.2,11.82,75517.98,50.74,24,BENGALURU,Arun Kumar,matured
+INV01443,C0219,14-Aug-2023,crypto,Diversified,Very High,267100,22.77,78.34,209246.14,65.4,24,BENGALURU,Sneha Iyer,active
+INV00228,C0063,16-Feb-2022,bond,Diversified,Low,277200,7.2,6.56,18184.32,4.74,60,MUMBAI,Priya Nair,closed
+INV01022,C0106,23-Dec-2025,bond,Diversified,Low,523100,5.98,6.66,34838.46,4.24,36,HYDERABAD,Karthik S,matured
+INV00777,C0332,02-Feb-2021,bond,Diversified,Low,30600,7.18,6.38,1952.28,5.42,12,KOLKATA,Sneha Iyer,matured
+INV01201,C0060,19-Aug-2022,fixed deposit,Diversified,Low,61800,5.96,6.57,4060.26,0.46,6,CHENNAI,Arun Kumar,closed
+INV01375,C0074,08-Jul-2024,real estate,Diversified,Medium,8700,12.58,14.15,1231.05,10.21,6,KOLKATA,Vikram Singh,active
+INV01084,C0408,27-May-2023,equity,Telecom,High,983900,8.66,12.14,119445.46,23.33,36,BENGALURU,Rahul Mehta,matured
+INV00020,C0186,05-Dec-2025,etf,FMCG,Medium,7100,10.49,18.05,1281.55,15.5,12,CHENNAI,Priya Nair,matured
+INV00996,C0238,31-Oct-2021,gold,Diversified,Medium,22500,6.85,7.4,1665.0,11.85,24,BENGALURU,Arun Kumar,active
+INV00443,C0088,24-Dec-2025,real estate,Diversified,Medium,16900,9.45,3.49,589.81,9.86,24,MUMBAI,Divya Raj,active
+INV00226,C0437,01-Jun-2021,etf,Pharma,Medium,54200,9.72,21.4,11598.8,13.33,12,KOLKATA,Sneha Iyer,active
+INV01112,C0051,31-Aug-2021,mutual fund,Banking,Medium,152700,10.86,0.15,229.05,15.96,18,CHENNAI,Vikram Singh,active
+INV00908,C0251,16-Oct-2023,etf,Energy,Medium,18100,10.17,20.1,3638.1,13.41,48,BENGALURU,Arun Kumar,active
+INV00027,C0414,14-Apr-2023,etf,Energy,Medium,103800,11.15,9.83,10203.54,12.02,6,CHENNAI,Divya Raj,closed
+INV00103,C0137,20-Aug-2025,mutual fund,Healthcare,Medium,93600,11.92,15.52,14526.72,13.17,6,CHENNAI,Priya Nair,closed
+INV00067,C0141,20-Jun-2023,real estate,Diversified,Medium,1226700,11.1,12.68,155545.56,8.86,24,KOLKATA,Rahul Mehta,active
+INV00491,C0450,07-Dec-2022,equity,FMCG,High,62000,14.15,12.77,7917.4,20.66,12,CHENNAI,Sneha Iyer,matured
+INV01474,C0321,10-Feb-2023,bond,Diversified,Low,26000,4.34,1.26,327.6,5.68,60,BENGALURU,Vikram Singh,active
+INV00249,C0188,27-Mar-2025,crypto,Diversified,Very High,289500,26.94,32.14,93045.3,55.65,12,MUMBAI,Vikram Singh,matured
+INV01016,C0126,07-Nov-2021,fixed deposit,Diversified,Low,307400,4.71,450.5,237017.88,0.56,60,PUNE,Vikram Singh,closed
+INV01316,C0073,11-Jun-2021,bond,Diversified,Low,7500,7.39,8.52,639.0,5.27,12,CHENNAI,Arun Kumar,matured
+INV00655,C0153,11-Feb-2022,mutual fund,Infrastructure,Medium,108100,10.78,14.92,16128.52,14.9,6,PUNE,Vikram Singh,active
+INV00365,C0292,20-Dec-2022,gold,Diversified,Medium,105400,8.87,13.29,14007.66,12.06,36,DELHI,Vikram Singh,matured
+INV00117,C0153,19-Aug-2022,real estate,Diversified,Medium,8800,9.81,11.33,237017.88,9.79,36,HYDERABAD,Divya Raj,closed
+INV01056,C0087,21-May-2025,bond,Diversified,Low,285100,4.79,5.17,14739.67,4.81,12,HYDERABAD,Vikram Singh,matured
+INV00594,C0364,03-Mar-2025,fixed deposit,Diversified,Low,78900,6.09,6.07,4789.23,0.43,60,CHENNAI,Vikram Singh,matured
+INV00893,C0130,30-Mar-2021,equity,Banking,High,718900,12.63,13.51,97123.39,18.56,18,KOLKATA,Arun Kumar,active
+INV00805,C0103,03-Jun-2024,etf,Automobile,Medium,27300,7.2,16.08,4389.84,13.62,12,KOLKATA,Sneha Iyer,active
+INV00710,C0382,10-Aug-2025,fixed deposit,Diversified,Medium,451700,7.94,8.16,36858.72,0.54,48,KOLKATA,Rahul Mehta,active
+INV01307,C0219,28-Jan-2025,etf,FMCG,Medium,17800,12.57,26.4,4699.2,0.51,12,CHENNAI,Rahul Mehta,active
+INV00945,C0122,23-Oct-2025,crypto,Diversified,Very High,28400,30.86,23.76,6747.84,58.36,24,BENGALURU,Arun Kumar,closed
+INV01477,C0295,10-May-2022,bond,Diversified,Low,67500,6.6,2.36,1593.0,4.76,60,HYDERABAD,Vikram Singh,matured
+INV01568,C0013,25-Mar-2023,bond,Energy,Medium,76000,7.83,450.5,100045.74,14.93,24,DELHI,Sneha Iyer,matured
+INV01207,C0193,01-May-2021,gold,Diversified,Medium,891500,9.43,0.46,4100.9,13.07,60,DELHI,Priya Nair,matured
+INV00204,C0041,08-Feb-2021,etf,FMCG,Medium,1215300,13.47,13.03,158353.59,15.98,12,PUNE,Priya Nair,matured
+INV01527,C0423,21-Nov-2022,real estate,Diversified,Medium,23400,10.07,999.0,2620.8,10.83,36,HYDERABAD,Vikram Singh,active
+INV00583,C0021,30-Dec-2025,bond,Diversified,Low,61500,7.45,7.95,4889.25,5.25,36,BENGALURU,Arun Kumar,active
+INV00522,C0024,03-Dec-2021,real estate,Diversified,Medium,325500,12.46,10.95,35642.25,10.74,24,MUMBAI,Karthik S,matured
+INV00631,C0238,17-Jul-2024,mutual fund,Healthcare,Medium,606800,10.82,7.76,47087.68,14.01,60,MUMBAI,Divya Raj,closed
+INV01067,C0315,04-Jul-2024,crypto,Diversified,Very High,51700,23.6,29.4,15199.8,62.62,18,PUNE,Divya Raj,active
+INV00348,C0332,12-Aug-2021,mutual fund,Healthcare,Medium,14500,9.31,9.01,1306.45,15.51,48,MUMBAI,Vikram Singh,active
+INV00118,C0177,12-Nov-2022,bond,Diversified,Medium,1138600,7.94,7.51,85508.86,5.43,36,PUNE,Vikram Singh,closed
+INV01552,C0140,06-Nov-2023,fixed deposit,Diversified,Low,47200,7.44,8.09,3818.48,0.54,12,PUNE,Karthik S,closed
+INV01387,C0311,24-Feb-2023,real estate,Diversified,Medium,305700,9.93,9.99,30539.43,10.08,24,MUMBAI,Vikram Singh,closed
+INV00949,C0309,02-Feb-2025,real estate,Diversified,Medium,23800,11.36,8.74,237017.88,8.9,60,HYDERABAD,Divya Raj,closed
+INV00181,C0322,10-Oct-2022,etf,Healthcare,Medium,366100,12.38,450.5,58246.51,13.31,24,CHENNAI,Sneha Iyer,closed
+INV01455,C0337,19-Aug-2022,bond,Diversified,Low,70900,6.77,5.1,3615.9,0.51,12,HYDERABAD,Divya Raj,matured
+INV00698,C0146,16-Feb-2022,equity,Telecom,High,77000,12.54,0.77,592.9,23.37,18,CHENNAI,Sneha Iyer,matured
+INV01246,C0375,07-Oct-2021,equity,Pharma,High,638500,11.78,10.11,64552.35,20.99,24,HYDERABAD,Divya Raj,matured
+INV01446,C0237,12-Jul-2025,bond,Diversified,Low,635000,5.87,6.92,43942.0,4.17,60,PUNE,Vikram Singh,closed
+INV01343,C0375,10-Aug-2021,etf,Automobile,Medium,76000,7.2,21.39,3657.69,14.61,60,BENGALURU,Priya Nair,closed
+INV00663,C0307,29-Oct-2025,etf,Metals,Medium,146800,12.2,7.14,10481.52,15.77,12,CHENNAI,Vikram Singh,active
+INV00387,C0305,26-May-2021,mutual fund,Metals,Medium,82500,11.47,5.46,4504.5,13.55,6,DELHI,Rahul Mehta,active
+INV00257,C0377,29-Jan-2025,fixed deposit,Diversified,Low,1472800,6.16,6.37,93817.36,0.59,6,BENGALURU,Priya Nair,matured
+INV01559,C0170,27-Apr-2023,real estate,Diversified,Medium,75500,12.36,15.49,11694.95,9.04,12,HYDERABAD,Divya Raj,active
+INV00211,C0280,25-Nov-2022,crypto,Diversified,Very High,32200,18.65,13.18,4243.96,69.18,60,KOLKATA,Priya Nair,matured
+INV00190,C0044,27-Sep-2022,fixed deposit,Diversified,Low,59800,5.77,5.66,3384.68,0.41,36,BENGALURU,Divya Raj,closed
+INV00155,C0034,16-Sep-2021,mutual fund,FMCG,Medium,302100,8.95,8.15,24621.15,14.3,36,KOLKATA,Vikram Singh,matured
+INV00088,C0209,28-Sep-2023,gold,Diversified,Medium,21000,7.93,3.78,793.8,8.11,36,PUNE,Priya Nair,matured
+INV00287,C0196,08-Jul-2023,fixed deposit,Diversified,Low,398200,6.24,6.3,25086.6,0.53,60,BENGALURU,Sneha Iyer,active
+INV01071,C0382,14-May-2021,bond,Diversified,Low,76000,7.65,11.33,3365.01,4.41,12,DELHI,Vikram Singh,active
+INV00671,C0328,05-May-2021,etf,Infrastructure,Medium,26700,8.35,3.02,806.34,0.51,36,BENGALURU,Sneha Iyer,matured
+INV01039,C0179,19-May-2021,etf,Technology,Medium,7200,11.64,10.15,730.8,15.38,24,BENGALURU,Vikram Singh,closed
+INV00172,C0062,16-Jan-2021,bond,Diversified,Low,88900,5.62,7.4,6578.6,4.71,24,KOLKATA,Sneha Iyer,active
+INV01042,C0203,19-Aug-2022,fixed deposit,Diversified,Low,416400,6.43,450.5,27690.6,0.49,36,CHENNAI,Divya Raj,closed
+INV00128,C0446,23-Feb-2023,bond,Diversified,Low,33900,5.92,4.88,237017.88,0.51,36,KOLKATA,Priya Nair,closed
+INV01303,C0044,30-Mar-2021,mutual fund,Telecom,Medium,380800,11.99,15.51,59062.08,12.03,12,MUMBAI,Sneha Iyer,matured
+INV01507,C0323,24-Dec-2021,real estate,Diversified,Medium,727200,11.57,9.35,67993.2,9.1,12,PUNE,Vikram Singh,matured
+INV00598,C0296,07-Dec-2022,etf,Automobile,Medium,158900,11.19,16.14,25646.46,14.76,48,MUMBAI,Karthik S,matured
+INV01152,C0308,27-Oct-2022,bond,Diversified,Low,155900,5.95,9.58,14935.22,3.54,48,KOLKATA,Sneha Iyer,matured
+INV00072,C0224,22-Sep-2023,gold,Diversified,Medium,819400,8.78,13.19,237017.88,11.62,6,BENGALURU,Rahul Mehta,matured
+INV00444,C0315,16-Sep-2023,mutual fund,Diversified,Medium,298500,10.9,450.5,61908.9,16.14,24,KOLKATA,Priya Nair,matured
+INV00237,C0214,19-Jun-2024,real estate,Diversified,Medium,102500,7.56,8.79,9009.75,11.7,48,CHENNAI,Sneha Iyer,matured
+INV00430,C0020,04-Jul-2021,etf,Technology,Medium,77600,11.84,2.52,1955.52,13.34,12,HYDERABAD,Priya Nair,active
+INV01503,C0338,29-May-2022,equity,Telecom,High,96200,13.24,450.5,19884.54,22.58,6,CHENNAI,Rahul Mehta,matured
+INV01030,C0127,04-Aug-2021,bond,Diversified,Low,559800,7.69,7.98,44672.04,4.02,18,HYDERABAD,Vikram Singh,active
+INV01255,C0250,15-Jan-2021,bond,Diversified,Low,361900,5.71,6.32,22872.08,5.41,12,PUNE,Divya Raj,closed
+INV00838,C0176,27-Mar-2022,etf,FMCG,Medium,385600,11.9,9.88,237017.88,15.82,36,BENGALURU,Vikram Singh,matured
+INV01496,C0438,02-Jun-2024,real estate,Diversified,Medium,16500,8.37,5.36,884.4,10.42,24,BENGALURU,Arun Kumar,closed
+INV00253,C0345,19-Aug-2022,etf,Diversified,Medium,9700,11.81,5.25,509.25,15.28,36,BENGALURU,Karthik S,matured
+INV01168,C0157,18-Jul-2023,bond,Diversified,Low,98000,5.89,450.5,5899.6,5.02,18,BENGALURU,Vikram Singh,matured
+INV01340,C0449,29-Oct-2024,fixed deposit,Diversified,Low,862800,7.51,7.48,64537.44,0.47,24,HYDERABAD,Divya Raj,active
+INV01372,C0279,11-Jun-2021,bond,Diversified,Low,12200,5.01,450.5,479.46,5.81,36,BENGALURU,Vikram Singh,matured
+INV00498,C0052,18-Sep-2024,equity,Metals,High,102100,16.6,450.5,18908.92,20.76,18,HYDERABAD,Vikram Singh,matured
+INV00189,C0340,17-Oct-2021,bond,Diversified,Low,170400,7.67,2.78,4737.12,4.8,18,DELHI,Divya Raj,matured
+INV00640,C0247,11-Jan-2024,fixed deposit,Diversified,Low,150900,6.17,6.03,9099.27,0.49,12,PUNE,Arun Kumar,closed
+INV00720,C0151,09-Jun-2024,real estate,Diversified,Medium,766500,10.48,13.63,104473.95,11.28,6,KOLKATA,Vikram Singh,active
+INV00105,C0021,27-Dec-2025,etf,Automobile,Medium,680400,12.36,22.95,156151.8,16.22,48,DELHI,Vikram Singh,closed
+INV00925,C0153,20-Mar-2024,gold,Diversified,Medium,86500,7.79,5.3,4584.5,10.14,24,PUNE,Priya Nair,matured
+INV01296,C0043,03-Jul-2022,equity,Healthcare,High,42400,12.97,11.58,4909.92,17.17,48,HYDERABAD,Arun Kumar,active
+INV01086,C0065,29-Jul-2024,mutual fund,Metals,Medium,112800,10.22,450.5,6395.76,12.77,18,DELHI,Sneha Iyer,closed
+INV00804,C0171,04-May-2021,real estate,Diversified,Medium,9800,9.11,17.43,1708.14,0.51,18,PUNE,Rahul Mehta,active
+INV01332,C0257,24-Nov-2023,bond,Diversified,Low,79700,7.23,7.29,237017.88,3.97,48,HYDERABAD,Divya Raj,matured
+INV01272,C0058,18-Jul-2021,etf,Technology,Medium,233600,11.16,0.58,1354.88,13.1,48,HYDERABAD,Karthik S,active
+INV00718,C0424,03-Dec-2025,equity,Technology,High,26300,7.2,17.53,4610.39,22.05,12,HYDERABAD,Vikram Singh,closed
+INV00035,C0245,27-Oct-2023,crypto,Diversified,Very High,6500,23.71,19.26,1251.9,55.19,60,HYDERABAD,Priya Nair,active
+INV01283,C0152,21-Dec-2024,real estate,Diversified,Medium,145200,7.2,12.08,237017.88,9.54,18,HYDERABAD,Arun Kumar,active
+INV00714,C0017,17-Apr-2023,bond,Diversified,Low,39700,5.07,5.2,2064.4,5.08,60,CHENNAI,Rahul Mehta,closed
+INV00750,C0140,12-Nov-2021,etf,Energy,Medium,14000,8.8,15.58,2181.2,14.72,18,BENGALURU,Divya Raj,matured
+INV01145,C0123,14-Feb-2022,gold,Diversified,Medium,76000,8.63,22.13,16177.03,11.88,6,CHENNAI,Vikram Singh,active
+INV01392,C0309,19-Aug-2022,gold,Diversified,Medium,24600,7.2,9.74,2396.04,11.79,36,MUMBAI,Arun Kumar,matured
+INV01063,C0005,09-Oct-2024,equity,Healthcare,High,604300,7.2,20.55,124183.65,23.97,24,HYDERABAD,Vikram Singh,matured
+INV00532,C0217,14-Jul-2025,fixed deposit,Diversified,Low,147700,7.2,7.42,10959.34,0.38,6,HYDERABAD,Arun Kumar,active
+INV00647,C0327,22-Jul-2023,bond,Diversified,Low,44500,7.56,8.34,3711.3,5.05,36,BENGALURU,Rahul Mehta,matured
+INV00538,C0400,29-Oct-2025,real estate,Diversified,Medium,91500,7.2,8.0,7320.0,10.88,60,BENGALURU,Karthik S,active
+INV00227,C0282,16-Jan-2024,crypto,Diversified,Very High,327400,28.51,52.91,173227.34,67.63,18,DELHI,Karthik S,active
+INV00115,C0242,15-May-2022,real estate,Diversified,Medium,717400,11.4,9.16,65713.84,9.49,24,HYDERABAD,Priya Nair,closed
+INV00192,C0393,23-Sep-2023,bond,Diversified,Low,70600,6.29,0.31,218.86,5.41,12,BENGALURU,Priya Nair,active
+INV00171,C0307,23-Apr-2021,real estate,Diversified,Medium,8200,11.45,10.26,841.32,9.95,6,MUMBAI,Rahul Mehta,active
+INV01079,C0175,01-Sep-2025,gold,Diversified,Medium,26800,6.46,12.62,3382.16,12.23,6,PUNE,Rahul Mehta,matured
+INV00931,C0076,08-May-2022,equity,Healthcare,High,72300,13.07,8.78,6347.94,20.77,48,KOLKATA,Karthik S,closed
+INV01045,C0010,04-Sep-2021,gold,Diversified,Medium,1102600,5.92,6.2,68361.2,13.79,48,HYDERABAD,Priya Nair,active
+INV01411,C0217,03-Dec-2021,fixed deposit,Diversified,Low,50100,5.2,5.02,2515.02,0.57,48,DELHI,Karthik S,matured
+INV00093,C0152,11-Apr-2022,real estate,Diversified,Medium,76000,11.33,11.66,4174.28,9.4,18,MUMBAI,Rahul Mehta,active
+INV00154,C0219,06-Nov-2024,equity,Diversified,High,1447300,9.84,10.3,149071.9,26.32,24,KOLKATA,Sneha Iyer,active
+INV01327,C0162,10-Jul-2021,equity,FMCG,High,76000,13.02,26.43,170658.51,19.69,6,DELHI,Karthik S,closed
+INV00271,C0279,10-Dec-2023,real estate,Diversified,Medium,1589100,7.2,17.61,279840.51,9.56,24,BENGALURU,Karthik S,matured
+INV00273,C0405,28-Aug-2022,bond,Diversified,Low,13400,6.76,6.98,935.32,5.44,36,KOLKATA,Karthik S,matured
+INV00152,C0244,19-Aug-2022,fixed deposit,Diversified,Low,33600,7.31,7.07,2375.52,0.51,60,DELHI,Vikram Singh,matured
+INV00173,C0118,22-Oct-2023,bond,Diversified,Low,566300,6.99,7.21,40830.23,4.51,36,PUNE,Divya Raj,closed
+INV01236,C0171,13-May-2025,crypto,Diversified,Very High,24100,26.15,64.59,15566.19,56.85,18,MUMBAI,Karthik S,active
+INV00015,C0406,25-Oct-2024,mutual fund,Automobile,Medium,61400,9.83,0.21,128.94,13.58,36,CHENNAI,Sneha Iyer,closed
+INV00867,C0431,28-Mar-2022,real estate,Diversified,Medium,10000,12.98,4.06,406.0,9.51,24,DELHI,Arun Kumar,closed
+INV00917,C0380,10-Apr-2024,bond,Diversified,Low,237200,6.88,11.18,26518.96,4.9,6,PUNE,Divya Raj,closed
+INV00406,C0337,10-Feb-2023,equity,FMCG,High,150400,14.25,17.11,25733.44,20.52,6,BENGALURU,Vikram Singh,active
+INV01572,C0307,13-Apr-2023,equity,Technology,High,322200,12.64,12.22,39372.84,22.18,18,KOLKATA,Priya Nair,matured
+INV01543,C0322,17-Jan-2021,gold,Diversified,Medium,15500,7.2,13.29,237017.88,11.12,12,MUMBAI,Vikram Singh,closed
+INV01345,C0280,15-Nov-2021,mutual fund,Pharma,Medium,105500,8.27,4.21,4441.55,10.03,12,KOLKATA,Priya Nair,closed
+INV00199,C0265,10-Oct-2025,crypto,Diversified,Very High,32800,28.89,21.21,6956.88,56.94,6,DELHI,Arun Kumar,active
+INV01156,C0031,09-Oct-2021,fixed deposit,Diversified,Low,91500,5.44,5.48,5014.2,0.48,18,BENGALURU,Rahul Mehta,active
+INV00044,C0395,25-Sep-2021,bond,Diversified,Medium,6000,10.17,10.46,237017.88,8.45,48,DELHI,Priya Nair,matured
+INV01339,C0140,27-Sep-2025,fixed deposit,Diversified,Low,52000,6.72,6.58,3421.6,0.47,36,DELHI,Rahul Mehta,active
+INV00122,C0234,01-Feb-2021,etf,Healthcare,Medium,28100,11.66,8.44,2371.64,16.04,24,PUNE,Divya Raj,active
+INV00764,C0037,11-Jun-2025,mutual fund,FMCG,Medium,289000,7.2,20.17,58291.3,16.43,36,BENGALURU,Sneha Iyer,matured
+INV00573,C0092,05-Mar-2024,bond,Diversified,Low,52300,6.82,8.63,4513.49,5.1,36,KOLKATA,Vikram Singh,active
+INV00187,C0199,18-Apr-2023,crypto,Diversified,Very High,379500,26.48,34.81,132103.95,57.47,60,DELHI,Divya Raj,matured
+INV00899,C0390,06-Oct-2022,gold,Diversified,Medium,75600,8.4,15.82,11959.92,13.72,6,BENGALURU,Arun Kumar,matured
+INV00993,C0445,09-Sep-2024,etf,Telecom,Medium,1291800,13.09,16.82,237017.88,13.73,48,BENGALURU,Rahul Mehta,matured
+INV00975,C0349,25-Oct-2024,mutual fund,Banking,Medium,156500,9.71,10.35,16197.75,13.91,24,DELHI,Vikram Singh,active
+INV01010,C0448,22-Nov-2023,bond,Diversified,Medium,72700,11.74,11.9,8651.3,9.49,36,KOLKATA,Arun Kumar,matured
+INV00484,C0061,22-Aug-2023,real estate,Diversified,Medium,106400,11.04,19.81,21077.84,10.31,24,PUNE,Divya Raj,matured
+INV00711,C0014,11-Apr-2025,gold,Diversified,Medium,18300,8.53,12.57,2300.31,0.51,36,HYDERABAD,Rahul Mehta,matured
+INV01551,C0361,20-Sep-2021,mutual fund,Pharma,Medium,324200,7.2,9.97,32322.74,14.88,60,PUNE,Karthik S,closed
+INV00008,C0326,05-Sep-2025,mutual fund,Infrastructure,Medium,439000,9.66,0.38,1668.2,14.09,12,DELHI,Rahul Mehta,active
+INV00863,C0063,21-Feb-2021,etf,Automobile,Medium,56700,8.82,2.94,1666.98,14.7,24,PUNE,Priya Nair,matured
+INV00694,C0120,13-Feb-2022,etf,Infrastructure,Medium,15200,10.26,14.77,2245.04,15.0,24,PUNE,Divya Raj,active
+INV00055,C0413,08-Jan-2024,equity,Energy,High,300800,14.09,23.82,71650.56,20.19,18,BENGALURU,Arun Kumar,matured
+INV00923,C0140,28-Sep-2024,crypto,Diversified,Very High,1102800,24.87,450.5,95612.76,62.73,24,MUMBAI,Vikram Singh,closed
+INV00603,C0436,07-Sep-2024,etf,Metals,Medium,610700,11.44,1.02,6229.14,15.76,18,MUMBAI,Arun Kumar,matured
+INV00043,C0129,29-Sep-2025,gold,Diversified,Medium,110500,6.81,7.37,8143.85,11.32,6,CHENNAI,Divya Raj,closed
+INV00195,C0187,17-Oct-2024,bond,Diversified,Low,643700,7.12,7.68,49436.16,6.14,48,MUMBAI,Sneha Iyer,matured
+INV01333,C0174,19-Aug-2022,crypto,Diversified,Very High,1385400,17.21,64.93,899540.22,58.08,18,HYDERABAD,Vikram Singh,closed
+INV00768,C0050,11-Aug-2025,mutual fund,Pharma,Medium,925400,8.5,10.18,94205.72,13.46,12,DELHI,Sneha Iyer,active
+INV01120,C0338,05-Sep-2025,real estate,Diversified,Medium,11000,7.49,2.37,260.7,10.46,18,DELHI,Priya Nair,closed
+INV00131,C0102,27-Feb-2023,real estate,Diversified,Medium,1445300,9.52,2.6,37577.8,10.49,60,BENGALURU,Arun Kumar,active
+INV01270,C0025,08-Jan-2022,fixed deposit,Diversified,Low,69000,4.79,5.03,3470.7,0.53,6,CHENNAI,Arun Kumar,matured
+INV00496,C0335,09-Sep-2025,equity,Technology,High,12600,13.68,2.94,370.44,18.88,6,KOLKATA,Arun Kumar,closed
+INV00734,C0420,19-May-2021,crypto,Diversified,Very High,374400,7.2,20.07,75142.08,70.83,60,BENGALURU,Karthik S,matured
+INV00826,C0211,05-May-2022,bond,Diversified,Low,112300,7.2,10.75,237017.88,4.88,12,HYDERABAD,Divya Raj,active
+INV01020,C0366,25-Jun-2025,bond,Diversified,Low,15800,6.7,5.83,921.14,4.4,48,HYDERABAD,Rahul Mehta,closed
+INV00644,C0367,18-Feb-2025,fixed deposit,Diversified,Low,424900,8.8,8.95,38028.55,0.44,48,BENGALURU,Vikram Singh,matured
+INV00375,C0220,19-Feb-2022,etf,Healthcare,Medium,15900,12.05,22.9,237017.88,13.29,48,DELHI,Priya Nair,closed
+INV01271,C0144,27-May-2024,crypto,Diversified,Very High,66400,21.27,5.5,3652.0,62.52,6,BENGALURU,Priya Nair,closed
+INV00622,C0108,09-May-2023,crypto,Diversified,Very High,54900,18.44,37.94,20829.06,67.83,48,PUNE,Rahul Mehta,closed
+INV01589,C0168,12-Sep-2022,etf,Metals,Medium,632400,9.36,0.27,1707.48,0.51,24,CHENNAI,Priya Nair,matured
+INV01324,C0056,02-Aug-2021,crypto,Diversified,Very High,397400,29.84,1.92,7630.08,57.62,6,DELHI,Vikram Singh,matured
+INV01459,C0182,13-Oct-2021,equity,Pharma,High,642600,13.79,13.98,89835.48,23.42,48,BENGALURU,Rahul Mehta,active
+INV00916,C0146,19-Oct-2022,fixed deposit,Diversified,Low,341600,6.5,6.15,21008.4,0.51,6,CHENNAI,Vikram Singh,active
+INV01512,C0168,28-May-2024,fixed deposit,Diversified,Medium,74300,5.9,5.71,4242.53,0.54,60,DELHI,Rahul Mehta,closed
+INV01386,C0370,27-Sep-2023,real estate,Diversified,Medium,69700,10.64,8.13,5666.61,10.53,24,BENGALURU,Sneha Iyer,matured
+INV00848,C0239,21-Jun-2024,equity,Technology,High,24600,9.73,6.41,1576.86,0.51,18,DELHI,Priya Nair,matured
+INV01563,C0381,28-Aug-2025,mutual fund,Metals,Medium,310100,8.81,0.34,1054.34,12.67,36,MUMBAI,Arun Kumar,matured
+INV01166,C0420,14-Jun-2025,fixed deposit,Diversified,Low,680200,8.77,8.76,59585.52,0.54,24,CHENNAI,Karthik S,closed
+INV00660,C0286,03-Jun-2025,bond,Diversified,Low,832700,7.42,450.5,69613.72,4.61,48,PUNE,Rahul Mehta,closed
+INV01417,C0057,26-Mar-2022,mutual fund,Banking,Medium,12500,10.74,18.22,2277.5,13.92,6,CHENNAI,Vikram Singh,closed
+INV00169,C0213,14-Jul-2022,fixed deposit,Diversified,Low,1207100,6.14,5.96,71943.16,0.48,12,PUNE,Vikram Singh,matured
+INV00075,C0173,08-Apr-2025,crypto,Diversified,Very High,79100,27.57,15.7,12418.7,50.32,24,DELHI,Karthik S,closed
+INV00363,C0045,19-Jun-2023,real estate,Diversified,Medium,365500,12.7,450.5,41557.35,10.24,60,CHENNAI,Vikram Singh,active
+INV00275,C0128,14-Jan-2021,bond,Diversified,Low,53900,8.74,7.67,4134.13,4.82,18,BENGALURU,Priya Nair,closed
+INV00477,C0365,27-Aug-2024,crypto,Diversified,Very High,86100,24.17,33.14,28533.54,58.34,18,MUMBAI,Priya Nair,matured
+INV00933,C0132,07-Nov-2024,real estate,Diversified,Medium,124600,11.95,450.5,13045.62,8.21,36,MUMBAI,Vikram Singh,active
+INV01159,C0376,10-Nov-2022,real estate,Diversified,Medium,8300,9.82,14.08,1168.64,8.72,18,MUMBAI,Priya Nair,matured
+INV01142,C0092,20-Mar-2022,real estate,Diversified,Medium,52000,11.69,16.06,8351.2,8.22,48,BENGALURU,Divya Raj,matured
+INV00493,C0069,03-Dec-2022,crypto,Diversified,Very High,744000,7.2,3.19,237017.88,62.52,24,DELHI,Vikram Singh,active
+INV01539,C0152,13-Aug-2021,etf,Banking,Medium,71600,7.2,19.42,13904.72,14.54,24,BENGALURU,Sneha Iyer,closed
+INV00274,C0264,03-Nov-2022,bond,Diversified,Low,713500,7.54,10.88,77628.8,4.74,6,BENGALURU,Vikram Singh,active
+INV00202,C0051,15-Sep-2025,bond,Diversified,Very High,47100,30.08,88.71,41782.41,62.48,48,KOLKATA,Rahul Mehta,active
+INV01146,C0140,02-Oct-2024,equity,Banking,High,355100,13.6,1.24,4403.24,23.26,12,CHENNAI,Karthik S,matured
+INV01202,C0066,14-Oct-2025,gold,Diversified,Medium,29300,8.0,999.0,843.84,12.94,18,BENGALURU,Vikram Singh,matured
+INV00064,C0113,27-Dec-2021,equity,Metals,High,34500,9.27,18.27,6303.15,21.02,24,CHENNAI,Vikram Singh,active
+INV01043,C0363,20-Feb-2021,real estate,Diversified,Medium,36600,7.85,8.26,3023.16,11.32,36,KOLKATA,Karthik S,matured
+INV00050,C0440,22-Aug-2023,mutual fund,Energy,Medium,736100,8.02,10.21,75155.81,14.73,12,PUNE,Sneha Iyer,closed
+INV00986,C0066,02-Nov-2024,mutual fund,FMCG,Medium,900400,12.62,10.81,97333.24,15.31,60,MUMBAI,Vikram Singh,matured
+INV00106,C0346,09-Sep-2025,equity,Telecom,High,20700,12.04,8.39,1736.73,23.5,36,CHENNAI,Karthik S,matured
+INV01135,C0370,21-Mar-2022,real estate,Diversified,Medium,32500,11.32,13.48,4381.0,9.9,24,BENGALURU,Karthik S,matured
+INV00001,C0140,03-Apr-2022,mutual fund,Healthcare,Medium,13400,7.2,450.5,2039.48,0.51,48,CHENNAI,Divya Raj,matured
+INV01012,C0086,14-Jul-2024,mutual fund,Banking,Medium,11100,8.53,11.68,1296.48,14.08,60,MUMBAI,Rahul Mehta,active
+INV01148,C0203,27-May-2023,gold,Diversified,Medium,115100,7.26,16.93,19486.43,0.51,6,MUMBAI,Priya Nair,active
+INV00796,C0137,02-Jul-2025,fixed deposit,Diversified,Low,93500,6.03,5.75,5376.25,0.49,6,DELHI,Divya Raj,matured
+INV00180,C0322,09-Oct-2023,mutual fund,Pharma,Medium,77600,9.42,450.5,237017.88,15.41,60,HYDERABAD,Karthik S,matured
+INV01124,C0156,10-Jul-2021,crypto,Diversified,Very High,1239000,25.49,10.09,237017.88,59.54,12,CHENNAI,Divya Raj,matured
+INV01390,C0337,01-Feb-2023,crypto,Diversified,Very High,50400,24.08,0.61,237017.88,65.92,24,MUMBAI,Karthik S,closed
+INV01428,C0266,31-Jan-2025,etf,Technology,Medium,21700,8.51,16.65,3613.05,16.74,12,BENGALURU,Karthik S,active
+INV00563,C0344,04-Sep-2024,etf,Energy,Medium,239300,10.23,12.4,29673.2,15.3,6,DELHI,Vikram Singh,matured
+INV01430,C0194,01-Aug-2024,gold,Diversified,Medium,19800,8.22,12.4,2455.2,13.81,6,DELHI,Divya Raj,matured
+INV00740,C0171,18-Dec-2022,gold,Diversified,Medium,507000,7.92,450.5,31079.1,14.52,36,PUNE,Divya Raj,active
+INV00235,C0298,12-Nov-2021,mutual fund,Healthcare,Medium,59600,8.94,450.5,250.32,12.03,48,HYDERABAD,Divya Raj,matured
+INV01027,C0260,27-Dec-2022,equity,Banking,High,214900,12.42,25.3,54369.7,21.45,6,PUNE,Divya Raj,active
+INV01163,C0240,30-Sep-2022,gold,Diversified,Medium,25700,9.84,3.92,1007.44,12.8,12,KOLKATA,Priya Nair,active
+INV00885,C0181,14-Aug-2025,crypto,Diversified,Very High,28400,26.92,450.5,1462.6,66.18,12,CHENNAI,Priya Nair,matured
+INV00417,C0206,02-Feb-2023,gold,Diversified,Medium,39900,8.28,9.96,3974.04,10.13,48,KOLKATA,Divya Raj,active
+INV00654,C0349,02-Oct-2022,mutual fund,Infrastructure,Medium,80500,10.33,12.32,9917.6,13.92,12,KOLKATA,Divya Raj,active
+INV01250,C0195,16-Dec-2021,crypto,Diversified,Very High,10200,25.67,24.87,2536.74,68.57,18,CHENNAI,Rahul Mehta,matured
+INV00215,C0189,14-Jun-2023,crypto,Diversified,Very High,72400,24.03,17.77,12865.48,50.98,24,KOLKATA,Sneha Iyer,closed
+INV01354,C0140,12-Jul-2023,fixed deposit,Diversified,Low,112100,7.2,6.64,7443.44,0.54,60,PUNE,Priya Nair,matured
+INV01092,C0215,05-Nov-2022,crypto,Diversified,Very High,304000,27.7,64.64,196505.6,54.5,12,CHENNAI,Sneha Iyer,active
+INV01044,C0044,30-Jan-2022,real estate,Diversified,Medium,31100,10.32,10.13,3150.43,9.91,36,HYDERABAD,Vikram Singh,active
+INV00730,C0143,23-Jun-2024,equity,Diversified,High,111200,11.52,17.72,19704.64,21.06,60,PUNE,Priya Nair,active
+INV00510,C0314,01-Mar-2021,bond,Diversified,Low,689600,8.0,5.34,36824.64,4.76,60,KOLKATA,Karthik S,matured
+INV01281,C0140,28-Feb-2022,fixed deposit,Diversified,Low,500400,6.17,6.46,32325.84,0.46,12,CHENNAI,Priya Nair,matured
+INV00461,C0142,06-Apr-2023,etf,Healthcare,Medium,637500,12.12,27.51,175376.25,14.27,36,HYDERABAD,Divya Raj,matured
+INV00179,C0075,19-Aug-2022,crypto,Diversified,Very High,41800,22.56,3.37,1408.66,60.28,12,MUMBAI,Vikram Singh,active
+INV01381,C0016,03-Jan-2024,real estate,Diversified,Medium,19800,12.02,14.24,2819.52,11.64,6,HYDERABAD,Vikram Singh,active
+INV01357,C0258,05-Aug-2025,equity,Banking,Medium,149700,7.2,16.82,25179.54,24.32,48,BENGALURU,Divya Raj,closed
+INV00747,C0060,06-Nov-2025,bond,Diversified,Low,393700,6.1,6.38,25118.06,5.34,60,PUNE,Rahul Mehta,matured
+INV00839,C0439,05-Dec-2023,bond,Diversified,Low,51500,7.2,6.6,3399.0,5.16,24,PUNE,Priya Nair,matured
+INV00269,C0429,27-Dec-2021,equity,Technology,High,50900,11.22,13.59,6917.31,21.32,60,BENGALURU,Karthik S,closed
+INV00129,C0131,31-Jul-2023,bond,Diversified,Low,79600,5.76,6.63,5277.48,5.08,18,KOLKATA,Arun Kumar,closed
+INV00506,C0088,05-Nov-2022,equity,Infrastructure,High,63200,11.78,19.77,12494.64,25.33,24,HYDERABAD,Rahul Mehta,matured
+INV01167,C0154,03-May-2024,fixed deposit,Diversified,Low,34000,6.61,6.96,2366.4,0.48,36,BENGALURU,Vikram Singh,matured
+INV01212,C0298,09-Nov-2025,bond,Diversified,Low,338100,7.2,7.93,26811.33,5.21,60,CHENNAI,Karthik S,matured
+INV01172,C0385,19-Jan-2025,fixed deposit,Diversified,Low,137100,5.02,5.16,7074.36,0.52,18,HYDERABAD,Divya Raj,closed
+INV00702,C0081,07-Feb-2021,crypto,Diversified,Very High,993400,29.22,72.64,721605.76,52.86,18,KOLKATA,Rahul Mehta,closed
+INV00079,C0056,31-Mar-2024,mutual fund,Technology,Medium,78200,13.22,1.86,1454.52,14.89,18,HYDERABAD,Divya Raj,closed
+INV00186,C0225,19-Jun-2023,bond,Diversified,Low,8500,6.1,5.07,237017.88,4.76,36,HYDERABAD,Vikram Singh,active
+INV00332,C0154,19-Sep-2023,bond,Diversified,Low,438000,5.84,450.5,22819.8,4.5,60,CHENNAI,Rahul Mehta,closed
+INV01191,C0327,23-Jul-2025,fixed deposit,Diversified,Low,45200,6.5,6.6,2983.2,0.57,18,CHENNAI,Divya Raj,closed
+INV01545,C0449,01-Jul-2021,real estate,Diversified,Medium,39900,11.64,7.96,3176.04,10.84,36,PUNE,Divya Raj,matured
+INV00120,C0362,20-Jul-2025,equity,Automobile,High,336200,11.48,2.09,7026.58,22.71,24,KOLKATA,Karthik S,matured
+INV00439,C0108,27-May-2022,crypto,Diversified,Very High,611400,25.04,2.72,16630.08,52.13,48,CHENNAI,Rahul Mehta,closed
+INV01362,C0413,08-Mar-2021,mutual fund,FMCG,Medium,1103400,7.13,5.35,59031.9,15.84,60,BENGALURU,Priya Nair,active
+INV00470,C0133,14-Mar-2025,crypto,Diversified,Very High,190900,30.63,23.35,44575.15,58.06,60,KOLKATA,Arun Kumar,closed
+INV01578,C0105,03-Jul-2025,bond,Diversified,Low,112300,6.45,450.5,8433.73,4.48,36,KOLKATA,Rahul Mehta,matured
+INV01204,C0005,08-Jan-2024,bond,Diversified,Low,53000,6.1,6.38,237017.88,5.02,60,BENGALURU,Rahul Mehta,active
+INV00508,C0409,08-Dec-2021,etf,Banking,Medium,624400,11.96,4.93,30782.92,0.51,12,BENGALURU,Divya Raj,matured
+INV00197,C0145,13-May-2025,crypto,Diversified,Very High,1061700,28.11,30.07,319253.19,54.86,24,HYDERABAD,Vikram Singh,matured
+INV00877,C0428,27-Jul-2024,real estate,Diversified,Medium,155600,10.27,11.68,18174.08,9.52,24,CHENNAI,Divya Raj,matured
+INV00781,C0296,22-Jan-2023,real estate,Diversified,Medium,763300,12.15,14.71,112281.43,10.42,6,CHENNAI,Vikram Singh,closed
+INV00786,C0243,30-Mar-2024,real estate,Diversified,Medium,66100,11.43,12.12,8011.32,9.63,12,HYDERABAD,Arun Kumar,matured
+INV01094,C0193,25-Feb-2022,etf,Automobile,Medium,351800,11.91,450.5,42638.16,0.51,12,PUNE,Arun Kumar,closed
+INV00409,C0032,10-Jun-2023,fixed deposit,Diversified,Low,29800,6.61,6.62,1972.76,0.49,48,MUMBAI,Priya Nair,closed
+INV00046,C0158,17-Jan-2023,bond,Diversified,Low,363700,8.01,7.27,26440.99,4.61,60,PUNE,Arun Kumar,closed
+INV00549,C0261,02-Jul-2023,equity,Pharma,High,278600,10.09,450.5,22120.84,22.94,6,DELHI,Divya Raj,active
+INV01576,C0281,07-May-2023,etf,Automobile,Medium,67400,5.77,2.03,1368.22,15.32,24,DELHI,Arun Kumar,closed
+INV01230,C0111,02-Oct-2021,bond,Diversified,Low,145600,6.76,6.33,9216.48,0.51,36,HYDERABAD,Priya Nair,matured
+INV00194,C0079,29-Nov-2021,crypto,Diversified,Very High,59900,29.29,450.5,9829.59,62.03,12,PUNE,Vikram Singh,matured
+INV00335,C0309,24-Nov-2024,fixed deposit,Diversified,Low,45000,6.86,7.07,3181.5,0.47,12,BENGALURU,Rahul Mehta,active
+INV01121,C0354,07-Jan-2024,fixed deposit,Diversified,Low,681400,5.62,450.5,34615.12,0.42,18,DELHI,Vikram Singh,active
+INV01180,C0357,06-May-2023,equity,Metals,High,16700,10.54,8.78,1466.26,21.89,24,KOLKATA,Rahul Mehta,matured
+INV00787,C0043,17-Sep-2021,real estate,Diversified,Medium,8900,7.2,2.71,241.19,10.41,36,CHENNAI,Karthik S,closed
+INV01479,C0134,15-Feb-2022,equity,Infrastructure,High,9400,11.0,24.81,2332.14,23.53,60,CHENNAI,Priya Nair,active
+INV01058,C0129,16-Sep-2025,equity,Automobile,High,873300,13.09,20.5,179026.5,19.1,18,PUNE,Divya Raj,active
+INV00058,C0155,12-Apr-2023,fixed deposit,Diversified,Low,60800,5.97,6.07,3690.56,0.5,36,PUNE,Arun Kumar,closed
+INV00605,C0140,11-Apr-2023,real estate,Diversified,Medium,476600,13.66,450.5,58145.2,10.9,24,MUMBAI,Vikram Singh,active
+INV01470,C0380,28-Nov-2021,etf,Automobile,Medium,82500,10.36,17.29,14264.25,15.81,60,HYDERABAD,Karthik S,active
+INV00971,C0254,25-Mar-2021,etf,Pharma,Medium,358000,10.12,4.44,15895.2,15.54,18,KOLKATA,Vikram Singh,closed
+INV01492,C0278,29-Oct-2023,gold,Diversified,Medium,91900,8.65,11.99,11018.81,13.01,6,CHENNAI,Rahul Mehta,closed
+INV01393,C0331,14-May-2023,real estate,Diversified,Medium,29300,10.98,20.33,5956.69,10.31,48,PUNE,Sneha Iyer,closed
+INV01525,C0018,04-Sep-2025,etf,Automobile,Medium,18200,12.33,7.04,1281.28,14.12,6,KOLKATA,Priya Nair,active
+INV01485,C0219,31-Jan-2024,fixed deposit,Diversified,Low,51500,7.97,8.35,4300.25,0.51,12,CHENNAI,Sneha Iyer,active
+INV00738,C0324,17-Oct-2023,bond,Diversified,Low,1119700,7.09,5.86,65614.42,5.44,24,PUNE,Vikram Singh,matured
+INV01524,C0008,08-Dec-2021,gold,Diversified,Medium,73800,8.02,6.33,4671.54,11.28,6,BENGALURU,Rahul Mehta,matured
+INV00868,C0114,20-May-2025,equity,FMCG,High,76000,13.12,0.87,772.56,20.6,12,CHENNAI,Arun Kumar,matured
+INV01491,C0188,19-Aug-2022,gold,Diversified,Medium,1313100,8.39,17.16,237017.88,13.54,24,DELHI,Karthik S,matured
+INV00879,C0186,05-Apr-2024,etf,Pharma,Medium,30000,13.8,15.38,4614.0,16.61,36,BENGALURU,Karthik S,closed
+INV00283,C0229,15-Jul-2025,etf,Technology,Medium,37500,11.48,5.52,2070.0,18.68,24,MUMBAI,Vikram Singh,closed
+INV01290,C0298,13-Jul-2024,gold,Diversified,Medium,217200,9.98,16.04,34838.88,0.51,60,PUNE,Karthik S,closed
+INV00473,C0332,21-Dec-2021,equity,Telecom,High,1511500,12.1,450.5,443776.4,22.59,60,CHENNAI,Priya Nair,closed
+INV00704,C0144,07-Apr-2022,fixed deposit,Diversified,Low,15400,7.42,7.37,1134.98,0.47,12,DELHI,Sneha Iyer,matured
+INV01226,C0132,10-Oct-2025,gold,Diversified,Medium,34400,8.09,7.18,2469.92,12.09,60,CHENNAI,Arun Kumar,active
+INV01359,C0192,29-Dec-2021,mutual fund,Metals,Medium,52900,9.33,6.76,3576.04,14.16,36,MUMBAI,Vikram Singh,closed
+INV00420,C0350,24-May-2023,fixed deposit,Diversified,Low,629500,7.23,7.21,45386.95,0.46,12,DELHI,Priya Nair,active
+INV01239,C0088,14-Oct-2022,bond,Diversified,Medium,37400,12.67,28.63,10707.62,9.84,60,BENGALURU,Priya Nair,closed
+INV00968,C0449,24-Jun-2022,crypto,Diversified,Very High,76000,23.41,32.73,144502.95,56.58,36,PUNE,Karthik S,closed
+INV00635,C0053,15-Jul-2021,mutual fund,Banking,Medium,57500,11.76,10.98,6313.5,14.52,24,HYDERABAD,Arun Kumar,active
+INV00455,C0230,21-Dec-2021,bond,Diversified,Low,38700,6.62,9.32,3606.84,4.51,12,MUMBAI,Karthik S,active
+INV00624,C0439,20-Feb-2023,real estate,Diversified,Medium,86700,10.32,9.36,8115.12,8.89,12,MUMBAI,Karthik S,matured
+INV00464,C0381,27-Jun-2023,mutual fund,Infrastructure,Medium,55100,8.87,3.91,2154.41,14.64,18,KOLKATA,Sneha Iyer,matured
+INV01155,C0316,04-Apr-2025,gold,Diversified,Medium,8300,8.19,9.35,776.05,0.51,6,DELHI,Priya Nair,matured
+INV00307,C0292,03-Sep-2025,gold,Diversified,Medium,207500,7.46,14.03,29112.25,12.23,12,BENGALURU,Vikram Singh,matured
+INV00317,C0029,28-Jul-2024,fixed deposit,Diversified,Medium,576400,6.75,6.68,38503.52,0.51,6,KOLKATA,Priya Nair,active
+INV01009,C0115,24-Sep-2023,mutual fund,FMCG,Medium,54100,7.2,8.48,4587.68,13.46,18,PUNE,Vikram Singh,active
+INV00032,C0110,06-Nov-2025,bond,Diversified,Low,542800,6.18,2.67,14492.76,4.8,24,CHENNAI,Priya Nair,closed
+INV01319,C0329,07-Mar-2021,real estate,Diversified,Medium,18900,10.04,9.6,1814.4,9.39,36,PUNE,Vikram Singh,matured
+INV01002,C0319,16-Aug-2024,fixed deposit,Diversified,Low,716900,8.73,450.5,59717.77,0.53,18,BENGALURU,Divya Raj,closed
+INV00678,C0230,25-Mar-2023,real estate,Diversified,Medium,0,9.39,450.5,47004.16,10.48,6,KOLKATA,Arun Kumar,closed
+INV00824,C0250,15-Jun-2021,fixed deposit,Diversified,Low,30800,6.59,7.3,2248.4,0.55,6,CHENNAI,Priya Nair,active
+INV01521,C0118,12-Mar-2024,gold,Diversified,Medium,1386300,6.72,0.42,5822.46,14.06,60,PUNE,Priya Nair,matured
+INV00133,C0352,13-May-2025,real estate,Diversified,Medium,11700,8.17,7.52,879.84,11.35,48,CHENNAI,Vikram Singh,matured
+INV01269,C0156,14-Aug-2021,equity,FMCG,High,621900,10.39,10.79,67103.01,23.13,18,DELHI,Rahul Mehta,matured
+INV00578,C0115,24-Nov-2023,real estate,Diversified,Medium,786300,10.42,8.91,70059.33,9.98,24,DELHI,Karthik S,closed
+INV01369,C0265,21-Nov-2021,bond,Diversified,Low,752100,6.44,5.69,237017.88,5.12,24,MUMBAI,Arun Kumar,matured
+INV00166,C0380,20-Jul-2024,bond,Diversified,Low,334800,7.03,6.6,22096.8,4.48,6,CHENNAI,Divya Raj,matured
